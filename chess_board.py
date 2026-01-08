@@ -3,15 +3,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+size = 8
+board = np.ones([size, size])
 
-the_ones = np.ones([8, 8])
-the_ones[0:10:2,  1:9:2] = 0
-the_ones[1:9:2, 0:10:2] = 0
-ones_dataframe = pd.DataFrame(the_ones)
-ones_dataframe
+board[0:10:2,  1:9:2] = 0 # creating black squares.
+board[1:9:2, 0:10:2] = 0 # creating black squares on the remaining square.
+
+
+chessboard = pd.DataFrame(board)
+
 
 plt.figure(figsize=(6,6))
-plt.imshow(ones_dataframe, cmap='gray', interpolation='none')
+plt.imshow(chessboard, cmap='gray', interpolation='none')
 plt.xticks([])  # hide x-axis ticks
 plt.yticks([])  # hide y-axis ticks
 plt.show()

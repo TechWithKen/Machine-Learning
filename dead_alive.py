@@ -3,7 +3,7 @@ import numpy as np
 
 
 # loading data
-olympics_athlete = pd.read_parquet("olympicsParquet.parquet")
+olympics_athlete = pd.read_parquet("./Code/complete-pandas-tutorial/olympicsParquet.parquet")
 
 def living_athlete(filename):
     """Function to help get the dataframe of all living athlete"""

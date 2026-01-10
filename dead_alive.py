@@ -22,7 +22,7 @@ def living_athlete(filename):
     )
     living_athlete.loc[birthday_not_reached, "Current Age"] = living_athlete["Current Age"] - 1
 
-    return living_athlete.sort_values(by="Current Age", ascending=True).head(30)
+    return living_athlete.sort_values(by="Current Age", ascending=True)
 
 
 def dead_athlete(filename):
@@ -41,7 +41,7 @@ def dead_athlete(filename):
 
     dead_athlete.loc[birthday_not_reached, "Age of Death"] = dead_athlete["Age of Death"] - 1
 
-    return dead_athlete.sort_values(by="Age of Death", ascending=True).head(30)
+    return dead_athlete.sort_values(by="Age of Death", ascending=True)
 
 
 def athlete_record(sheet1, sheet2):

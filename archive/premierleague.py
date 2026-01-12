@@ -1,15 +1,13 @@
 import pandas as pd
 import numpy as np
 
+# premier_league_result = pd.read_csv("results.csv")
+# premier_league_stat = pd.read_csv("stats.csv")
 
-premier_league_result = pd.read_csv("results.csv")
-premier_league_stat = pd.read_csv("stats.csv")
+# premier_league_result = premier_league_result.loc[premier_league_result["season"].str.contains("2012-2013")]
 
-
-premier_league_result = premier_league_result.loc[premier_league_result["season"].str.contains("2006-2007")]
-
-def create_outcome(team_side, result_map):
-    team = premier_league_result[[team_side, "result"]]
+def create_outcome(team_side, result_map, dataframe):
+    team = dataframe[[team_side, "result"]]
     team["club"] = team[team_side]
     team["outcome"] = team["result"].map(result_map)
     team = team[["club", "outcome"]]
@@ -17,8 +15,8 @@ def create_outcome(team_side, result_map):
     return team
 
 def divide_home_away_team_results():
-    home = create_outcome("home_team", {"D": "Draw", "H": "Win", "A": "Loss"})
-    away = create_outcome("away_team", {"D": "Draw", "H": "Loss", "A": "Win"})
+    home = create_outcome("home_team", {"D": "Draw", "H": "Win", "A": "Loss"}, dataframe=premier_league_result)
+    away = create_outcome("away_team", {"D": "Draw", "H": "Loss", "A": "Win"}, dataframe=premier_league_result)
 
 
     all_results = pd.concat([home, away], ignore_index=True)
@@ -26,8 +24,8 @@ def divide_home_away_team_results():
     return all_results
 
 
-def get_team_goals(team_side, side_goals):
-    team = premier_league_result[[team_side, side_goals]]
+def get_team_goals(team_side, side_goals, dataframe):
+    team = dataframe[[team_side, side_goals]]
     team['club'] = team[team_side]
     team["goals"] = team[side_goals]
     team = team[["club", "goals"]]
@@ -36,8 +34,8 @@ def get_team_goals(team_side, side_goals):
 
 
 def each_team_total_goals():
-    home = get_team_goals("home_team", "home_goals")
-    away = get_team_goals("away_team", "away_goals")
+    home = get_team_goals("home_team", "home_goals", dataframe=premier_league_result)
+    away = get_team_goals("away_team", "away_goals", dataframe=premier_league_result)
 
     all_goals = pd.concat([home, away],ignore_index=True)
     total_goals = all_goals.pivot_table(index="club", values="goals", aggfunc="sum")
@@ -45,9 +43,9 @@ def each_team_total_goals():
     return total_goals
 
 
-def count_goals_conceded(side_1, side_2):
+def count_goals_conceded(side_1, side_2, dataframe):
     
-    team = premier_league_result[[f"{side_1}_team", f"{side_2}_goals"]]
+    team = dataframe[[f"{side_1}_team", f"{side_2}_goals"]]
     team['club'] = team[f"{side_1}_team"]
     team["goals"] = team[f"{side_2}_goals"]
     team = team[["club", "goals"]]
@@ -57,9 +55,9 @@ def count_goals_conceded(side_1, side_2):
 
 def goal_conceded():
 
-    home = count_goals_conceded("home", "away")
+    home = count_goals_conceded("home", "away", dataframe=premier_league_result)
 
-    away = count_goals_conceded("away", "home")
+    away = count_goals_conceded("away", "home", dataframe=premier_league_result)
 
     all_goals = pd.concat([home, away],ignore_index=True)
     against_goals = all_goals.pivot_table(index="club", values="goals", aggfunc="sum")
@@ -90,4 +88,29 @@ def get_premier_league_table(home_away_team, each_team_goals, goal_conceded):
     return league_table
 
 
-print(get_premier_league_table(divide_home_away_team_results(), each_team_total_goals(), goal_conceded()))
+premier_league_results = pd.read_csv("results.csv")
+premier_league_stat = pd.read_csv("stats.csv")
+
+
+years = []
+win_team = []
+winners = {"Year": years, "Winner": win_team}
+
+seasons = premier_league_results["season"].unique().tolist()
+
+for season in seasons:
+    premier_league_result = premier_league_results.loc[premier_league_results["season"].str.contains(season)]
+
+    winning_team = (get_premier_league_table(divide_home_away_team_results(), 
+                    each_team_total_goals(), 
+                    goal_conceded()))
+    years.append(season), win_team.append(winning_team.index[0])
+
+winning_dataframe = pd.DataFrame(winners)
+
+sorting_data_frame = winning_dataframe.pivot_table(index="Winner", values="Year", aggfunc="count")
+
+print(sorting_data_frame.sort_values(by="Year", ascending=False))
+
+
+

@@ -1,11 +1,6 @@
 import pandas as pd
 import numpy as np
 
-# premier_league_result = pd.read_csv("results.csv")
-# premier_league_stat = pd.read_csv("stats.csv")
-
-# premier_league_result = premier_league_result.loc[premier_league_result["season"].str.contains("2012-2013")]
-
 def create_outcome(team_side, result_map, dataframe):
     team = dataframe[[team_side, "result"]]
     team["club"] = team[team_side]
@@ -96,6 +91,7 @@ years = []
 win_team = []
 winners = {"Year": years, "Winner": win_team}
 
+goal_difference = []
 seasons = premier_league_results["season"].unique().tolist()
 
 for season in seasons:
@@ -104,11 +100,12 @@ for season in seasons:
     winning_team = (get_premier_league_table(divide_home_away_team_results(), 
                     each_team_total_goals(), 
                     goal_conceded()))
-    years.append(season), win_team.append(winning_team.index[0])
+    goal_difference.append(winning_team.loc['Manchester United', "GD"].astype("int64"))
+#     years.append(season), win_team.append(winning_team.index[0])
 
-winning_dataframe = pd.DataFrame(winners)
+# winning_dataframe = pd.DataFrame(winners)
 
-print(winning_dataframe)
+# print(winning_dataframe)
 
-
-
+ 
+print(goal_difference)

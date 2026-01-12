@@ -108,9 +108,7 @@ for season in seasons:
 
 winning_dataframe = pd.DataFrame(winners)
 
-sorting_data_frame = winning_dataframe.pivot_table(index="Winner", values="Year", aggfunc="count")
-
-print(sorting_data_frame.sort_values(by="Year", ascending=False))
+print(winning_dataframe)
 
 
 

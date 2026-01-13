@@ -13,8 +13,8 @@ def divide_home_away_team_results():
 
     # for home team H = Win, A = Loss
     # for the away team, H = Loss, A = Win
-    home = create_outcome("home_team", {"D": "D", "H": "W", "A": "L"}, dataframe=premier_league_result)
-    away = create_outcome("away_team", {"D": "D", "H": "L", "A": "W"}, dataframe=premier_league_result)
+    home = create_outcome("home_team", {"H": "W", "A": "L", "D": "D"}, dataframe=premier_league_result)
+    away = create_outcome("away_team", {"A": "W", "H": "L", "D": "D"}, dataframe=premier_league_result)
 
 
     all_results = pd.concat([home, away], ignore_index=True)
@@ -64,69 +64,70 @@ def goal_conceded():
 
 def get_premier_league_table(home_away_team, each_team_goals, goal_conceded):
 
-    home_away_team_results = home_away_team.pivot_table(columns="outcome", index="club", aggfunc="size")
-    played = home_away_team_results.sum(axis=1)
-    home_away_team_results.insert(0, "P", played)
-    home_away_team_results["PTS"] = (home_away_team_results["D"]*1) + (home_away_team_results["W"]*3)  # Win = +3 pts, Draw = +1 pts
+    home_away_team_results = home_away_team.pivot_table(columns="outcome", index="club", aggfunc="size")[["W", "D", "L"]] # Correct table order
 
+    # Merge goals - (Goals Scored and Goals Conceeded)
     league_table = home_away_team_results.merge(each_team_goals, on="club", how="inner").merge(goal_conceded, on="club", how="inner")
-
-
     league_table.rename(columns={"goals_x": "GF", "goals_y": "GA"}, inplace=True) # goals_x = Goals Score, and goals_y = Goals Conceded
     league_table["GD"] = league_table["GF"] - league_table["GA"]
+    league_table["PTS"] = (league_table["D"]*1) + (league_table["W"]*3)  # Win = +3 pts, Draw = +1 pts
     league_table = league_table.sort_values(by="PTS", ascending=False)
+    played = home_away_team_results.sum(axis=1)
+    league_table.insert(0, "P", played)
 
-
-    # Re-arranging the dataframe so it appears like a conventional league table.
-    remove_col = league_table.columns.tolist()
-    remove_col.remove("PTS")
-    remove_col.append("PTS")
-    league_table = league_table[remove_col]
-    league_table
 
     return league_table
 
 
-premier_league_results = pd.read_csv("results.csv")
-premier_league_stat = pd.read_csv("stats.csv")
-
-
-# You can edit the code from here to do other things, The dataframe itself has been well formated to get the league table.
+# You can edit the code from here to do other things, The dataframe itself is well formated to get the league table.
 
 # Example Task - Analyze the goal difference of multiple teams across different seasons.
+premier_league_results = pd.read_csv("results.csv")
 
 
-goal_difference_team1 = []
-goal_difference_team2 = []
+def different_goal_difference(team1, team2):
+    goal_difference_team1 = []
+    goal_difference_team2 = []
+    seasons = premier_league_results["season"].unique().tolist()
 
-seasons = premier_league_results["season"].unique().tolist()
-team1 = "Manchester City"
-team2 = "Chelsea"
+    visualizing_dataset = {"seasons": seasons, "team1": goal_difference_team1, "team2": goal_difference_team2}
 
-for season in seasons:
-    premier_league_result = premier_league_results.loc[premier_league_results["season"].str.contains(season)]
 
-    winning_team = (get_premier_league_table(divide_home_away_team_results(), 
-                    each_team_total_goals(), 
-                    goal_conceded()))
-    print(season)
-    print(winning_team)
-    goal_difference_team1.append(winning_team.loc[team1, "GF"].astype("int64"))
-    goal_difference_team2.append(winning_team.loc[team2, "GF"].astype("int64"))
+    for season in seasons:
+            global premier_league_result
+            premier_league_result = premier_league_results.loc[premier_league_results["season"].str.contains(season)]
+
+            premier_league_table = (get_premier_league_table(divide_home_away_team_results(), 
+                            each_team_total_goals(), 
+                            goal_conceded()))
+            
+            goal_difference_team1.append(premier_league_table.loc[team1, "GF"].astype("int64"))
+            goal_difference_team2.append(premier_league_table.loc[team2, "GF"].astype("int64"))
+
+    return visualizing_dataset
 
 
 # Visualizing a line graph for easy understanding of the analysis
 
-plt.figure(figsize=(12,6))
-plt.plot(seasons, goal_difference_team1, marker='o', linestyle='-', color='red', label=team1)
-plt.plot(seasons, goal_difference_team2, marker='s', linestyle='--', color='blue', label=team2)
+def plot_line_graph(first_team, second_team):
+    
 
-plt.title("Goal Scored per Season")
-plt.xlabel("Season")
-plt.ylabel("Goal Difference (Goal Scored)")
-plt.xticks(rotation=45)  # rotate season labels
-plt.grid(True)
-plt.legend()
-plt.tight_layout()
-plt.show()
+    GD = different_goal_difference(first_team, second_team)
+    plt.figure(figsize=(12,6))
+    plt.plot(GD["seasons"], GD["team1"], marker='o', linestyle='-', color='red', label=first_team)
+    plt.plot(GD["seasons"], GD["team2"], marker='s', linestyle='--', color='blue', label=second_team)
 
+    plt.title("Goal Scored per Season")
+    plt.xlabel("Season")
+    plt.ylabel("Goal Difference (Goal Scored)")
+    plt.xticks(rotation=45)  # rotate season labels
+    plt.grid(True)
+    plt.legend()
+    plt.tight_layout()
+    plt.show()
+
+
+team1 = input("Please Enter the first team: ")
+team2 = input("Please Enter the second team: ")
+
+print(plot_line_graph(team1, team2))

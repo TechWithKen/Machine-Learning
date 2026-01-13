@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 def create_outcome(team_side, result_map, dataframe):
     team = dataframe[[team_side, "result"]]
@@ -21,7 +22,7 @@ def divide_home_away_team_results():
 
 def get_team_goals(team_side, side_goals, dataframe):
     team = dataframe[[team_side, side_goals]]
-    team['club'] = team[team_side]
+    team['club'] = team[team_side] 
     team["goals"] = team[side_goals]
     team = team[["club", "goals"]]
 
@@ -91,8 +92,11 @@ years = []
 win_team = []
 winners = {"Year": years, "Winner": win_team}
 
-goal_difference = []
+goal_difference_team1 = []
+goal_difference_team2 = []
 seasons = premier_league_results["season"].unique().tolist()
+team1 = "Manchester United"
+team2 = "Chelsea"
 
 for season in seasons:
     premier_league_result = premier_league_results.loc[premier_league_results["season"].str.contains(season)]
@@ -100,7 +104,10 @@ for season in seasons:
     winning_team = (get_premier_league_table(divide_home_away_team_results(), 
                     each_team_total_goals(), 
                     goal_conceded()))
-    goal_difference.append(winning_team.loc['Manchester United', "GD"].astype("int64"))
+    print(season)
+    print(winning_team)
+    goal_difference_team1.append(winning_team.loc[team1, "GD"].astype("int64"))
+    goal_difference_team2.append(winning_team.loc[team2, "GD"].astype("int64"))
 #     years.append(season), win_team.append(winning_team.index[0])
 
 # winning_dataframe = pd.DataFrame(winners)
@@ -108,4 +115,21 @@ for season in seasons:
 # print(winning_dataframe)
 
  
-print(goal_difference)
+# print(goal_difference)
+
+
+# Plotting the graph
+
+plt.figure(figsize=(12,6))
+plt.plot(seasons, goal_difference_team1, marker='o', linestyle='-', color='red', label=team1)
+plt.plot(seasons, goal_difference_team2, marker='s', linestyle='--', color='blue', label=team2)
+
+plt.title("Goal Difference per Season")
+plt.xlabel("Season")
+plt.ylabel("Goal Difference (GD)")
+plt.xticks(rotation=45)  # rotate season labels
+plt.grid(True)
+plt.legend()
+plt.tight_layout()
+plt.show()
+

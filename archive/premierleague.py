@@ -127,7 +127,7 @@ def plot_line_graph(first_team, second_team):
     plt.show()
 
 
-team1 = input("Please Enter the first team: ")
-team2 = input("Please Enter the second team: ")
+team1 = input("Please Enter the first team: ").title()
+team2 = input("Please Enter the second team: ").title()
 
 print(plot_line_graph(team1, team2))

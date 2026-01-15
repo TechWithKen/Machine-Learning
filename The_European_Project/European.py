@@ -15,6 +15,7 @@ team_attributes_dataframe = pd.read_sql_query("SELECT * FROM Team_Attributes", d
 sqlite_sequence = pd.read_sql_query("SELECT * FROM sqlite_sequence", database_connection)
 
 
+
 # Filter the data and convert it to an to return just important data for each league table.
 def generate_league_results_from_matches(country):
 

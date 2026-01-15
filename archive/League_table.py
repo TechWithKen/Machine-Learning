@@ -82,7 +82,7 @@ def get_premier_league_table(home_away_team, each_team_goals, goal_conceded):
 # You can edit the code from here to do other things, The dataframe itself is well formated to get the league table.
 
 # Example Task - Analyze the goal difference of multiple teams across different seasons.
-premier_league_results = pd.read_csv("./2    France Ligue 1_csv")
+premier_league_results = pd.read_csv("./Laliga_results_csv")
 
 
 def different_goal_difference(team1, team2):
@@ -109,27 +109,37 @@ def different_goal_difference(team1, team2):
     return visualizing_dataset
 
 
+seasons = premier_league_results["season"].unique().tolist()
+for season in seasons:
+        global premier_league_result
+        premier_league_result = premier_league_results.loc[premier_league_results["season"].str.contains(season)]
+
+        premier_league_table = (get_premier_league_table(divide_home_away_team_results(), 
+                        each_team_total_goals(), 
+                        goal_conceded()))
+        print(season)
+        print(premier_league_table)
 # Visualizing a line graph for easy understanding of the analysis
 
-def plot_line_graph(first_team, second_team):
+# def plot_line_graph(first_team, second_team):
     
 
-    GD = different_goal_difference(first_team, second_team)
-    plt.figure(figsize=(12,6))
-    plt.plot(GD["seasons"], GD["team1"], marker='o', linestyle='-', color='red', label=first_team)
-    plt.plot(GD["seasons"], GD["team2"], marker='s', linestyle='--', color='blue', label=second_team)
+#     GD = different_goal_difference(first_team, second_team)
+#     plt.figure(figsize=(12,6))
+#     plt.plot(GD["seasons"], GD["team1"], marker='o', linestyle='-', color='red', label=first_team)
+#     plt.plot(GD["seasons"], GD["team2"], marker='s', linestyle='--', color='blue', label=second_team)
 
-    plt.title("Goal Scored per Season")
-    plt.xlabel("Season")
-    plt.ylabel("Goal Difference (Goal Scored)")
-    plt.xticks(rotation=45)  # rotate season labels
-    plt.grid(True)
-    plt.legend()
-    plt.tight_layout()
-    plt.show()
+#     plt.title("Goal Scored per Season")
+#     plt.xlabel("Season")
+#     plt.ylabel("Goal Difference (Goal Scored)")
+#     plt.xticks(rotation=45)  # rotate season labels
+#     plt.grid(True)
+#     plt.legend()
+#     plt.tight_layout()
+#     plt.show()
 
 
-team1 = input("Please Enter the first team: ")
-team2 = input("Please Enter the second team: ")
+# team1 = input("Please Enter the first team: ").title()
+# team2 = input("Please Enter the second team: ").title()
 
-print(plot_line_graph(team1, team2))
+# print(plot_line_graph(team1, team2))

@@ -86,8 +86,8 @@ def extract_goals_from_xml(goal_xml):
         team_id = value.find("team").text if value.find("team") is not None else None
         
         goal_events.append({
-            "scorer": scorer,
-            "team_id": team_id, 
+            "player_api_id": int(scorer),
+            "team_api_id": team_id, 
             # "assister": assister,
         })
         
@@ -114,36 +114,17 @@ def get_scorer_from_series():
     return goals_flat
 
 
+def goal_derivation():
+
+    player_team = get_scorer_from_series().groupby(["scorer", "team_id"]).size().reset_index(name="goals")
+    player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
 
 
-player_team = get_scorer_from_series().groupby(["scorer", "team_id"])["scorer"].count().reset_index(name="goals")
+    goal_scoring_players = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
+    goal_scoring_players["team_api_id"] = goal_scoring_players["team_api_id"].astype("int64")
 
 
-player_team.rename(columns={"scorer": "player_api_id"}, inplace=True)
-player_team.sort_values(by="goals", ascending=False)
-
-player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
-
-goal_scoring_players = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
-goal_scoring_players.rename(columns={"team_id": "team_api_id"}, inplace=True)
-goal_scoring_players["team_api_id"] = goal_scoring_players["team_api_id"].astype("int64")
-
-player_team = pd.merge(goal_scoring_players, team_dataframe, on="team_api_id", how="left")
-player_team = player_team[["player_name", "team_long_name", "goals"]]
-
-player_team.sort_values(by="goals", ascending=False).head(30)
-
-# matches_with_goals = matches_with_goals[["season", "match_api_id","Goal Information"]]
-# matches_with_goals = matches_with_goals["Goal Information"].explode()
-# matches_with_goals
-
-#matches_with_goals.pivot_table(columns="season", index=f"Goal Information{['scorer']}", values="match_api_id")
-# dataframing.rename(columns={"scorer":"id_x"}, inplace=True)
-# dataframing["id_x"] = dataframing["id_x"].astype("int64")
-# dataframing.rename(columns={"id_x":"player_api_id"}, inplace=True)
-
-# dataframing = dataframing[["player_api_id", "assister", "team_id"]]
-# dataframing["Goal Scorer"] = dataframing["player_api_id"]
-# dataframing
-#dataframing.pivot_table(index="player_api_id", aggfunc="count")
+    player_team = pd.merge(goal_scoring_players, team_dataframe, on="team_api_id", how="left")
+    player_team = player_team[["player_name", "team_long_name", "goals"]]
+    player_team.sort_values(by="goals", ascending=False).head(30)
 

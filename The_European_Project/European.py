@@ -68,7 +68,7 @@ def generate_league_csv_data():
 
 
 
-def extract_goals(goal_xml):
+def extract_goals_from_xml(goal_xml):
     """
     Parse the <goal> XML string and return a list of goal events.
     Handles matches with no goals (goal_xml=None).
@@ -90,27 +90,33 @@ def extract_goals(goal_xml):
             "team_id": team_id, 
             # "assister": assister,
         })
-            
         
     return goal_events
 
 
 
-matches_with_goals = match_dataframe.dropna(subset=["goal"])
-matches_with_goals["Goal Information"] = match_dataframe["goal"].apply(extract_goals)
-matches_with_goals = matches_with_goals.explode("Goal Information")
-matches_with_goals
-goals_flat = pd.concat(
-    [
-        matches_with_goals.drop(columns=["Goal Information"]),
-        matches_with_goals["Goal Information"].apply(pd.Series),
-    ],
-    axis=1
-)
-goals_flat
+def get_scorer_from_series():
 
 
-player_team = goals_flat.groupby(["scorer", "team_id"])["scorer"].count().reset_index(name="goals")
+    matches_with_goals = match_dataframe.dropna(subset=["goal"])
+    matches_with_goals["Goal Information"] = match_dataframe["goal"].apply(extract_goals_from_xml)
+    matches_with_goals = matches_with_goals.explode("Goal Information")
+
+
+    goals_flat = pd.concat(
+        [
+            matches_with_goals.drop(columns=["Goal Information"]),
+            matches_with_goals["Goal Information"].apply(pd.Series),
+        ],
+        axis=1
+    )
+
+    return goals_flat
+
+
+
+
+player_team = get_scorer_from_series().groupby(["scorer", "team_id"])["scorer"].count().reset_index(name="goals")
 
 
 player_team.rename(columns={"scorer": "player_api_id"}, inplace=True)

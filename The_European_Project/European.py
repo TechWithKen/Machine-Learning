@@ -86,7 +86,7 @@ def extract_goals_from_xml(goal_xml):
         team_id = value.find("team").text if value.find("team") is not None else None
         
         goal_events.append({
-            "player_api_id": int(scorer),
+            "player_api_id": scorer,
             "team_api_id": team_id, 
             # "assister": assister,
         })
@@ -116,15 +116,28 @@ def get_scorer_from_series():
 
 def goal_derivation():
 
-    player_team = get_scorer_from_series().groupby(["scorer", "team_id"]).size().reset_index(name="goals")
+    player_team = get_scorer_from_series().groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
     player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
 
 
-    goal_scoring_players = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
-    goal_scoring_players["team_api_id"] = goal_scoring_players["team_api_id"].astype("int64")
+    player_team = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
+    player_team["team_api_id"] = player_team["team_api_id"].astype("int64")
 
 
-    player_team = pd.merge(goal_scoring_players, team_dataframe, on="team_api_id", how="left")
-    player_team = player_team[["player_name", "team_long_name", "goals"]]
-    player_team.sort_values(by="goals", ascending=False).head(30)
+    player_team = pd.merge(player_team, team_dataframe, on="team_api_id", how="left")
+    player_team = player_team[["player_name", "team_long_name", "goals"]].sort_values(by="goals", ascending=False).head(30)
 
+
+    return player_team
+
+
+def top_ten_in_league():
+    leagues = league_dataframe[["name"]].to_dict()["name"]
+    season = input(f"Please select a season from the seasons: {match_dataframe["season"].unique().tolist()}")
+    league_selection = int(input(f"Please select a league from the leagues: {league_dataframe[["name"]].to_dict()["name"]}"))
+
+    return league_dataframe.loc[league_dataframe["name"] == leagues[league_selection]]["country_id"]
+    
+
+print(top_ten_in_league())
+print(goal_derivation())

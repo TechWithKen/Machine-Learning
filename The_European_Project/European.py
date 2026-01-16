@@ -2,6 +2,7 @@ import sqlite3
 import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 # Loading all data from the sql database
 
@@ -104,7 +105,7 @@ def get_season_and_league():
     matches_scored = match_dataframe.loc[(match_dataframe["season"] == season_options) &
                                          (match_dataframe["country_id"] == country_id)]
     
-    matches_scored = match_dataframe.dropna(subset=["goal"])
+    matches_scored = matches_scored.dropna(subset=["goal"])
     matches_scored["Goal Information"] = matches_scored["goal"].apply(extract_goals_from_xml)
     matches_scored = matches_scored.explode("Goal Information")
 
@@ -143,4 +144,24 @@ def goal_derivation():
     return player_team
 
 
-print(goal_derivation())
+
+
+top10 = goal_derivation().head(10)
+
+players = top10['player_name']
+goals = top10['goals']
+
+plt.figure(figsize=(12, 6))
+bars = plt.bar(players, goals, color='blue', edgecolor='black')
+
+# Add goal labels on top of each bar
+for bar in bars:
+    height = bar.get_height()
+    plt.text(bar.get_x() + bar.get_width()/2, height + 0.3, str(height), ha='center', va='bottom')
+
+plt.title('Top 10 Goal Scorers', fontsize=16)
+plt.xlabel('Players', fontsize=12)
+plt.ylabel('Goals Scored', fontsize=12)
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()

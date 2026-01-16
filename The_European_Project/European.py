@@ -94,15 +94,26 @@ def extract_goals_from_xml(goal_xml):
     return goal_events
 
 
+def get_season_and_league():
+    leagues = league_dataframe[["name"]].to_dict()["name"]
+    season_options = input(f"Please select a season from the seasons: {match_dataframe["season"].unique().tolist()}: ")
+    league_selection = int(input(f"Please select a league from the leagues: {league_dataframe[["name"]].to_dict()["name"]}: "))
+
+    country_id = league_dataframe.loc[league_dataframe["name"] == leagues[league_selection]]["country_id"].iloc[0]
+
+    matches_scored = match_dataframe.loc[(match_dataframe["season"] == season_options) &
+                                         (match_dataframe["country_id"] == country_id)]
+    
+    matches_scored = match_dataframe.dropna(subset=["goal"])
+    matches_scored["Goal Information"] = matches_scored["goal"].apply(extract_goals_from_xml)
+    matches_scored = matches_scored.explode("Goal Information")
+
+    return matches_scored
+
 
 def get_scorer_from_series():
 
-
-    matches_with_goals = match_dataframe.dropna(subset=["goal"])
-    matches_with_goals["Goal Information"] = match_dataframe["goal"].apply(extract_goals_from_xml)
-    matches_with_goals = matches_with_goals.explode("Goal Information")
-
-
+    matches_with_goals = get_season_and_league()
     goals_flat = pd.concat(
         [
             matches_with_goals.drop(columns=["Goal Information"]),
@@ -112,6 +123,7 @@ def get_scorer_from_series():
     )
 
     return goals_flat
+
 
 
 def goal_derivation():
@@ -131,13 +143,4 @@ def goal_derivation():
     return player_team
 
 
-def top_ten_in_league():
-    leagues = league_dataframe[["name"]].to_dict()["name"]
-    season = input(f"Please select a season from the seasons: {match_dataframe["season"].unique().tolist()}")
-    league_selection = int(input(f"Please select a league from the leagues: {league_dataframe[["name"]].to_dict()["name"]}"))
-
-    return league_dataframe.loc[league_dataframe["name"] == leagues[league_selection]]["country_id"]
-    
-
-print(top_ten_in_league())
 print(goal_derivation())

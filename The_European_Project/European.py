@@ -1,4 +1,5 @@
 import sqlite3
+import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy as np
 
@@ -66,4 +67,77 @@ def generate_league_csv_data():
     return "League CSV Data Successfully created!"
 
 
-print(generate_league_csv_data())
+
+def extract_goals(goal_xml):
+    """
+    Parse the <goal> XML string and return a list of goal events.
+    Handles matches with no goals (goal_xml=None).
+    """
+    goal_events = []
+    
+    if not goal_xml or pd.isna(goal_xml):
+        return goal_events  # empty list if no goals
+    
+    root = ET.fromstring(goal_xml)
+    
+    for value in root.findall("value"):
+        scorer = value.find("player1").text if value.find("player1") is not None else None
+        assister = value.find("player2").text if value.find("player2") is not None else None
+        team_id = value.find("team").text if value.find("team") is not None else None
+        
+        goal_events.append({
+            "scorer": scorer,
+            "team_id": team_id, 
+            # "assister": assister,
+        })
+            
+        
+    return goal_events
+
+
+
+matches_with_goals = match_dataframe.dropna(subset=["goal"])
+matches_with_goals["Goal Information"] = match_dataframe["goal"].apply(extract_goals)
+matches_with_goals = matches_with_goals.explode("Goal Information")
+matches_with_goals
+goals_flat = pd.concat(
+    [
+        matches_with_goals.drop(columns=["Goal Information"]),
+        matches_with_goals["Goal Information"].apply(pd.Series),
+    ],
+    axis=1
+)
+goals_flat
+
+
+player_team = goals_flat.groupby(["scorer", "team_id"])["scorer"].count().reset_index(name="goals")
+
+
+player_team.rename(columns={"scorer": "player_api_id"}, inplace=True)
+player_team.sort_values(by="goals", ascending=False)
+
+player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
+
+goal_scoring_players = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
+goal_scoring_players.rename(columns={"team_id": "team_api_id"}, inplace=True)
+goal_scoring_players["team_api_id"] = goal_scoring_players["team_api_id"].astype("int64")
+
+player_team = pd.merge(goal_scoring_players, team_dataframe, on="team_api_id", how="left")
+player_team = player_team[["player_name", "team_long_name", "goals"]]
+
+player_team.sort_values(by="goals", ascending=False).head(30)
+
+# matches_with_goals = matches_with_goals[["season", "match_api_id","Goal Information"]]
+# matches_with_goals = matches_with_goals["Goal Information"].explode()
+# matches_with_goals
+
+#matches_with_goals.pivot_table(columns="season", index=f"Goal Information{['scorer']}", values="match_api_id")
+# dataframing.rename(columns={"scorer":"id_x"}, inplace=True)
+# dataframing["id_x"] = dataframing["id_x"].astype("int64")
+# dataframing.rename(columns={"id_x":"player_api_id"}, inplace=True)
+
+# dataframing = dataframing[["player_api_id", "assister", "team_id"]]
+# dataframing["Goal Scorer"] = dataframing["player_api_id"]
+# dataframing
+#dataframing.pivot_table(index="player_api_id", aggfunc="count")
+

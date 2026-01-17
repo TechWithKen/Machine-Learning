@@ -145,23 +145,29 @@ def goal_derivation():
 
 
 
+def convert_to_graph(goal_scoring_table):
 
-top10 = goal_derivation().head(10)
+    top10 = goal_scoring_table.head(10)  # Extracting out only the top 10 in the table.
 
-players = top10['player_name']
-goals = top10['goals']
+    players = top10['player_name']
+    goals = top10['goals']
 
-plt.figure(figsize=(12, 6))
-bars = plt.bar(players, goals, color='blue', edgecolor='black')
+    plt.figure(figsize=(12, 6))
+    bars = plt.bar(players, goals, color='blue', edgecolor='black')
 
-# Add goal labels on top of each bar
-for bar in bars:
-    height = bar.get_height()
-    plt.text(bar.get_x() + bar.get_width()/2, height + 0.3, str(height), ha='center', va='bottom')
+    # Add goal labels on top of each bar
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2, height + 0.3, str(height), ha='center', va='bottom')
 
-plt.title('Top 10 Goal Scorers', fontsize=16)
-plt.xlabel('Players', fontsize=12)
-plt.ylabel('Goals Scored', fontsize=12)
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.show()
+    plt.title('Top 10 Goal Scorers', fontsize=16)
+    plt.xlabel('Players', fontsize=12)
+    plt.ylabel('Goals Scored', fontsize=12)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+
+
+print(convert_to_graph())
+

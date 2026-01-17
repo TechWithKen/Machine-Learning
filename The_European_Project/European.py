@@ -169,5 +169,28 @@ def convert_to_graph(goal_scoring_table):
 
 
 
-print(convert_to_graph())
+def convert_pie_chart():
+    top10 = goal_derivation().head(10)
+
+    labels = top10["player_name"]
+    sizes = top10["goals"]
+
+    plt.figure(figsize=(8, 8))
+
+    plt.pie(
+        sizes,
+        labels=labels,
+        autopct='%1.1f%%',     # percentage display
+        startangle=140
+    )
+
+    plt.title("Goal Distribution of Top 10 Scorers", fontsize=14)
+    plt.axis('equal')  # Makes the pie a circle
+
+    plt.tight_layout()
+    plt.show()
+
+
+print(convert_to_graph(goal_derivation()))
+print(convert_pie_chart())
 

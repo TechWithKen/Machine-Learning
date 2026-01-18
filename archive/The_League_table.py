@@ -75,3 +75,4 @@ def get_league_table(home_away_team, each_team_goals, goal_conceded):
 
 
     return league_table
+

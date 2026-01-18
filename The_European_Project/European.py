@@ -129,9 +129,22 @@ def get_scorer_from_series():
 
 def get_assists(goals_assist_dataframe):
     assists_dataframe = goals_assist_dataframe.copy()
-    
+    assists_dataframe.dropna(subset=["assister"], inplace=True)
 
-    pass
+    assister_team = assists_dataframe.groupby(["assister", "team_api_id"]).size().reset_index(name="assists")
+    assister_team["assister"] = assister_team["assister"].astype("int64")
+    assister_team["team_api_id"] = assister_team["team_api_id"].astype("int64")
+    assister_team.rename(columns={"assister":"player_api_id"}, inplace=True)
+
+    assister_team = pd.merge(assister_team, player_dataframe, on="player_api_id", how="left")
+
+    assister_team = pd.merge(assister_team, team_dataframe, on="team_api_id", how="left")
+    assister_team = assister_team[["player_name", "team_long_name", "assists"]].sort_values(by="assists", ascending=False).head(30)
+
+
+    return assister_team
+
+
 def goal_derivation():
 
     player_team = get_scorer_from_series().groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
@@ -148,12 +161,13 @@ def goal_derivation():
 
 
 
-def convert_to_graph(goal_scoring_table):
+def convert_to_graph(goals_or_assists):
 
-    top10 = goal_scoring_table.head(10)  # Extracting out only the top 10 in the table.
+    columns = goals_or_assists.columns.unique().tolist()
+    top10 = goals_or_assists.head(10)  # Extracting out only the top 10 in the table.
 
     players = top10['player_name']
-    goals = top10['goals']
+    goals = top10[columns[2]]
 
     plt.figure(figsize=(12, 6))
     bars = plt.bar(players, goals, color='blue', edgecolor='black')
@@ -171,11 +185,13 @@ def convert_to_graph(goal_scoring_table):
     plt.show()
 
 
-def convert_pie_chart(goal_scoring_table):
-    top10 = goal_scoring_table.head(10)
+def convert_pie_chart(goals_or_assists):
+    columns = goals_or_assists.columns.unique().tolist()
+
+    top10 = goals_or_assists.head(10)
 
     labels = top10["player_name"]
-    sizes = top10["goals"]
+    sizes = top10[columns[2]]
 
     plt.figure(figsize=(8, 8))
 

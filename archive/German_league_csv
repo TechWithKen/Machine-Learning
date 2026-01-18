@@ -1,0 +1,2449 @@
+home_team,away_team,home_goals,away_goals,result,season
+FC Bayern Munich,Hamburger SV,2,2,D,2008/2009
+Bayer 04 Leverkusen,Borussia Dortmund,2,3,A,2008/2009
+FC Schalke 04,Hannover 96,3,0,H,2008/2009
+VfL Wolfsburg,1. FC Köln,2,1,H,2008/2009
+Eintracht Frankfurt,Hertha BSC Berlin,0,2,A,2008/2009
+DSC Arminia Bielefeld,SV Werder Bremen,2,2,D,2008/2009
+FC Energie Cottbus,TSG 1899 Hoffenheim,0,3,A,2008/2009
+Borussia Mönchengladbach,VfB Stuttgart,1,3,A,2008/2009
+Karlsruher SC,VfL Bochum,1,0,H,2008/2009
+Hamburger SV,VfB Stuttgart,2,0,H,2008/2009
+SV Werder Bremen,Bayer 04 Leverkusen,0,2,A,2008/2009
+Hertha BSC Berlin,Hannover 96,3,0,H,2008/2009
+VfL Wolfsburg,Borussia Mönchengladbach,3,0,H,2008/2009
+Eintracht Frankfurt,FC Bayern Munich,1,2,A,2008/2009
+DSC Arminia Bielefeld,FC Energie Cottbus,1,1,D,2008/2009
+1. FC Köln,Borussia Dortmund,0,1,A,2008/2009
+VfL Bochum,TSG 1899 Hoffenheim,1,3,A,2008/2009
+Karlsruher SC,FC Schalke 04,0,3,A,2008/2009
+FC Bayern Munich,DSC Arminia Bielefeld,3,1,H,2008/2009
+Bayer 04 Leverkusen,VfL Wolfsburg,2,0,H,2008/2009
+Borussia Dortmund,VfL Bochum,1,1,D,2008/2009
+VfB Stuttgart,1. FC Köln,1,3,A,2008/2009
+SV Werder Bremen,Hertha BSC Berlin,5,1,H,2008/2009
+FC Energie Cottbus,FC Schalke 04,0,2,A,2008/2009
+Hannover 96,Hamburger SV,3,0,H,2008/2009
+Borussia Mönchengladbach,Eintracht Frankfurt,1,2,A,2008/2009
+TSG 1899 Hoffenheim,Karlsruher SC,4,1,H,2008/2009
+Hamburger SV,Borussia Dortmund,2,1,H,2008/2009
+Hertha BSC Berlin,TSG 1899 Hoffenheim,1,0,H,2008/2009
+FC Schalke 04,FC Bayern Munich,1,2,A,2008/2009
+VfL Wolfsburg,FC Energie Cottbus,3,0,H,2008/2009
+Eintracht Frankfurt,VfB Stuttgart,2,2,D,2008/2009
+DSC Arminia Bielefeld,Borussia Mönchengladbach,0,2,A,2008/2009
+1. FC Köln,Hannover 96,2,1,H,2008/2009
+VfL Bochum,SV Werder Bremen,0,0,D,2008/2009
+Karlsruher SC,Bayer 04 Leverkusen,3,3,D,2008/2009
+Bayer 04 Leverkusen,FC Schalke 04,2,1,H,2008/2009
+Borussia Dortmund,Eintracht Frankfurt,4,0,H,2008/2009
+VfB Stuttgart,DSC Arminia Bielefeld,0,0,D,2008/2009
+SV Werder Bremen,1. FC Köln,3,1,H,2008/2009
+Hertha BSC Berlin,Hamburger SV,2,1,H,2008/2009
+FC Energie Cottbus,Karlsruher SC,1,0,H,2008/2009
+Hannover 96,VfL Bochum,1,1,D,2008/2009
+Borussia Mönchengladbach,FC Bayern Munich,2,2,D,2008/2009
+TSG 1899 Hoffenheim,VfL Wolfsburg,3,2,H,2008/2009
+FC Bayern Munich,FC Energie Cottbus,4,1,H,2008/2009
+Hamburger SV,SV Werder Bremen,2,1,H,2008/2009
+FC Schalke 04,Borussia Mönchengladbach,3,1,H,2008/2009
+VfL Wolfsburg,VfB Stuttgart,4,1,H,2008/2009
+Eintracht Frankfurt,Hannover 96,4,0,H,2008/2009
+DSC Arminia Bielefeld,Bayer 04 Leverkusen,2,1,H,2008/2009
+1. FC Köln,TSG 1899 Hoffenheim,1,3,A,2008/2009
+VfL Bochum,Hertha BSC Berlin,2,3,A,2008/2009
+Karlsruher SC,Borussia Dortmund,0,1,A,2008/2009
+Bayer 04 Leverkusen,FC Bayern Munich,0,2,A,2008/2009
+Borussia Dortmund,VfL Wolfsburg,0,0,D,2008/2009
+VfB Stuttgart,FC Schalke 04,2,0,H,2008/2009
+SV Werder Bremen,Eintracht Frankfurt,5,0,H,2008/2009
+Hertha BSC Berlin,1. FC Köln,2,1,H,2008/2009
+VfL Bochum,Hamburger SV,1,1,D,2008/2009
+Hannover 96,Karlsruher SC,3,2,H,2008/2009
+Borussia Mönchengladbach,FC Energie Cottbus,1,3,A,2008/2009
+TSG 1899 Hoffenheim,DSC Arminia Bielefeld,3,0,H,2008/2009
+FC Bayern Munich,TSG 1899 Hoffenheim,2,1,H,2008/2009
+FC Schalke 04,Hertha BSC Berlin,1,0,H,2008/2009
+VfL Wolfsburg,Hannover 96,2,1,H,2008/2009
+Eintracht Frankfurt,VfL Bochum,4,0,H,2008/2009
+DSC Arminia Bielefeld,Borussia Dortmund,0,0,D,2008/2009
+1. FC Köln,Hamburger SV,1,2,A,2008/2009
+FC Energie Cottbus,VfB Stuttgart,0,3,A,2008/2009
+Borussia Mönchengladbach,Bayer 04 Leverkusen,1,3,A,2008/2009
+Karlsruher SC,SV Werder Bremen,1,0,H,2008/2009
+Bayer 04 Leverkusen,FC Energie Cottbus,1,1,D,2008/2009
+Hamburger SV,Eintracht Frankfurt,1,0,H,2008/2009
+Borussia Dortmund,Borussia Mönchengladbach,2,1,H,2008/2009
+VfB Stuttgart,FC Bayern Munich,2,2,D,2008/2009
+SV Werder Bremen,VfL Wolfsburg,2,1,H,2008/2009
+Hertha BSC Berlin,Karlsruher SC,4,0,H,2008/2009
+VfL Bochum,1. FC Köln,1,2,A,2008/2009
+Hannover 96,DSC Arminia Bielefeld,1,1,D,2008/2009
+TSG 1899 Hoffenheim,FC Schalke 04,1,1,D,2008/2009
+Hamburger SV,FC Bayern Munich,1,0,H,2008/2009
+Borussia Dortmund,Bayer 04 Leverkusen,1,1,D,2008/2009
+VfB Stuttgart,Borussia Mönchengladbach,2,0,H,2008/2009
+SV Werder Bremen,DSC Arminia Bielefeld,1,2,A,2008/2009
+Hertha BSC Berlin,Eintracht Frankfurt,2,1,H,2008/2009
+1. FC Köln,VfL Wolfsburg,1,1,D,2008/2009
+VfL Bochum,Karlsruher SC,2,0,H,2008/2009
+Hannover 96,FC Schalke 04,1,0,H,2008/2009
+TSG 1899 Hoffenheim,FC Energie Cottbus,2,0,H,2008/2009
+FC Bayern Munich,Borussia Dortmund,3,1,H,2008/2009
+Bayer 04 Leverkusen,VfB Stuttgart,2,4,A,2008/2009
+FC Schalke 04,SV Werder Bremen,1,0,H,2008/2009
+VfL Wolfsburg,VfL Bochum,2,0,H,2008/2009
+Eintracht Frankfurt,1. FC Köln,2,2,D,2008/2009
+DSC Arminia Bielefeld,Hertha BSC Berlin,1,1,D,2008/2009
+FC Energie Cottbus,Hannover 96,3,1,H,2008/2009
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,1,1,D,2008/2009
+Karlsruher SC,Hamburger SV,3,2,H,2008/2009
+Hamburger SV,Karlsruher SC,2,1,H,2008/2009
+Borussia Dortmund,FC Bayern Munich,1,1,D,2008/2009
+VfB Stuttgart,Bayer 04 Leverkusen,0,2,A,2008/2009
+SV Werder Bremen,FC Schalke 04,1,1,D,2008/2009
+Hertha BSC Berlin,DSC Arminia Bielefeld,1,1,D,2008/2009
+1. FC Köln,Eintracht Frankfurt,1,1,D,2008/2009
+VfL Bochum,VfL Wolfsburg,2,2,D,2008/2009
+Hannover 96,FC Energie Cottbus,0,0,D,2008/2009
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,0,H,2008/2009
+Hamburger SV,DSC Arminia Bielefeld,2,0,H,2008/2009
+Borussia Dortmund,FC Energie Cottbus,1,1,D,2008/2009
+SV Werder Bremen,Borussia Mönchengladbach,1,1,D,2008/2009
+Hertha BSC Berlin,FC Bayern Munich,2,1,H,2008/2009
+Eintracht Frankfurt,VfL Wolfsburg,0,2,A,2008/2009
+1. FC Köln,Karlsruher SC,0,0,D,2008/2009
+VfL Bochum,FC Schalke 04,2,1,H,2008/2009
+Hannover 96,VfB Stuttgart,3,3,D,2008/2009
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,4,A,2008/2009
+FC Bayern Munich,1. FC Köln,1,2,A,2008/2009
+Bayer 04 Leverkusen,Hamburger SV,1,2,A,2008/2009
+VfB Stuttgart,TSG 1899 Hoffenheim,3,3,D,2008/2009
+FC Schalke 04,Borussia Dortmund,1,1,D,2008/2009
+VfL Wolfsburg,Hertha BSC Berlin,2,1,H,2008/2009
+DSC Arminia Bielefeld,VfL Bochum,1,1,D,2008/2009
+FC Energie Cottbus,SV Werder Bremen,2,1,H,2008/2009
+Borussia Mönchengladbach,Hannover 96,3,2,H,2008/2009
+Karlsruher SC,Eintracht Frankfurt,0,1,A,2008/2009
+Hamburger SV,VfL Wolfsburg,1,3,A,2008/2009
+Borussia Dortmund,TSG 1899 Hoffenheim,0,0,D,2008/2009
+SV Werder Bremen,FC Bayern Munich,0,0,D,2008/2009
+Hertha BSC Berlin,Borussia Mönchengladbach,2,1,H,2008/2009
+Eintracht Frankfurt,FC Schalke 04,1,2,A,2008/2009
+1. FC Köln,DSC Arminia Bielefeld,1,1,D,2008/2009
+VfL Bochum,FC Energie Cottbus,3,2,H,2008/2009
+Hannover 96,Bayer 04 Leverkusen,1,0,H,2008/2009
+Karlsruher SC,VfB Stuttgart,0,2,A,2008/2009
+FC Bayern Munich,Hannover 96,5,1,H,2008/2009
+Bayer 04 Leverkusen,VfL Bochum,1,1,D,2008/2009
+VfB Stuttgart,Borussia Dortmund,2,1,H,2008/2009
+FC Schalke 04,1. FC Köln,1,0,H,2008/2009
+VfL Wolfsburg,Karlsruher SC,1,0,H,2008/2009
+DSC Arminia Bielefeld,Eintracht Frankfurt,0,0,D,2008/2009
+FC Energie Cottbus,Hertha BSC Berlin,1,3,A,2008/2009
+Borussia Mönchengladbach,Hamburger SV,4,1,H,2008/2009
+TSG 1899 Hoffenheim,SV Werder Bremen,0,0,D,2008/2009
+Hamburger SV,FC Energie Cottbus,2,0,H,2008/2009
+SV Werder Bremen,VfB Stuttgart,4,0,H,2008/2009
+Hertha BSC Berlin,Bayer 04 Leverkusen,1,0,H,2008/2009
+VfL Wolfsburg,FC Schalke 04,4,3,H,2008/2009
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1,1,D,2008/2009
+1. FC Köln,Borussia Mönchengladbach,2,4,A,2008/2009
+VfL Bochum,FC Bayern Munich,0,3,A,2008/2009
+Hannover 96,Borussia Dortmund,4,4,D,2008/2009
+Karlsruher SC,DSC Arminia Bielefeld,0,1,A,2008/2009
+FC Bayern Munich,Karlsruher SC,1,0,H,2008/2009
+Bayer 04 Leverkusen,Eintracht Frankfurt,1,1,D,2008/2009
+Borussia Dortmund,SV Werder Bremen,1,0,H,2008/2009
+VfB Stuttgart,Hertha BSC Berlin,2,0,H,2008/2009
+FC Schalke 04,Hamburger SV,1,2,A,2008/2009
+DSC Arminia Bielefeld,VfL Wolfsburg,0,3,A,2008/2009
+FC Energie Cottbus,1. FC Köln,0,2,A,2008/2009
+Borussia Mönchengladbach,VfL Bochum,0,1,A,2008/2009
+TSG 1899 Hoffenheim,Hannover 96,2,2,D,2008/2009
+Hamburger SV,TSG 1899 Hoffenheim,1,0,H,2008/2009
+SV Werder Bremen,Hannover 96,4,1,H,2008/2009
+Hertha BSC Berlin,Borussia Dortmund,1,3,A,2008/2009
+VfL Wolfsburg,FC Bayern Munich,5,1,H,2008/2009
+Eintracht Frankfurt,FC Energie Cottbus,2,1,H,2008/2009
+DSC Arminia Bielefeld,FC Schalke 04,0,2,A,2008/2009
+1. FC Köln,Bayer 04 Leverkusen,0,2,A,2008/2009
+VfL Bochum,VfB Stuttgart,1,2,A,2008/2009
+Karlsruher SC,Borussia Mönchengladbach,0,0,D,2008/2009
+FC Bayern Munich,Eintracht Frankfurt,4,0,H,2008/2009
+Bayer 04 Leverkusen,SV Werder Bremen,1,1,D,2008/2009
+Borussia Dortmund,1. FC Köln,3,1,H,2008/2009
+VfB Stuttgart,Hamburger SV,1,0,H,2008/2009
+FC Schalke 04,Karlsruher SC,2,0,H,2008/2009
+FC Energie Cottbus,DSC Arminia Bielefeld,2,1,H,2008/2009
+Hannover 96,Hertha BSC Berlin,2,0,H,2008/2009
+Borussia Mönchengladbach,VfL Wolfsburg,1,2,A,2008/2009
+TSG 1899 Hoffenheim,VfL Bochum,0,3,A,2008/2009
+Hamburger SV,Hannover 96,2,1,H,2008/2009
+Hertha BSC Berlin,SV Werder Bremen,2,1,H,2008/2009
+FC Schalke 04,FC Energie Cottbus,4,0,H,2008/2009
+VfL Wolfsburg,Bayer 04 Leverkusen,2,1,H,2008/2009
+Eintracht Frankfurt,Borussia Mönchengladbach,4,1,H,2008/2009
+DSC Arminia Bielefeld,FC Bayern Munich,0,1,A,2008/2009
+1. FC Köln,VfB Stuttgart,0,3,A,2008/2009
+VfL Bochum,Borussia Dortmund,0,2,A,2008/2009
+Karlsruher SC,TSG 1899 Hoffenheim,2,2,D,2008/2009
+FC Bayern Munich,FC Schalke 04,0,1,A,2008/2009
+Bayer 04 Leverkusen,Karlsruher SC,0,1,A,2008/2009
+Borussia Dortmund,Hamburger SV,2,0,H,2008/2009
+VfB Stuttgart,Eintracht Frankfurt,2,0,H,2008/2009
+SV Werder Bremen,VfL Bochum,3,2,H,2008/2009
+FC Energie Cottbus,VfL Wolfsburg,2,0,H,2008/2009
+Hannover 96,1. FC Köln,2,1,H,2008/2009
+Borussia Mönchengladbach,DSC Arminia Bielefeld,1,1,D,2008/2009
+TSG 1899 Hoffenheim,Hertha BSC Berlin,0,1,A,2008/2009
+FC Bayern Munich,Hertha BSC Berlin,4,1,H,2008/2009
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,5,2,H,2008/2009
+VfB Stuttgart,Hannover 96,2,0,H,2008/2009
+FC Schalke 04,VfL Bochum,1,0,H,2008/2009
+VfL Wolfsburg,Eintracht Frankfurt,2,2,D,2008/2009
+DSC Arminia Bielefeld,Hamburger SV,2,4,A,2008/2009
+FC Energie Cottbus,Borussia Dortmund,0,1,A,2008/2009
+Borussia Mönchengladbach,SV Werder Bremen,3,2,H,2008/2009
+Karlsruher SC,1. FC Köln,0,2,A,2008/2009
+FC Bayern Munich,Borussia Mönchengladbach,2,1,H,2008/2009
+Hamburger SV,Hertha BSC Berlin,1,1,D,2008/2009
+FC Schalke 04,Bayer 04 Leverkusen,1,2,A,2008/2009
+VfL Wolfsburg,TSG 1899 Hoffenheim,4,0,H,2008/2009
+Eintracht Frankfurt,Borussia Dortmund,0,2,A,2008/2009
+DSC Arminia Bielefeld,VfB Stuttgart,2,2,D,2008/2009
+1. FC Köln,SV Werder Bremen,1,0,H,2008/2009
+VfL Bochum,Hannover 96,0,2,A,2008/2009
+Karlsruher SC,FC Energie Cottbus,0,0,D,2008/2009
+Bayer 04 Leverkusen,DSC Arminia Bielefeld,2,2,D,2008/2009
+Borussia Dortmund,Karlsruher SC,4,0,H,2008/2009
+VfB Stuttgart,VfL Wolfsburg,4,1,H,2008/2009
+SV Werder Bremen,Hamburger SV,2,0,H,2008/2009
+Hertha BSC Berlin,VfL Bochum,2,0,H,2008/2009
+FC Energie Cottbus,FC Bayern Munich,1,3,A,2008/2009
+Hannover 96,Eintracht Frankfurt,1,1,D,2008/2009
+Borussia Mönchengladbach,FC Schalke 04,1,0,H,2008/2009
+TSG 1899 Hoffenheim,1. FC Köln,2,0,H,2008/2009
+FC Bayern Munich,Bayer 04 Leverkusen,3,0,H,2008/2009
+Hamburger SV,VfL Bochum,3,1,H,2008/2009
+FC Schalke 04,VfB Stuttgart,1,2,A,2008/2009
+VfL Wolfsburg,Borussia Dortmund,3,0,H,2008/2009
+Eintracht Frankfurt,SV Werder Bremen,0,5,A,2008/2009
+DSC Arminia Bielefeld,TSG 1899 Hoffenheim,0,2,A,2008/2009
+1. FC Köln,Hertha BSC Berlin,1,2,A,2008/2009
+FC Energie Cottbus,Borussia Mönchengladbach,0,1,A,2008/2009
+Karlsruher SC,Hannover 96,2,3,A,2008/2009
+Bayer 04 Leverkusen,Borussia Mönchengladbach,5,0,H,2008/2009
+Hamburger SV,1. FC Köln,0,1,A,2008/2009
+Borussia Dortmund,DSC Arminia Bielefeld,6,0,H,2008/2009
+VfB Stuttgart,FC Energie Cottbus,2,0,H,2008/2009
+SV Werder Bremen,Karlsruher SC,1,3,A,2008/2009
+Hertha BSC Berlin,FC Schalke 04,0,0,D,2008/2009
+VfL Bochum,Eintracht Frankfurt,2,0,H,2008/2009
+Hannover 96,VfL Wolfsburg,0,5,A,2008/2009
+TSG 1899 Hoffenheim,FC Bayern Munich,2,2,D,2008/2009
+FC Bayern Munich,VfB Stuttgart,2,1,H,2008/2009
+FC Schalke 04,TSG 1899 Hoffenheim,2,3,A,2008/2009
+VfL Wolfsburg,SV Werder Bremen,5,1,H,2008/2009
+Eintracht Frankfurt,Hamburger SV,2,3,A,2008/2009
+DSC Arminia Bielefeld,Hannover 96,2,2,D,2008/2009
+1. FC Köln,VfL Bochum,1,1,D,2008/2009
+FC Energie Cottbus,Bayer 04 Leverkusen,3,0,H,2008/2009
+Borussia Mönchengladbach,Borussia Dortmund,1,1,D,2008/2009
+Karlsruher SC,Hertha BSC Berlin,4,0,H,2008/2009
+Hamburger SV,Bayer 04 Leverkusen,3,2,H,2008/2009
+Borussia Dortmund,FC Schalke 04,3,3,D,2008/2009
+SV Werder Bremen,FC Energie Cottbus,3,0,H,2008/2009
+Hertha BSC Berlin,VfL Wolfsburg,2,2,D,2008/2009
+Eintracht Frankfurt,Karlsruher SC,2,1,H,2008/2009
+1. FC Köln,FC Bayern Munich,0,3,A,2008/2009
+VfL Bochum,DSC Arminia Bielefeld,2,0,H,2008/2009
+Hannover 96,Borussia Mönchengladbach,5,1,H,2008/2009
+TSG 1899 Hoffenheim,VfB Stuttgart,0,0,D,2008/2009
+FC Bayern Munich,SV Werder Bremen,2,5,A,2008/2009
+Bayer 04 Leverkusen,Hannover 96,4,0,H,2008/2009
+VfB Stuttgart,Karlsruher SC,3,1,H,2008/2009
+FC Schalke 04,Eintracht Frankfurt,1,0,H,2008/2009
+VfL Wolfsburg,Hamburger SV,3,0,H,2008/2009
+DSC Arminia Bielefeld,1. FC Köln,2,0,H,2008/2009
+FC Energie Cottbus,VfL Bochum,1,1,D,2008/2009
+Borussia Mönchengladbach,Hertha BSC Berlin,0,1,A,2008/2009
+TSG 1899 Hoffenheim,Borussia Dortmund,4,1,H,2008/2009
+Hamburger SV,Borussia Mönchengladbach,1,0,H,2008/2009
+Borussia Dortmund,VfB Stuttgart,3,0,H,2008/2009
+SV Werder Bremen,TSG 1899 Hoffenheim,5,4,H,2008/2009
+Hertha BSC Berlin,FC Energie Cottbus,0,1,A,2008/2009
+Eintracht Frankfurt,DSC Arminia Bielefeld,1,1,D,2008/2009
+1. FC Köln,FC Schalke 04,1,0,H,2008/2009
+VfL Bochum,Bayer 04 Leverkusen,2,3,A,2008/2009
+Hannover 96,FC Bayern Munich,1,0,H,2008/2009
+Karlsruher SC,VfL Wolfsburg,2,1,H,2008/2009
+FC Bayern Munich,VfL Bochum,3,3,D,2008/2009
+Bayer 04 Leverkusen,Hertha BSC Berlin,0,1,A,2008/2009
+Borussia Dortmund,Hannover 96,1,1,D,2008/2009
+VfB Stuttgart,SV Werder Bremen,4,1,H,2008/2009
+FC Schalke 04,VfL Wolfsburg,2,2,D,2008/2009
+DSC Arminia Bielefeld,Karlsruher SC,1,2,A,2008/2009
+FC Energie Cottbus,Hamburger SV,1,2,A,2008/2009
+Borussia Mönchengladbach,1. FC Köln,1,2,A,2008/2009
+TSG 1899 Hoffenheim,Eintracht Frankfurt,2,1,H,2008/2009
+Hamburger SV,FC Schalke 04,1,1,D,2008/2009
+SV Werder Bremen,Borussia Dortmund,3,3,D,2008/2009
+Hertha BSC Berlin,VfB Stuttgart,2,1,H,2008/2009
+VfL Wolfsburg,DSC Arminia Bielefeld,4,1,H,2008/2009
+Eintracht Frankfurt,Bayer 04 Leverkusen,0,2,A,2008/2009
+1. FC Köln,FC Energie Cottbus,1,0,H,2008/2009
+VfL Bochum,Borussia Mönchengladbach,2,2,D,2008/2009
+Hannover 96,TSG 1899 Hoffenheim,2,5,A,2008/2009
+Karlsruher SC,FC Bayern Munich,0,1,A,2008/2009
+FC Bayern Munich,VfL Wolfsburg,4,2,H,2008/2009
+Bayer 04 Leverkusen,1. FC Köln,2,0,H,2008/2009
+Borussia Dortmund,Hertha BSC Berlin,1,1,D,2008/2009
+VfB Stuttgart,VfL Bochum,2,0,H,2008/2009
+FC Schalke 04,DSC Arminia Bielefeld,0,0,D,2008/2009
+FC Energie Cottbus,Eintracht Frankfurt,2,3,A,2008/2009
+Hannover 96,SV Werder Bremen,1,1,D,2008/2009
+Borussia Mönchengladbach,Karlsruher SC,1,0,H,2008/2009
+TSG 1899 Hoffenheim,Hamburger SV,3,0,H,2008/2009
+VfL Wolfsburg,VfB Stuttgart,2,0,H,2009/2010
+Borussia Dortmund,1. FC Köln,1,0,H,2009/2010
+SV Werder Bremen,Eintracht Frankfurt,2,3,A,2009/2010
+Hertha BSC Berlin,Hannover 96,1,0,H,2009/2010
+SC Freiburg,Hamburger SV,1,1,D,2009/2010
+1. FC Nürnberg,FC Schalke 04,1,2,A,2009/2010
+VfL Bochum,Borussia Mönchengladbach,3,3,D,2009/2010
+1. FSV Mainz 05,Bayer 04 Leverkusen,2,2,D,2009/2010
+TSG 1899 Hoffenheim,FC Bayern Munich,1,1,D,2009/2010
+FC Bayern Munich,Eintracht Frankfurt,2,1,H,2009/2010
+Bayer 04 Leverkusen,Borussia Dortmund,1,1,D,2009/2010
+Hertha BSC Berlin,VfL Wolfsburg,0,0,D,2009/2010
+FC Schalke 04,Hamburger SV,3,3,D,2009/2010
+VfL Bochum,SV Werder Bremen,1,4,A,2009/2010
+Hannover 96,VfB Stuttgart,1,0,H,2009/2010
+1. FSV Mainz 05,SC Freiburg,3,0,H,2009/2010
+Borussia Mönchengladbach,1. FC Köln,0,0,D,2009/2010
+TSG 1899 Hoffenheim,1. FC Nürnberg,3,0,H,2009/2010
+Hamburger SV,Borussia Mönchengladbach,2,3,A,2009/2010
+Borussia Dortmund,Hertha BSC Berlin,2,0,H,2009/2010
+VfB Stuttgart,FC Bayern Munich,0,0,D,2009/2010
+FC Schalke 04,Bayer 04 Leverkusen,2,2,D,2009/2010
+VfL Wolfsburg,1. FSV Mainz 05,3,3,D,2009/2010
+SC Freiburg,TSG 1899 Hoffenheim,0,1,A,2009/2010
+Eintracht Frankfurt,VfL Bochum,2,1,H,2009/2010
+1. FC Köln,Hannover 96,0,1,A,2009/2010
+1. FC Nürnberg,SV Werder Bremen,2,2,D,2009/2010
+FC Bayern Munich,FC Schalke 04,1,1,D,2009/2010
+Bayer 04 Leverkusen,Eintracht Frankfurt,4,0,H,2009/2010
+SV Werder Bremen,Borussia Dortmund,1,1,D,2009/2010
+Hertha BSC Berlin,1. FC Köln,0,1,A,2009/2010
+VfL Bochum,SC Freiburg,1,2,A,2009/2010
+Hannover 96,Hamburger SV,2,2,D,2009/2010
+1. FSV Mainz 05,1. FC Nürnberg,1,0,H,2009/2010
+Borussia Mönchengladbach,VfB Stuttgart,0,0,D,2009/2010
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,2,A,2009/2010
+FC Bayern Munich,Bayer 04 Leverkusen,1,1,D,2009/2010
+Hamburger SV,VfL Bochum,0,1,A,2009/2010
+Borussia Dortmund,1. FSV Mainz 05,0,0,D,2009/2010
+VfB Stuttgart,Hertha BSC Berlin,1,1,D,2009/2010
+FC Schalke 04,Hannover 96,2,0,H,2009/2010
+VfL Wolfsburg,1. FC Nürnberg,2,3,A,2009/2010
+SC Freiburg,SV Werder Bremen,0,6,A,2009/2010
+Eintracht Frankfurt,Borussia Mönchengladbach,1,2,A,2009/2010
+1. FC Köln,TSG 1899 Hoffenheim,0,4,A,2009/2010
+Bayer 04 Leverkusen,VfB Stuttgart,4,0,H,2009/2010
+SV Werder Bremen,VfL Wolfsburg,2,2,D,2009/2010
+Hertha BSC Berlin,Eintracht Frankfurt,1,3,A,2009/2010
+1. FC Nürnberg,SC Freiburg,0,1,A,2009/2010
+VfL Bochum,1. FC Köln,0,0,D,2009/2010
+Hannover 96,FC Bayern Munich,0,3,A,2009/2010
+1. FSV Mainz 05,Hamburger SV,1,1,D,2009/2010
+Borussia Mönchengladbach,FC Schalke 04,1,0,H,2009/2010
+TSG 1899 Hoffenheim,Borussia Dortmund,1,2,A,2009/2010
+FC Bayern Munich,Borussia Mönchengladbach,2,1,H,2009/2010
+Hamburger SV,TSG 1899 Hoffenheim,0,0,D,2009/2010
+Borussia Dortmund,1. FC Nürnberg,4,0,H,2009/2010
+VfB Stuttgart,VfL Bochum,1,1,D,2009/2010
+FC Schalke 04,Hertha BSC Berlin,2,0,H,2009/2010
+VfL Wolfsburg,SC Freiburg,2,2,D,2009/2010
+Eintracht Frankfurt,1. FSV Mainz 05,2,0,H,2009/2010
+1. FC Köln,SV Werder Bremen,0,0,D,2009/2010
+Hannover 96,Bayer 04 Leverkusen,0,0,D,2009/2010
+SV Werder Bremen,FC Schalke 04,0,2,A,2009/2010
+Hertha BSC Berlin,Bayer 04 Leverkusen,2,2,D,2009/2010
+VfL Wolfsburg,Borussia Dortmund,1,3,A,2009/2010
+SC Freiburg,1. FC Köln,0,0,D,2009/2010
+1. FC Nürnberg,Hamburger SV,0,4,A,2009/2010
+VfL Bochum,FC Bayern Munich,1,5,A,2009/2010
+1. FSV Mainz 05,VfB Stuttgart,1,1,D,2009/2010
+Borussia Mönchengladbach,Hannover 96,5,3,H,2009/2010
+TSG 1899 Hoffenheim,Eintracht Frankfurt,1,1,D,2009/2010
+FC Bayern Munich,Hertha BSC Berlin,5,2,H,2009/2010
+Bayer 04 Leverkusen,Borussia Mönchengladbach,3,2,H,2009/2010
+Hamburger SV,SV Werder Bremen,2,1,H,2009/2010
+Borussia Dortmund,SC Freiburg,1,0,H,2009/2010
+VfB Stuttgart,TSG 1899 Hoffenheim,3,1,H,2009/2010
+FC Schalke 04,1. FSV Mainz 05,1,0,H,2009/2010
+Eintracht Frankfurt,VfL Wolfsburg,2,2,D,2009/2010
+1. FC Köln,1. FC Nürnberg,3,0,H,2009/2010
+Hannover 96,VfL Bochum,2,3,A,2009/2010
+FC Bayern Munich,TSG 1899 Hoffenheim,2,0,H,2009/2010
+Bayer 04 Leverkusen,1. FSV Mainz 05,4,2,H,2009/2010
+Hamburger SV,SC Freiburg,2,0,H,2009/2010
+VfB Stuttgart,VfL Wolfsburg,3,1,H,2009/2010
+FC Schalke 04,1. FC Nürnberg,1,0,H,2009/2010
+Eintracht Frankfurt,SV Werder Bremen,1,0,H,2009/2010
+1. FC Köln,Borussia Dortmund,2,3,A,2009/2010
+Hannover 96,Hertha BSC Berlin,0,3,A,2009/2010
+Borussia Mönchengladbach,VfL Bochum,1,2,A,2009/2010
+Borussia Dortmund,Hamburger SV,1,0,H,2009/2010
+SV Werder Bremen,FC Bayern Munich,2,3,A,2009/2010
+Hertha BSC Berlin,Borussia Mönchengladbach,0,0,D,2009/2010
+VfL Wolfsburg,1. FC Köln,2,3,A,2009/2010
+SC Freiburg,VfB Stuttgart,0,1,A,2009/2010
+1. FC Nürnberg,Eintracht Frankfurt,1,1,D,2009/2010
+VfL Bochum,FC Schalke 04,2,2,D,2009/2010
+1. FSV Mainz 05,Hannover 96,1,0,H,2009/2010
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,0,3,A,2009/2010
+FC Bayern Munich,SV Werder Bremen,1,1,D,2009/2010
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,1,0,H,2009/2010
+Hamburger SV,Borussia Dortmund,4,1,H,2009/2010
+VfB Stuttgart,SC Freiburg,4,2,H,2009/2010
+FC Schalke 04,VfL Bochum,3,0,H,2009/2010
+Eintracht Frankfurt,1. FC Nürnberg,1,1,D,2009/2010
+1. FC Köln,VfL Wolfsburg,1,3,A,2009/2010
+Hannover 96,1. FSV Mainz 05,1,1,D,2009/2010
+Borussia Mönchengladbach,Hertha BSC Berlin,2,1,H,2009/2010
+FC Bayern Munich,1. FSV Mainz 05,3,0,H,2009/2010
+Bayer 04 Leverkusen,SC Freiburg,3,1,H,2009/2010
+Hamburger SV,VfL Wolfsburg,1,1,D,2009/2010
+VfB Stuttgart,Borussia Dortmund,4,1,H,2009/2010
+Hertha BSC Berlin,VfL Bochum,0,0,D,2009/2010
+FC Schalke 04,TSG 1899 Hoffenheim,2,0,H,2009/2010
+Eintracht Frankfurt,1. FC Köln,1,2,A,2009/2010
+Hannover 96,1. FC Nürnberg,1,3,A,2009/2010
+Borussia Mönchengladbach,SV Werder Bremen,4,3,H,2009/2010
+Borussia Dortmund,Eintracht Frankfurt,2,3,A,2009/2010
+SV Werder Bremen,Hertha BSC Berlin,2,1,H,2009/2010
+VfL Wolfsburg,FC Bayern Munich,1,3,A,2009/2010
+SC Freiburg,FC Schalke 04,0,0,D,2009/2010
+1. FC Köln,Hamburger SV,3,3,D,2009/2010
+1. FC Nürnberg,VfB Stuttgart,1,2,A,2009/2010
+VfL Bochum,Bayer 04 Leverkusen,1,1,D,2009/2010
+1. FSV Mainz 05,Borussia Mönchengladbach,1,0,H,2009/2010
+TSG 1899 Hoffenheim,Hannover 96,2,1,H,2009/2010
+FC Bayern Munich,Borussia Dortmund,3,1,H,2009/2010
+Bayer 04 Leverkusen,VfL Wolfsburg,2,1,H,2009/2010
+VfB Stuttgart,Hamburger SV,1,3,A,2009/2010
+Hertha BSC Berlin,1. FSV Mainz 05,1,1,D,2009/2010
+FC Schalke 04,1. FC Köln,2,0,H,2009/2010
+Eintracht Frankfurt,SC Freiburg,2,1,H,2009/2010
+VfL Bochum,TSG 1899 Hoffenheim,2,1,H,2009/2010
+Hannover 96,SV Werder Bremen,1,5,A,2009/2010
+Borussia Mönchengladbach,1. FC Nürnberg,2,1,H,2009/2010
+Hamburger SV,Eintracht Frankfurt,0,0,D,2009/2010
+Borussia Dortmund,Hannover 96,4,1,H,2009/2010
+SV Werder Bremen,Bayer 04 Leverkusen,2,2,D,2009/2010
+VfL Wolfsburg,FC Schalke 04,2,1,H,2009/2010
+SC Freiburg,Hertha BSC Berlin,0,3,A,2009/2010
+1. FC Köln,VfB Stuttgart,1,5,A,2009/2010
+1. FC Nürnberg,FC Bayern Munich,1,1,D,2009/2010
+1. FSV Mainz 05,VfL Bochum,0,0,D,2009/2010
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,2,D,2009/2010
+FC Bayern Munich,Hamburger SV,1,0,H,2009/2010
+Bayer 04 Leverkusen,1. FC Köln,0,0,D,2009/2010
+VfB Stuttgart,Eintracht Frankfurt,2,1,H,2009/2010
+Hertha BSC Berlin,TSG 1899 Hoffenheim,0,2,A,2009/2010
+FC Schalke 04,Borussia Dortmund,2,1,H,2009/2010
+VfL Bochum,1. FC Nürnberg,0,0,D,2009/2010
+Hannover 96,VfL Wolfsburg,0,1,A,2009/2010
+1. FSV Mainz 05,SV Werder Bremen,1,2,A,2009/2010
+Borussia Mönchengladbach,SC Freiburg,1,1,D,2009/2010
+Hamburger SV,Hertha BSC Berlin,1,0,H,2009/2010
+Borussia Dortmund,Borussia Mönchengladbach,3,0,H,2009/2010
+SV Werder Bremen,VfB Stuttgart,2,2,D,2009/2010
+VfL Wolfsburg,VfL Bochum,4,1,H,2009/2010
+SC Freiburg,Hannover 96,1,2,A,2009/2010
+Eintracht Frankfurt,FC Schalke 04,1,4,A,2009/2010
+1. FC Köln,FC Bayern Munich,1,1,D,2009/2010
+1. FC Nürnberg,Bayer 04 Leverkusen,3,2,H,2009/2010
+TSG 1899 Hoffenheim,1. FSV Mainz 05,0,1,A,2009/2010
+FC Bayern Munich,SC Freiburg,2,1,H,2009/2010
+Bayer 04 Leverkusen,Hamburger SV,4,2,H,2009/2010
+Hertha BSC Berlin,1. FC Nürnberg,1,2,A,2009/2010
+FC Schalke 04,VfB Stuttgart,2,1,H,2009/2010
+VfL Bochum,Borussia Dortmund,1,4,A,2009/2010
+Hannover 96,Eintracht Frankfurt,2,1,H,2009/2010
+1. FSV Mainz 05,1. FC Köln,1,0,H,2009/2010
+Borussia Mönchengladbach,VfL Wolfsburg,0,4,A,2009/2010
+TSG 1899 Hoffenheim,SV Werder Bremen,0,1,A,2009/2010
+Hamburger SV,FC Schalke 04,2,2,D,2009/2010
+Borussia Dortmund,Bayer 04 Leverkusen,3,0,H,2009/2010
+VfB Stuttgart,Hannover 96,2,0,H,2009/2010
+SV Werder Bremen,VfL Bochum,3,2,H,2009/2010
+VfL Wolfsburg,Hertha BSC Berlin,1,5,A,2009/2010
+SC Freiburg,1. FSV Mainz 05,1,0,H,2009/2010
+Eintracht Frankfurt,FC Bayern Munich,2,1,H,2009/2010
+1. FC Köln,Borussia Mönchengladbach,1,1,D,2009/2010
+1. FC Nürnberg,TSG 1899 Hoffenheim,0,0,D,2009/2010
+FC Bayern Munich,VfB Stuttgart,1,2,A,2009/2010
+Bayer 04 Leverkusen,FC Schalke 04,0,2,A,2009/2010
+SV Werder Bremen,1. FC Nürnberg,4,2,H,2009/2010
+Hertha BSC Berlin,Borussia Dortmund,0,0,D,2009/2010
+VfL Bochum,Eintracht Frankfurt,1,2,A,2009/2010
+Hannover 96,1. FC Köln,1,4,A,2009/2010
+1. FSV Mainz 05,VfL Wolfsburg,0,2,A,2009/2010
+Borussia Mönchengladbach,Hamburger SV,1,0,H,2009/2010
+TSG 1899 Hoffenheim,SC Freiburg,1,1,D,2009/2010
+Hamburger SV,Hannover 96,0,0,D,2009/2010
+Borussia Dortmund,SV Werder Bremen,2,1,H,2009/2010
+VfB Stuttgart,Borussia Mönchengladbach,2,1,H,2009/2010
+FC Schalke 04,FC Bayern Munich,1,2,A,2009/2010
+VfL Wolfsburg,TSG 1899 Hoffenheim,4,0,H,2009/2010
+SC Freiburg,VfL Bochum,1,1,D,2009/2010
+Eintracht Frankfurt,Bayer 04 Leverkusen,3,2,H,2009/2010
+1. FC Köln,Hertha BSC Berlin,0,3,A,2009/2010
+1. FC Nürnberg,1. FSV Mainz 05,2,0,H,2009/2010
+Borussia Dortmund,VfB Stuttgart,1,1,D,2009/2010
+SV Werder Bremen,Borussia Mönchengladbach,3,0,H,2009/2010
+VfL Wolfsburg,Hamburger SV,2,4,A,2009/2010
+SC Freiburg,Bayer 04 Leverkusen,0,5,A,2009/2010
+1. FC Köln,Eintracht Frankfurt,0,0,D,2009/2010
+1. FC Nürnberg,Hannover 96,0,2,A,2009/2010
+VfL Bochum,Hertha BSC Berlin,1,0,H,2009/2010
+1. FSV Mainz 05,FC Bayern Munich,2,1,H,2009/2010
+TSG 1899 Hoffenheim,FC Schalke 04,0,0,D,2009/2010
+Bayer 04 Leverkusen,FC Bayern Munich,1,1,D,2009/2010
+SV Werder Bremen,SC Freiburg,4,0,H,2009/2010
+Hertha BSC Berlin,VfB Stuttgart,0,1,A,2009/2010
+1. FC Nürnberg,VfL Wolfsburg,0,2,A,2009/2010
+VfL Bochum,Hamburger SV,1,2,A,2009/2010
+Hannover 96,FC Schalke 04,4,2,H,2009/2010
+1. FSV Mainz 05,Borussia Dortmund,1,0,H,2009/2010
+Borussia Mönchengladbach,Eintracht Frankfurt,2,0,H,2009/2010
+TSG 1899 Hoffenheim,1. FC Köln,0,2,A,2009/2010
+FC Bayern Munich,Hannover 96,7,0,H,2009/2010
+Hamburger SV,1. FSV Mainz 05,0,1,A,2009/2010
+Borussia Dortmund,TSG 1899 Hoffenheim,1,1,D,2009/2010
+VfB Stuttgart,Bayer 04 Leverkusen,2,1,H,2009/2010
+FC Schalke 04,Borussia Mönchengladbach,3,1,H,2009/2010
+VfL Wolfsburg,SV Werder Bremen,2,4,A,2009/2010
+SC Freiburg,1. FC Nürnberg,2,1,H,2009/2010
+Eintracht Frankfurt,Hertha BSC Berlin,2,2,D,2009/2010
+1. FC Köln,VfL Bochum,2,0,H,2009/2010
+Bayer 04 Leverkusen,Hannover 96,3,0,H,2009/2010
+SV Werder Bremen,1. FC Köln,1,0,H,2009/2010
+Hertha BSC Berlin,FC Schalke 04,0,1,A,2009/2010
+SC Freiburg,VfL Wolfsburg,1,0,H,2009/2010
+1. FC Nürnberg,Borussia Dortmund,2,3,A,2009/2010
+VfL Bochum,VfB Stuttgart,0,2,A,2009/2010
+1. FSV Mainz 05,Eintracht Frankfurt,3,3,D,2009/2010
+Borussia Mönchengladbach,FC Bayern Munich,1,1,D,2009/2010
+TSG 1899 Hoffenheim,Hamburger SV,5,1,H,2009/2010
+FC Bayern Munich,VfL Bochum,3,1,H,2009/2010
+Bayer 04 Leverkusen,Hertha BSC Berlin,1,1,D,2009/2010
+Hamburger SV,1. FC Nürnberg,4,0,H,2009/2010
+Borussia Dortmund,VfL Wolfsburg,1,1,D,2009/2010
+VfB Stuttgart,1. FSV Mainz 05,2,2,D,2009/2010
+FC Schalke 04,SV Werder Bremen,0,2,A,2009/2010
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1,2,A,2009/2010
+1. FC Köln,SC Freiburg,2,2,D,2009/2010
+Hannover 96,Borussia Mönchengladbach,6,1,H,2009/2010
+SV Werder Bremen,Hamburger SV,1,1,D,2009/2010
+Hertha BSC Berlin,FC Bayern Munich,1,3,A,2009/2010
+VfL Wolfsburg,Eintracht Frankfurt,3,1,H,2009/2010
+SC Freiburg,Borussia Dortmund,3,1,H,2009/2010
+1. FC Nürnberg,1. FC Köln,1,0,H,2009/2010
+VfL Bochum,Hannover 96,0,3,A,2009/2010
+1. FSV Mainz 05,FC Schalke 04,0,0,D,2009/2010
+Borussia Mönchengladbach,Bayer 04 Leverkusen,1,1,D,2009/2010
+TSG 1899 Hoffenheim,VfB Stuttgart,1,1,D,2009/2010
+FC Bayern Munich,VfL Wolfsburg,3,0,H,2009/2010
+Bayer 04 Leverkusen,VfL Bochum,2,1,H,2009/2010
+Hamburger SV,1. FC Köln,3,1,H,2009/2010
+VfB Stuttgart,1. FC Nürnberg,0,0,D,2009/2010
+Hertha BSC Berlin,SV Werder Bremen,2,3,A,2009/2010
+FC Schalke 04,SC Freiburg,0,1,A,2009/2010
+Eintracht Frankfurt,Borussia Dortmund,1,1,D,2009/2010
+Hannover 96,TSG 1899 Hoffenheim,0,1,A,2009/2010
+Borussia Mönchengladbach,1. FSV Mainz 05,2,0,H,2009/2010
+Hamburger SV,VfB Stuttgart,3,1,H,2009/2010
+Borussia Dortmund,FC Bayern Munich,1,5,A,2009/2010
+SV Werder Bremen,Hannover 96,0,0,D,2009/2010
+VfL Wolfsburg,Bayer 04 Leverkusen,2,3,A,2009/2010
+SC Freiburg,Eintracht Frankfurt,0,2,A,2009/2010
+1. FC Köln,FC Schalke 04,1,2,A,2009/2010
+1. FC Nürnberg,Borussia Mönchengladbach,1,0,H,2009/2010
+1. FSV Mainz 05,Hertha BSC Berlin,2,1,H,2009/2010
+TSG 1899 Hoffenheim,VfL Bochum,3,0,H,2009/2010
+FC Bayern Munich,1. FC Nürnberg,2,1,H,2009/2010
+Bayer 04 Leverkusen,SV Werder Bremen,0,0,D,2009/2010
+VfB Stuttgart,1. FC Köln,0,2,A,2009/2010
+Hertha BSC Berlin,SC Freiburg,0,4,A,2009/2010
+FC Schalke 04,VfL Wolfsburg,1,2,A,2009/2010
+Eintracht Frankfurt,Hamburger SV,1,1,D,2009/2010
+VfL Bochum,1. FSV Mainz 05,2,3,A,2009/2010
+Hannover 96,Borussia Dortmund,1,1,D,2009/2010
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,4,A,2009/2010
+Hamburger SV,FC Bayern Munich,1,0,H,2009/2010
+Borussia Dortmund,FC Schalke 04,0,1,A,2009/2010
+SV Werder Bremen,1. FSV Mainz 05,3,0,H,2009/2010
+VfL Wolfsburg,Hannover 96,4,2,H,2009/2010
+SC Freiburg,Borussia Mönchengladbach,3,0,H,2009/2010
+Eintracht Frankfurt,VfB Stuttgart,0,3,A,2009/2010
+1. FC Köln,Bayer 04 Leverkusen,0,1,A,2009/2010
+1. FC Nürnberg,VfL Bochum,0,1,A,2009/2010
+TSG 1899 Hoffenheim,Hertha BSC Berlin,5,1,H,2009/2010
+FC Bayern Munich,1. FC Köln,0,0,D,2009/2010
+Bayer 04 Leverkusen,1. FC Nürnberg,4,0,H,2009/2010
+VfB Stuttgart,SV Werder Bremen,0,2,A,2009/2010
+Hertha BSC Berlin,Hamburger SV,1,3,A,2009/2010
+FC Schalke 04,Eintracht Frankfurt,2,0,H,2009/2010
+VfL Bochum,VfL Wolfsburg,1,1,D,2009/2010
+Hannover 96,SC Freiburg,5,2,H,2009/2010
+1. FSV Mainz 05,TSG 1899 Hoffenheim,2,1,H,2009/2010
+Borussia Mönchengladbach,Borussia Dortmund,0,1,A,2009/2010
+Hamburger SV,Bayer 04 Leverkusen,0,0,D,2009/2010
+Borussia Dortmund,VfL Bochum,2,0,H,2009/2010
+VfB Stuttgart,FC Schalke 04,1,2,A,2009/2010
+SV Werder Bremen,TSG 1899 Hoffenheim,2,0,H,2009/2010
+VfL Wolfsburg,Borussia Mönchengladbach,2,1,H,2009/2010
+SC Freiburg,FC Bayern Munich,1,2,A,2009/2010
+Eintracht Frankfurt,Hannover 96,2,1,H,2009/2010
+1. FC Köln,1. FSV Mainz 05,1,0,H,2009/2010
+1. FC Nürnberg,Hertha BSC Berlin,3,0,H,2009/2010
+FC Bayern Munich,VfL Wolfsburg,2,1,H,2010/2011
+TSG 1899 Hoffenheim,SV Werder Bremen,4,1,H,2010/2011
+Borussia Mönchengladbach,1. FC Nürnberg,1,1,D,2010/2011
+1. FC Köln,1. FC Kaiserslautern,1,3,A,2010/2011
+SC Freiburg,FC St. Pauli,1,3,A,2010/2011
+Hannover 96,Eintracht Frankfurt,2,1,H,2010/2011
+Hamburger SV,FC Schalke 04,2,1,H,2010/2011
+1. FSV Mainz 05,VfB Stuttgart,2,0,H,2010/2011
+Borussia Dortmund,Bayer 04 Leverkusen,0,2,A,2010/2011
+FC Bayern Munich,SC Freiburg,4,2,H,2010/2011
+FC Schalke 04,Bayer 04 Leverkusen,0,1,A,2010/2011
+SV Werder Bremen,1. FC Nürnberg,2,3,A,2010/2011
+VfL Wolfsburg,VfB Stuttgart,2,0,H,2010/2011
+1. FSV Mainz 05,Borussia Dortmund,0,2,A,2010/2011
+TSG 1899 Hoffenheim,Hannover 96,4,0,H,2010/2011
+1. FC Köln,Hamburger SV,3,2,H,2010/2011
+1. FC Kaiserslautern,Borussia Mönchengladbach,3,0,H,2010/2011
+FC St. Pauli,Eintracht Frankfurt,1,3,A,2010/2011
+FC Schalke 04,FC St. Pauli,3,0,H,2010/2011
+Bayer 04 Leverkusen,1. FC Kaiserslautern,3,1,H,2010/2011
+VfB Stuttgart,SV Werder Bremen,6,0,H,2010/2011
+Hamburger SV,TSG 1899 Hoffenheim,2,1,H,2010/2011
+Eintracht Frankfurt,VfL Wolfsburg,3,1,H,2010/2011
+Borussia Mönchengladbach,FC Bayern Munich,3,3,D,2010/2011
+SC Freiburg,1. FSV Mainz 05,1,0,H,2010/2011
+Hannover 96,Borussia Dortmund,0,4,A,2010/2011
+1. FC Nürnberg,1. FC Köln,3,1,H,2010/2011
+FC Bayern Munich,1. FC Nürnberg,3,0,H,2010/2011
+SV Werder Bremen,Eintracht Frankfurt,0,0,D,2010/2011
+Borussia Dortmund,Hamburger SV,2,0,H,2010/2011
+VfL Wolfsburg,FC Schalke 04,2,2,D,2010/2011
+1. FSV Mainz 05,Hannover 96,0,1,A,2010/2011
+TSG 1899 Hoffenheim,SC Freiburg,0,1,A,2010/2011
+1. FC Köln,Borussia Mönchengladbach,0,4,A,2010/2011
+1. FC Kaiserslautern,VfB Stuttgart,3,3,D,2010/2011
+FC St. Pauli,Bayer 04 Leverkusen,0,1,A,2010/2011
+FC Schalke 04,SV Werder Bremen,4,0,H,2010/2011
+Bayer 04 Leverkusen,FC Bayern Munich,1,1,D,2010/2011
+VfB Stuttgart,1. FC Köln,0,1,A,2010/2011
+Eintracht Frankfurt,TSG 1899 Hoffenheim,0,4,A,2010/2011
+Borussia Mönchengladbach,1. FSV Mainz 05,2,3,A,2010/2011
+SC Freiburg,Borussia Dortmund,1,2,A,2010/2011
+Hannover 96,Hamburger SV,3,2,H,2010/2011
+1. FC Nürnberg,1. FC Kaiserslautern,1,3,A,2010/2011
+FC St. Pauli,VfL Wolfsburg,1,1,D,2010/2011
+FC Bayern Munich,Eintracht Frankfurt,4,1,H,2010/2011
+SV Werder Bremen,FC St. Pauli,3,0,H,2010/2011
+Borussia Dortmund,Borussia Mönchengladbach,4,1,H,2010/2011
+Hamburger SV,VfB Stuttgart,4,2,H,2010/2011
+1. FSV Mainz 05,1. FC Nürnberg,3,0,H,2010/2011
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,2,D,2010/2011
+1. FC Köln,VfL Wolfsburg,1,1,D,2010/2011
+Hannover 96,SC Freiburg,3,0,H,2010/2011
+1. FC Kaiserslautern,FC Schalke 04,5,0,H,2010/2011
+FC Schalke 04,FC Bayern Munich,2,0,H,2010/2011
+Bayer 04 Leverkusen,1. FC Köln,3,2,H,2010/2011
+VfB Stuttgart,TSG 1899 Hoffenheim,1,1,D,2010/2011
+VfL Wolfsburg,SV Werder Bremen,0,0,D,2010/2011
+Eintracht Frankfurt,1. FSV Mainz 05,2,1,H,2010/2011
+Borussia Mönchengladbach,Hannover 96,1,2,A,2010/2011
+SC Freiburg,Hamburger SV,1,0,H,2010/2011
+1. FC Nürnberg,Borussia Dortmund,0,2,A,2010/2011
+FC St. Pauli,1. FC Kaiserslautern,1,0,H,2010/2011
+FC Bayern Munich,FC St. Pauli,3,0,H,2010/2011
+Borussia Dortmund,SV Werder Bremen,2,0,H,2010/2011
+Hamburger SV,Bayer 04 Leverkusen,2,4,A,2010/2011
+1. FSV Mainz 05,FC Schalke 04,0,1,A,2010/2011
+TSG 1899 Hoffenheim,1. FC Nürnberg,1,1,D,2010/2011
+1. FC Köln,Eintracht Frankfurt,1,0,H,2010/2011
+SC Freiburg,Borussia Mönchengladbach,3,0,H,2010/2011
+Hannover 96,VfB Stuttgart,2,1,H,2010/2011
+1. FC Kaiserslautern,VfL Wolfsburg,0,0,D,2010/2011
+FC Schalke 04,1. FC Köln,3,0,H,2010/2011
+SV Werder Bremen,1. FC Kaiserslautern,1,2,A,2010/2011
+Bayer 04 Leverkusen,SC Freiburg,2,2,D,2010/2011
+VfB Stuttgart,FC Bayern Munich,3,5,A,2010/2011
+VfL Wolfsburg,TSG 1899 Hoffenheim,2,2,D,2010/2011
+Eintracht Frankfurt,Borussia Dortmund,1,0,H,2010/2011
+Borussia Mönchengladbach,Hamburger SV,1,2,A,2010/2011
+1. FC Nürnberg,Hannover 96,3,1,H,2010/2011
+FC St. Pauli,1. FSV Mainz 05,2,4,A,2010/2011
+FC Schalke 04,Hamburger SV,0,1,A,2010/2011
+SV Werder Bremen,TSG 1899 Hoffenheim,2,1,H,2010/2011
+Bayer 04 Leverkusen,Borussia Dortmund,1,3,A,2010/2011
+VfB Stuttgart,1. FSV Mainz 05,1,0,H,2010/2011
+VfL Wolfsburg,FC Bayern Munich,1,1,D,2010/2011
+Eintracht Frankfurt,Hannover 96,0,3,A,2010/2011
+1. FC Nürnberg,Borussia Mönchengladbach,0,1,A,2010/2011
+1. FC Kaiserslautern,1. FC Köln,1,1,D,2010/2011
+FC St. Pauli,SC Freiburg,2,2,D,2010/2011
+FC Bayern Munich,1. FC Kaiserslautern,5,1,H,2010/2011
+Borussia Dortmund,VfB Stuttgart,1,1,D,2010/2011
+Hamburger SV,Eintracht Frankfurt,1,0,H,2010/2011
+1. FSV Mainz 05,VfL Wolfsburg,0,1,A,2010/2011
+TSG 1899 Hoffenheim,FC St. Pauli,2,2,D,2010/2011
+Borussia Mönchengladbach,Bayer 04 Leverkusen,1,3,A,2010/2011
+1. FC Köln,SV Werder Bremen,3,0,H,2010/2011
+SC Freiburg,1. FC Nürnberg,1,1,D,2010/2011
+Hannover 96,FC Schalke 04,0,1,A,2010/2011
+FC Schalke 04,Hannover 96,1,2,A,2010/2011
+SV Werder Bremen,1. FC Köln,4,2,H,2010/2011
+Bayer 04 Leverkusen,Borussia Mönchengladbach,3,6,A,2010/2011
+VfB Stuttgart,Borussia Dortmund,1,3,A,2010/2011
+VfL Wolfsburg,1. FSV Mainz 05,3,4,A,2010/2011
+Eintracht Frankfurt,Hamburger SV,1,3,A,2010/2011
+1. FC Nürnberg,SC Freiburg,1,2,A,2010/2011
+1. FC Kaiserslautern,FC Bayern Munich,2,0,H,2010/2011
+FC St. Pauli,TSG 1899 Hoffenheim,0,1,A,2010/2011
+FC Schalke 04,TSG 1899 Hoffenheim,0,1,A,2010/2011
+SV Werder Bremen,FC Bayern Munich,1,3,A,2010/2011
+Bayer 04 Leverkusen,Hannover 96,2,0,H,2010/2011
+VfB Stuttgart,SC Freiburg,0,1,A,2010/2011
+VfL Wolfsburg,Borussia Dortmund,0,3,A,2010/2011
+Eintracht Frankfurt,Borussia Mönchengladbach,0,1,A,2010/2011
+1. FC Nürnberg,Hamburger SV,2,0,H,2010/2011
+1. FC Kaiserslautern,1. FSV Mainz 05,0,1,A,2010/2011
+FC St. Pauli,1. FC Köln,3,0,H,2010/2011
+Borussia Dortmund,FC Schalke 04,0,0,D,2010/2011
+Hamburger SV,FC St. Pauli,0,1,A,2010/2011
+1. FSV Mainz 05,SV Werder Bremen,1,1,D,2010/2011
+TSG 1899 Hoffenheim,1. FC Kaiserslautern,3,2,H,2010/2011
+Borussia Mönchengladbach,VfB Stuttgart,2,3,A,2010/2011
+1. FC Köln,FC Bayern Munich,3,2,H,2010/2011
+SC Freiburg,Eintracht Frankfurt,0,0,D,2010/2011
+Hannover 96,VfL Wolfsburg,1,0,H,2010/2011
+1. FC Nürnberg,Bayer 04 Leverkusen,1,0,H,2010/2011
+FC Bayern Munich,TSG 1899 Hoffenheim,4,0,H,2010/2011
+FC Schalke 04,SC Freiburg,1,0,H,2010/2011
+SV Werder Bremen,Hannover 96,1,1,D,2010/2011
+VfB Stuttgart,1. FC Nürnberg,1,4,A,2010/2011
+VfL Wolfsburg,Hamburger SV,0,1,A,2010/2011
+Eintracht Frankfurt,Bayer 04 Leverkusen,0,3,A,2010/2011
+1. FC Köln,1. FSV Mainz 05,4,2,H,2010/2011
+1. FC Kaiserslautern,Borussia Dortmund,1,1,D,2010/2011
+FC St. Pauli,Borussia Mönchengladbach,3,1,H,2010/2011
+Bayer 04 Leverkusen,VfB Stuttgart,4,2,H,2010/2011
+Borussia Dortmund,FC St. Pauli,2,0,H,2010/2011
+Hamburger SV,SV Werder Bremen,4,0,H,2010/2011
+1. FSV Mainz 05,FC Bayern Munich,1,3,A,2010/2011
+TSG 1899 Hoffenheim,1. FC Köln,1,1,D,2010/2011
+Borussia Mönchengladbach,FC Schalke 04,2,1,H,2010/2011
+SC Freiburg,VfL Wolfsburg,2,1,H,2010/2011
+Hannover 96,1. FC Kaiserslautern,3,0,H,2010/2011
+1. FC Nürnberg,Eintracht Frankfurt,3,0,H,2010/2011
+FC Bayern Munich,Borussia Dortmund,1,3,A,2010/2011
+FC Schalke 04,1. FC Nürnberg,1,1,D,2010/2011
+SV Werder Bremen,Bayer 04 Leverkusen,2,2,D,2010/2011
+VfL Wolfsburg,Borussia Mönchengladbach,2,1,H,2010/2011
+Eintracht Frankfurt,VfB Stuttgart,0,2,A,2010/2011
+TSG 1899 Hoffenheim,1. FSV Mainz 05,1,2,A,2010/2011
+1. FC Köln,SC Freiburg,1,0,H,2010/2011
+1. FC Kaiserslautern,Hamburger SV,1,1,D,2010/2011
+FC St. Pauli,Hannover 96,0,1,A,2010/2011
+Bayer 04 Leverkusen,VfL Wolfsburg,3,0,H,2010/2011
+Borussia Dortmund,1. FC Köln,1,0,H,2010/2011
+VfB Stuttgart,FC Schalke 04,1,0,H,2010/2011
+Hamburger SV,1. FSV Mainz 05,2,4,A,2010/2011
+Eintracht Frankfurt,1. FC Kaiserslautern,0,0,D,2010/2011
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,0,H,2010/2011
+SC Freiburg,SV Werder Bremen,1,3,A,2010/2011
+Hannover 96,FC Bayern Munich,3,1,H,2010/2011
+1. FC Nürnberg,FC St. Pauli,5,0,H,2010/2011
+FC Bayern Munich,Hamburger SV,6,0,H,2010/2011
+FC Schalke 04,Eintracht Frankfurt,2,1,H,2010/2011
+SV Werder Bremen,Borussia Mönchengladbach,1,1,D,2010/2011
+VfL Wolfsburg,1. FC Nürnberg,1,2,A,2010/2011
+1. FSV Mainz 05,Bayer 04 Leverkusen,0,1,A,2010/2011
+TSG 1899 Hoffenheim,Borussia Dortmund,1,0,H,2010/2011
+1. FC Köln,Hannover 96,4,0,H,2010/2011
+1. FC Kaiserslautern,SC Freiburg,2,1,H,2010/2011
+FC St. Pauli,VfB Stuttgart,1,2,A,2010/2011
+Bayer 04 Leverkusen,FC Schalke 04,2,0,H,2010/2011
+Borussia Dortmund,1. FSV Mainz 05,1,1,D,2010/2011
+VfB Stuttgart,VfL Wolfsburg,1,1,D,2010/2011
+Hamburger SV,1. FC Köln,6,2,H,2010/2011
+Eintracht Frankfurt,FC St. Pauli,2,1,H,2010/2011
+Borussia Mönchengladbach,1. FC Kaiserslautern,0,1,A,2010/2011
+SC Freiburg,FC Bayern Munich,1,2,A,2010/2011
+Hannover 96,TSG 1899 Hoffenheim,2,0,H,2010/2011
+1. FC Nürnberg,SV Werder Bremen,1,3,A,2010/2011
+FC Bayern Munich,Borussia Mönchengladbach,1,0,H,2010/2011
+SV Werder Bremen,VfB Stuttgart,1,1,D,2010/2011
+Borussia Dortmund,Hannover 96,4,1,H,2010/2011
+VfL Wolfsburg,Eintracht Frankfurt,1,1,D,2010/2011
+1. FSV Mainz 05,SC Freiburg,1,1,D,2010/2011
+TSG 1899 Hoffenheim,Hamburger SV,0,0,D,2010/2011
+1. FC Köln,1. FC Nürnberg,1,0,H,2010/2011
+1. FC Kaiserslautern,Bayer 04 Leverkusen,0,1,A,2010/2011
+FC St. Pauli,FC Schalke 04,0,2,A,2010/2011
+FC Schalke 04,VfL Wolfsburg,1,0,H,2010/2011
+Bayer 04 Leverkusen,FC St. Pauli,2,1,H,2010/2011
+VfB Stuttgart,1. FC Kaiserslautern,2,4,A,2010/2011
+Hamburger SV,Borussia Dortmund,1,1,D,2010/2011
+Eintracht Frankfurt,SV Werder Bremen,1,1,D,2010/2011
+Borussia Mönchengladbach,1. FC Köln,5,1,H,2010/2011
+SC Freiburg,TSG 1899 Hoffenheim,3,2,H,2010/2011
+Hannover 96,1. FSV Mainz 05,2,0,H,2010/2011
+1. FC Nürnberg,FC Bayern Munich,1,1,D,2010/2011
+FC Bayern Munich,SV Werder Bremen,0,0,D,2010/2011
+Borussia Dortmund,VfL Wolfsburg,2,0,H,2010/2011
+Hamburger SV,1. FC Nürnberg,1,1,D,2010/2011
+1. FSV Mainz 05,1. FC Kaiserslautern,2,1,H,2010/2011
+TSG 1899 Hoffenheim,FC Schalke 04,2,0,H,2010/2011
+Borussia Mönchengladbach,Eintracht Frankfurt,0,4,A,2010/2011
+1. FC Köln,FC St. Pauli,1,0,H,2010/2011
+SC Freiburg,VfB Stuttgart,2,1,H,2010/2011
+Hannover 96,Bayer 04 Leverkusen,2,2,D,2010/2011
+FC Bayern Munich,Bayer 04 Leverkusen,5,1,H,2010/2011
+SV Werder Bremen,FC Schalke 04,1,1,D,2010/2011
+Borussia Dortmund,SC Freiburg,3,0,H,2010/2011
+Hamburger SV,Hannover 96,0,0,D,2010/2011
+VfL Wolfsburg,FC St. Pauli,2,2,D,2010/2011
+1. FSV Mainz 05,Borussia Mönchengladbach,1,0,H,2010/2011
+TSG 1899 Hoffenheim,Eintracht Frankfurt,1,0,H,2010/2011
+1. FC Köln,VfB Stuttgart,1,3,A,2010/2011
+1. FC Kaiserslautern,1. FC Nürnberg,0,2,A,2010/2011
+FC Schalke 04,1. FC Kaiserslautern,0,1,A,2010/2011
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,1,H,2010/2011
+VfB Stuttgart,Hamburger SV,3,0,H,2010/2011
+VfL Wolfsburg,1. FC Köln,4,1,H,2010/2011
+Eintracht Frankfurt,FC Bayern Munich,1,1,D,2010/2011
+Borussia Mönchengladbach,Borussia Dortmund,1,0,H,2010/2011
+SC Freiburg,Hannover 96,1,3,A,2010/2011
+1. FC Nürnberg,1. FSV Mainz 05,0,0,D,2010/2011
+FC St. Pauli,SV Werder Bremen,1,3,A,2010/2011
+FC Bayern Munich,FC Schalke 04,4,1,H,2010/2011
+SV Werder Bremen,VfL Wolfsburg,0,1,A,2010/2011
+Borussia Dortmund,1. FC Nürnberg,2,0,H,2010/2011
+Hamburger SV,SC Freiburg,0,2,A,2010/2011
+1. FSV Mainz 05,Eintracht Frankfurt,3,0,H,2010/2011
+TSG 1899 Hoffenheim,VfB Stuttgart,1,2,A,2010/2011
+1. FC Köln,Bayer 04 Leverkusen,2,0,H,2010/2011
+Hannover 96,Borussia Mönchengladbach,0,1,A,2010/2011
+1. FC Kaiserslautern,FC St. Pauli,2,0,H,2010/2011
+FC Schalke 04,1. FSV Mainz 05,1,3,A,2010/2011
+SV Werder Bremen,Borussia Dortmund,2,0,H,2010/2011
+Bayer 04 Leverkusen,Hamburger SV,1,1,D,2010/2011
+VfB Stuttgart,Hannover 96,2,1,H,2010/2011
+VfL Wolfsburg,1. FC Kaiserslautern,1,2,A,2010/2011
+Eintracht Frankfurt,1. FC Köln,0,2,A,2010/2011
+Borussia Mönchengladbach,SC Freiburg,2,0,H,2010/2011
+1. FC Nürnberg,TSG 1899 Hoffenheim,1,2,A,2010/2011
+FC St. Pauli,FC Bayern Munich,1,8,A,2010/2011
+FC Bayern Munich,VfB Stuttgart,2,1,H,2010/2011
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,3,A,2010/2011
+Hannover 96,1. FC Nürnberg,3,1,H,2010/2011
+Borussia Dortmund,Eintracht Frankfurt,3,1,H,2010/2011
+Hamburger SV,Borussia Mönchengladbach,1,1,D,2010/2011
+1. FSV Mainz 05,FC St. Pauli,2,1,H,2010/2011
+1. FC Köln,FC Schalke 04,2,1,H,2010/2011
+SC Freiburg,Bayer 04 Leverkusen,0,1,A,2010/2011
+1. FC Kaiserslautern,SV Werder Bremen,3,2,H,2010/2011
+FC Bayern Munich,1. FC Köln,0,0,D,2010/2011
+FC Schalke 04,Borussia Dortmund,1,3,A,2010/2011
+SV Werder Bremen,1. FSV Mainz 05,0,2,A,2010/2011
+Bayer 04 Leverkusen,1. FC Nürnberg,0,0,D,2010/2011
+VfB Stuttgart,Borussia Mönchengladbach,7,0,H,2010/2011
+VfL Wolfsburg,Hannover 96,2,0,H,2010/2011
+Eintracht Frankfurt,SC Freiburg,0,1,A,2010/2011
+1. FC Kaiserslautern,TSG 1899 Hoffenheim,2,2,D,2010/2011
+FC St. Pauli,Hamburger SV,1,1,D,2010/2011
+Bayer 04 Leverkusen,Eintracht Frankfurt,2,1,H,2010/2011
+Borussia Dortmund,1. FC Kaiserslautern,5,0,H,2010/2011
+Hamburger SV,VfL Wolfsburg,1,3,A,2010/2011
+1. FSV Mainz 05,1. FC Köln,2,0,H,2010/2011
+TSG 1899 Hoffenheim,FC Bayern Munich,1,2,A,2010/2011
+Borussia Mönchengladbach,FC St. Pauli,1,2,A,2010/2011
+SC Freiburg,FC Schalke 04,1,2,A,2010/2011
+Hannover 96,SV Werder Bremen,4,1,H,2010/2011
+1. FC Nürnberg,VfB Stuttgart,2,1,H,2010/2011
+FC Bayern Munich,1. FSV Mainz 05,1,2,A,2010/2011
+FC Schalke 04,Borussia Mönchengladbach,2,2,D,2010/2011
+SV Werder Bremen,Hamburger SV,3,2,H,2010/2011
+VfB Stuttgart,Bayer 04 Leverkusen,1,4,A,2010/2011
+VfL Wolfsburg,SC Freiburg,2,1,H,2010/2011
+Eintracht Frankfurt,1. FC Nürnberg,2,0,H,2010/2011
+1. FC Köln,TSG 1899 Hoffenheim,1,1,D,2010/2011
+1. FC Kaiserslautern,Hannover 96,0,1,A,2010/2011
+FC St. Pauli,Borussia Dortmund,1,3,A,2010/2011
+Bayer 04 Leverkusen,SV Werder Bremen,2,2,D,2010/2011
+Borussia Dortmund,FC Bayern Munich,2,0,H,2010/2011
+VfB Stuttgart,Eintracht Frankfurt,1,2,A,2010/2011
+Hamburger SV,1. FC Kaiserslautern,2,1,H,2010/2011
+1. FSV Mainz 05,TSG 1899 Hoffenheim,4,2,H,2010/2011
+Borussia Mönchengladbach,VfL Wolfsburg,1,1,D,2010/2011
+SC Freiburg,1. FC Köln,3,2,H,2010/2011
+Hannover 96,FC St. Pauli,0,1,A,2010/2011
+1. FC Nürnberg,FC Schalke 04,2,1,H,2010/2011
+FC Bayern Munich,Hannover 96,3,0,H,2010/2011
+FC Schalke 04,VfB Stuttgart,2,2,D,2010/2011
+SV Werder Bremen,SC Freiburg,2,1,H,2010/2011
+VfL Wolfsburg,Bayer 04 Leverkusen,2,3,A,2010/2011
+1. FSV Mainz 05,Hamburger SV,0,1,A,2010/2011
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,3,2,H,2010/2011
+1. FC Köln,Borussia Dortmund,1,2,A,2010/2011
+1. FC Kaiserslautern,Eintracht Frankfurt,0,3,A,2010/2011
+FC St. Pauli,1. FC Nürnberg,3,2,H,2010/2011
+Bayer 04 Leverkusen,1. FSV Mainz 05,0,1,A,2010/2011
+Borussia Dortmund,TSG 1899 Hoffenheim,1,1,D,2010/2011
+VfB Stuttgart,FC St. Pauli,2,0,H,2010/2011
+Hamburger SV,FC Bayern Munich,0,0,D,2010/2011
+Eintracht Frankfurt,FC Schalke 04,0,0,D,2010/2011
+Borussia Mönchengladbach,SV Werder Bremen,1,4,A,2010/2011
+SC Freiburg,1. FC Kaiserslautern,2,1,H,2010/2011
+Hannover 96,1. FC Köln,2,1,H,2010/2011
+1. FC Nürnberg,VfL Wolfsburg,2,1,H,2010/2011
+Borussia Dortmund,Hamburger SV,3,1,H,2011/2012
+SV Werder Bremen,1. FC Kaiserslautern,2,0,H,2011/2012
+Hannover 96,TSG 1899 Hoffenheim,2,1,H,2011/2012
+1. FSV Mainz 05,Bayer 04 Leverkusen,2,0,H,2011/2012
+VfB Stuttgart,FC Schalke 04,3,0,H,2011/2012
+1. FC Köln,VfL Wolfsburg,0,3,A,2011/2012
+FC Augsburg,SC Freiburg,2,2,D,2011/2012
+Hertha BSC Berlin,1. FC Nürnberg,0,1,A,2011/2012
+FC Bayern Munich,Borussia Mönchengladbach,0,1,A,2011/2012
+Borussia Dortmund,1. FC Köln,5,0,H,2011/2012
+Bayer 04 Leverkusen,FC Schalke 04,0,1,A,2011/2012
+Hamburger SV,VfL Wolfsburg,1,1,D,2011/2012
+Hannover 96,FC Bayern Munich,2,1,H,2011/2012
+1. FC Nürnberg,VfB Stuttgart,2,2,D,2011/2012
+1. FC Kaiserslautern,SC Freiburg,1,0,H,2011/2012
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,0,H,2011/2012
+FC Augsburg,SV Werder Bremen,1,1,D,2011/2012
+Hertha BSC Berlin,1. FSV Mainz 05,0,0,D,2011/2012
+FC Bayern Munich,1. FC Nürnberg,4,0,H,2011/2012
+FC Schalke 04,TSG 1899 Hoffenheim,3,1,H,2011/2012
+Hamburger SV,1. FC Kaiserslautern,1,1,D,2011/2012
+1. FSV Mainz 05,SV Werder Bremen,1,3,A,2011/2012
+SC Freiburg,Bayer 04 Leverkusen,0,1,A,2011/2012
+VfB Stuttgart,Borussia Dortmund,1,1,D,2011/2012
+1. FC Köln,FC Augsburg,3,0,H,2011/2012
+VfL Wolfsburg,Hertha BSC Berlin,2,3,A,2011/2012
+Borussia Mönchengladbach,Hannover 96,2,1,H,2011/2012
+Borussia Dortmund,VfL Wolfsburg,5,1,H,2011/2012
+SV Werder Bremen,1. FC Köln,3,2,H,2011/2012
+Bayer 04 Leverkusen,Hamburger SV,2,2,D,2011/2012
+Hannover 96,FC Schalke 04,2,2,D,2011/2012
+1. FSV Mainz 05,VfB Stuttgart,3,1,H,2011/2012
+1. FC Nürnberg,SC Freiburg,1,2,A,2011/2012
+TSG 1899 Hoffenheim,1. FC Kaiserslautern,1,1,D,2011/2012
+FC Augsburg,FC Bayern Munich,1,2,A,2011/2012
+Hertha BSC Berlin,Borussia Mönchengladbach,1,2,A,2011/2012
+FC Bayern Munich,Borussia Dortmund,0,1,A,2011/2012
+FC Schalke 04,1. FC Nürnberg,4,0,H,2011/2012
+Hamburger SV,TSG 1899 Hoffenheim,2,0,H,2011/2012
+SC Freiburg,Hertha BSC Berlin,2,2,D,2011/2012
+1. FC Kaiserslautern,Bayer 04 Leverkusen,0,2,A,2011/2012
+VfB Stuttgart,FC Augsburg,2,1,H,2011/2012
+1. FC Köln,1. FSV Mainz 05,1,1,D,2011/2012
+VfL Wolfsburg,Hannover 96,4,1,H,2011/2012
+Borussia Mönchengladbach,SV Werder Bremen,5,0,H,2011/2012
+Borussia Dortmund,FC Schalke 04,2,0,H,2011/2012
+SV Werder Bremen,VfB Stuttgart,2,0,H,2011/2012
+Hannover 96,Hamburger SV,1,1,D,2011/2012
+1. FSV Mainz 05,FC Bayern Munich,3,2,H,2011/2012
+1. FC Nürnberg,1. FC Kaiserslautern,1,0,H,2011/2012
+TSG 1899 Hoffenheim,SC Freiburg,1,1,D,2011/2012
+1. FC Köln,Borussia Mönchengladbach,0,3,A,2011/2012
+FC Augsburg,VfL Wolfsburg,2,0,H,2011/2012
+Hertha BSC Berlin,Bayer 04 Leverkusen,3,3,D,2011/2012
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,0,H,2011/2012
+FC Bayern Munich,SV Werder Bremen,4,1,H,2011/2012
+FC Schalke 04,FC Augsburg,3,1,H,2011/2012
+Hamburger SV,1. FC Nürnberg,2,0,H,2011/2012
+SC Freiburg,Hannover 96,1,1,D,2011/2012
+1. FC Kaiserslautern,Hertha BSC Berlin,1,1,D,2011/2012
+VfB Stuttgart,1. FC Köln,2,2,D,2011/2012
+VfL Wolfsburg,1. FSV Mainz 05,2,2,D,2011/2012
+Borussia Mönchengladbach,Borussia Dortmund,1,1,D,2011/2012
+Borussia Dortmund,1. FC Kaiserslautern,1,1,D,2011/2012
+SV Werder Bremen,VfL Wolfsburg,4,1,H,2011/2012
+Hannover 96,Bayer 04 Leverkusen,0,0,D,2011/2012
+1. FSV Mainz 05,Hamburger SV,0,0,D,2011/2012
+1. FC Nürnberg,TSG 1899 Hoffenheim,0,2,A,2011/2012
+VfB Stuttgart,FC Bayern Munich,1,2,A,2011/2012
+1. FC Köln,SC Freiburg,4,0,H,2011/2012
+FC Augsburg,Borussia Mönchengladbach,1,0,H,2011/2012
+Hertha BSC Berlin,FC Schalke 04,1,2,A,2011/2012
+Bayer 04 Leverkusen,1. FC Nürnberg,0,3,A,2011/2012
+FC Bayern Munich,1. FC Köln,3,0,H,2011/2012
+FC Schalke 04,SV Werder Bremen,5,0,H,2011/2012
+Hamburger SV,FC Augsburg,1,1,D,2011/2012
+SC Freiburg,Borussia Dortmund,1,4,A,2011/2012
+1. FC Kaiserslautern,Hannover 96,1,1,D,2011/2012
+TSG 1899 Hoffenheim,Hertha BSC Berlin,1,1,D,2011/2012
+VfL Wolfsburg,VfB Stuttgart,1,0,H,2011/2012
+Borussia Mönchengladbach,1. FSV Mainz 05,1,0,H,2011/2012
+Bayer 04 Leverkusen,1. FSV Mainz 05,3,2,H,2011/2012
+FC Schalke 04,VfB Stuttgart,3,1,H,2011/2012
+Hamburger SV,Borussia Dortmund,1,5,A,2011/2012
+1. FC Nürnberg,Hertha BSC Berlin,2,0,H,2011/2012
+SC Freiburg,FC Augsburg,1,0,H,2011/2012
+1. FC Kaiserslautern,SV Werder Bremen,0,0,D,2011/2012
+TSG 1899 Hoffenheim,Hannover 96,0,0,D,2011/2012
+VfL Wolfsburg,1. FC Köln,1,0,H,2011/2012
+Borussia Mönchengladbach,FC Bayern Munich,3,1,H,2011/2012
+Borussia Dortmund,TSG 1899 Hoffenheim,3,1,H,2011/2012
+FC Bayern Munich,VfL Wolfsburg,2,0,H,2011/2012
+SV Werder Bremen,Bayer 04 Leverkusen,1,1,D,2011/2012
+Hannover 96,1. FC Nürnberg,1,0,H,2011/2012
+1. FSV Mainz 05,SC Freiburg,3,1,H,2011/2012
+VfB Stuttgart,Borussia Mönchengladbach,0,3,A,2011/2012
+1. FC Köln,FC Schalke 04,1,4,A,2011/2012
+FC Augsburg,1. FC Kaiserslautern,2,2,D,2011/2012
+Hertha BSC Berlin,Hamburger SV,1,2,A,2011/2012
+Bayer 04 Leverkusen,SV Werder Bremen,1,0,H,2011/2012
+FC Schalke 04,1. FC Köln,5,1,H,2011/2012
+Hamburger SV,Hertha BSC Berlin,2,2,D,2011/2012
+1. FC Nürnberg,Hannover 96,1,2,A,2011/2012
+SC Freiburg,1. FSV Mainz 05,1,2,A,2011/2012
+1. FC Kaiserslautern,FC Augsburg,1,1,D,2011/2012
+TSG 1899 Hoffenheim,Borussia Dortmund,1,0,H,2011/2012
+VfL Wolfsburg,FC Bayern Munich,0,1,A,2011/2012
+Borussia Mönchengladbach,VfB Stuttgart,1,1,D,2011/2012
+Bayer 04 Leverkusen,VfB Stuttgart,2,2,D,2011/2012
+FC Schalke 04,1. FSV Mainz 05,1,1,D,2011/2012
+Hamburger SV,FC Bayern Munich,1,1,D,2011/2012
+1. FC Nürnberg,Borussia Dortmund,0,2,A,2011/2012
+SC Freiburg,SV Werder Bremen,2,2,D,2011/2012
+1. FC Kaiserslautern,1. FC Köln,0,1,A,2011/2012
+TSG 1899 Hoffenheim,FC Augsburg,2,2,D,2011/2012
+VfL Wolfsburg,Borussia Mönchengladbach,0,0,D,2011/2012
+Hertha BSC Berlin,Hannover 96,0,1,A,2011/2012
+Borussia Dortmund,Bayer 04 Leverkusen,1,0,H,2011/2012
+FC Bayern Munich,1. FC Kaiserslautern,2,0,H,2011/2012
+SV Werder Bremen,TSG 1899 Hoffenheim,1,1,D,2011/2012
+1. FSV Mainz 05,Hannover 96,1,1,D,2011/2012
+VfB Stuttgart,Hertha BSC Berlin,5,0,H,2011/2012
+1. FC Köln,Hamburger SV,0,1,A,2011/2012
+VfL Wolfsburg,SC Freiburg,3,2,H,2011/2012
+Borussia Mönchengladbach,FC Schalke 04,3,0,H,2011/2012
+FC Augsburg,1. FC Nürnberg,0,0,D,2011/2012
+Bayer 04 Leverkusen,FC Augsburg,4,1,H,2011/2012
+FC Schalke 04,VfL Wolfsburg,4,0,H,2011/2012
+Hamburger SV,SV Werder Bremen,1,3,A,2011/2012
+Hannover 96,VfB Stuttgart,4,2,H,2011/2012
+1. FC Nürnberg,1. FC Köln,2,1,H,2011/2012
+SC Freiburg,FC Bayern Munich,0,0,D,2011/2012
+1. FC Kaiserslautern,Borussia Mönchengladbach,1,2,A,2011/2012
+TSG 1899 Hoffenheim,1. FSV Mainz 05,1,1,D,2011/2012
+Hertha BSC Berlin,Borussia Dortmund,0,1,A,2011/2012
+Borussia Dortmund,Hannover 96,3,1,H,2011/2012
+FC Bayern Munich,FC Schalke 04,2,0,H,2011/2012
+SV Werder Bremen,1. FC Nürnberg,0,1,A,2011/2012
+1. FSV Mainz 05,1. FC Kaiserslautern,4,0,H,2011/2012
+VfB Stuttgart,SC Freiburg,4,1,H,2011/2012
+1. FC Köln,Bayer 04 Leverkusen,0,2,A,2011/2012
+VfL Wolfsburg,TSG 1899 Hoffenheim,1,2,A,2011/2012
+Borussia Mönchengladbach,Hamburger SV,1,1,D,2011/2012
+FC Augsburg,Hertha BSC Berlin,3,0,H,2011/2012
+Borussia Dortmund,1. FSV Mainz 05,2,1,H,2011/2012
+Bayer 04 Leverkusen,FC Bayern Munich,2,0,H,2011/2012
+Hamburger SV,VfB Stuttgart,0,4,A,2011/2012
+Hannover 96,FC Augsburg,2,2,D,2011/2012
+1. FC Nürnberg,Borussia Mönchengladbach,1,0,H,2011/2012
+SC Freiburg,FC Schalke 04,2,1,H,2011/2012
+1. FC Kaiserslautern,VfL Wolfsburg,0,0,D,2011/2012
+TSG 1899 Hoffenheim,1. FC Köln,1,1,D,2011/2012
+Hertha BSC Berlin,SV Werder Bremen,1,0,H,2011/2012
+FC Bayern Munich,TSG 1899 Hoffenheim,7,1,H,2011/2012
+FC Schalke 04,Hamburger SV,3,1,H,2011/2012
+SV Werder Bremen,Hannover 96,3,0,H,2011/2012
+1. FSV Mainz 05,1. FC Nürnberg,2,1,H,2011/2012
+VfB Stuttgart,1. FC Kaiserslautern,0,0,D,2011/2012
+1. FC Köln,Hertha BSC Berlin,1,0,H,2011/2012
+VfL Wolfsburg,Bayer 04 Leverkusen,3,2,H,2011/2012
+Borussia Mönchengladbach,SC Freiburg,0,0,D,2011/2012
+FC Augsburg,Borussia Dortmund,0,0,D,2011/2012
+Borussia Dortmund,SV Werder Bremen,1,0,H,2011/2012
+Bayer 04 Leverkusen,Borussia Mönchengladbach,1,2,A,2011/2012
+Hamburger SV,SC Freiburg,1,3,A,2011/2012
+Hannover 96,1. FC Köln,4,1,H,2011/2012
+1. FC Nürnberg,VfL Wolfsburg,1,3,A,2011/2012
+1. FC Kaiserslautern,FC Schalke 04,1,4,A,2011/2012
+TSG 1899 Hoffenheim,VfB Stuttgart,1,2,A,2011/2012
+FC Augsburg,1. FSV Mainz 05,2,1,H,2011/2012
+Hertha BSC Berlin,FC Bayern Munich,0,6,A,2011/2012
+FC Bayern Munich,Hannover 96,2,1,H,2011/2012
+FC Schalke 04,Bayer 04 Leverkusen,2,0,H,2011/2012
+SV Werder Bremen,FC Augsburg,1,1,D,2011/2012
+1. FSV Mainz 05,Hertha BSC Berlin,1,3,A,2011/2012
+SC Freiburg,1. FC Kaiserslautern,2,0,H,2011/2012
+VfB Stuttgart,1. FC Nürnberg,1,0,H,2011/2012
+1. FC Köln,Borussia Dortmund,1,6,A,2011/2012
+VfL Wolfsburg,Hamburger SV,2,1,H,2011/2012
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,1,2,A,2011/2012
+Borussia Dortmund,VfB Stuttgart,4,4,D,2011/2012
+Bayer 04 Leverkusen,SC Freiburg,0,2,A,2011/2012
+SV Werder Bremen,1. FSV Mainz 05,0,3,A,2011/2012
+Hannover 96,Borussia Mönchengladbach,2,1,H,2011/2012
+1. FC Nürnberg,FC Bayern Munich,0,1,A,2011/2012
+TSG 1899 Hoffenheim,FC Schalke 04,1,1,D,2011/2012
+FC Augsburg,1. FC Köln,2,1,H,2011/2012
+Hertha BSC Berlin,VfL Wolfsburg,1,4,A,2011/2012
+1. FC Kaiserslautern,Hamburger SV,0,1,A,2011/2012
+FC Bayern Munich,FC Augsburg,2,1,H,2011/2012
+FC Schalke 04,Hannover 96,3,0,H,2011/2012
+Hamburger SV,Bayer 04 Leverkusen,1,1,D,2011/2012
+SC Freiburg,1. FC Nürnberg,2,2,D,2011/2012
+1. FC Kaiserslautern,TSG 1899 Hoffenheim,1,2,A,2011/2012
+VfB Stuttgart,1. FSV Mainz 05,4,1,H,2011/2012
+1. FC Köln,SV Werder Bremen,1,1,D,2011/2012
+VfL Wolfsburg,Borussia Dortmund,1,3,A,2011/2012
+Borussia Mönchengladbach,Hertha BSC Berlin,0,0,D,2011/2012
+Borussia Dortmund,1. FC Nürnberg,2,0,H,2011/2012
+FC Bayern Munich,Hamburger SV,5,0,H,2011/2012
+SV Werder Bremen,SC Freiburg,5,3,H,2011/2012
+Hannover 96,Hertha BSC Berlin,1,1,D,2011/2012
+1. FSV Mainz 05,FC Schalke 04,2,4,A,2011/2012
+VfB Stuttgart,Bayer 04 Leverkusen,0,1,A,2011/2012
+1. FC Köln,1. FC Kaiserslautern,1,1,D,2011/2012
+Borussia Mönchengladbach,VfL Wolfsburg,4,1,H,2011/2012
+FC Augsburg,TSG 1899 Hoffenheim,0,2,A,2011/2012
+Borussia Dortmund,FC Bayern Munich,1,0,H,2011/2012
+Bayer 04 Leverkusen,1. FC Kaiserslautern,3,1,H,2011/2012
+SV Werder Bremen,Borussia Mönchengladbach,2,2,D,2011/2012
+Hannover 96,VfL Wolfsburg,2,0,H,2011/2012
+1. FSV Mainz 05,1. FC Köln,4,0,H,2011/2012
+1. FC Nürnberg,FC Schalke 04,4,1,H,2011/2012
+TSG 1899 Hoffenheim,Hamburger SV,4,0,H,2011/2012
+FC Augsburg,VfB Stuttgart,1,3,A,2011/2012
+Hertha BSC Berlin,SC Freiburg,1,2,A,2011/2012
+Bayer 04 Leverkusen,Hertha BSC Berlin,3,3,D,2011/2012
+FC Bayern Munich,1. FSV Mainz 05,0,0,D,2011/2012
+FC Schalke 04,Borussia Dortmund,1,2,A,2011/2012
+Hamburger SV,Hannover 96,1,0,H,2011/2012
+SC Freiburg,TSG 1899 Hoffenheim,0,0,D,2011/2012
+1. FC Kaiserslautern,1. FC Nürnberg,0,2,A,2011/2012
+VfB Stuttgart,SV Werder Bremen,4,1,H,2011/2012
+VfL Wolfsburg,FC Augsburg,1,2,A,2011/2012
+Borussia Mönchengladbach,1. FC Köln,3,0,H,2011/2012
+Borussia Dortmund,Borussia Mönchengladbach,2,0,H,2011/2012
+SV Werder Bremen,FC Bayern Munich,1,2,A,2011/2012
+Hannover 96,SC Freiburg,0,0,D,2011/2012
+1. FSV Mainz 05,VfL Wolfsburg,0,0,D,2011/2012
+1. FC Nürnberg,Hamburger SV,1,1,D,2011/2012
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,0,1,A,2011/2012
+1. FC Köln,VfB Stuttgart,1,1,D,2011/2012
+FC Augsburg,FC Schalke 04,1,1,D,2011/2012
+Hertha BSC Berlin,1. FC Kaiserslautern,1,2,A,2011/2012
+Bayer 04 Leverkusen,Hannover 96,1,0,H,2011/2012
+FC Bayern Munich,VfB Stuttgart,2,0,H,2011/2012
+FC Schalke 04,Hertha BSC Berlin,4,0,H,2011/2012
+Hamburger SV,1. FSV Mainz 05,0,0,D,2011/2012
+SC Freiburg,1. FC Köln,4,1,H,2011/2012
+1. FC Kaiserslautern,Borussia Dortmund,2,5,A,2011/2012
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,3,A,2011/2012
+VfL Wolfsburg,SV Werder Bremen,3,1,H,2011/2012
+Borussia Mönchengladbach,FC Augsburg,0,0,D,2011/2012
+Borussia Dortmund,SC Freiburg,4,0,H,2011/2012
+SV Werder Bremen,FC Schalke 04,2,3,A,2011/2012
+Hannover 96,1. FC Kaiserslautern,2,1,H,2011/2012
+1. FSV Mainz 05,Borussia Mönchengladbach,0,3,A,2011/2012
+1. FC Nürnberg,Bayer 04 Leverkusen,1,4,A,2011/2012
+VfB Stuttgart,VfL Wolfsburg,3,2,H,2011/2012
+1. FC Köln,FC Bayern Munich,1,4,A,2011/2012
+FC Augsburg,Hamburger SV,1,0,H,2011/2012
+Hertha BSC Berlin,TSG 1899 Hoffenheim,3,1,H,2011/2012
+Bayer 04 Leverkusen,Borussia Dortmund,0,0,D,2011/2012
+FC Schalke 04,Borussia Mönchengladbach,1,0,H,2011/2012
+Hamburger SV,1. FC Köln,3,4,A,2011/2012
+Hannover 96,1. FSV Mainz 05,1,1,D,2011/2012
+1. FC Nürnberg,FC Augsburg,1,0,H,2011/2012
+SC Freiburg,VfL Wolfsburg,3,0,H,2011/2012
+1. FC Kaiserslautern,FC Bayern Munich,0,3,A,2011/2012
+TSG 1899 Hoffenheim,SV Werder Bremen,1,2,A,2011/2012
+Hertha BSC Berlin,VfB Stuttgart,1,0,H,2011/2012
+Borussia Dortmund,Hertha BSC Berlin,1,2,A,2011/2012
+FC Bayern Munich,SC Freiburg,7,0,H,2011/2012
+SV Werder Bremen,Hamburger SV,2,0,H,2011/2012
+1. FSV Mainz 05,TSG 1899 Hoffenheim,0,4,A,2011/2012
+VfB Stuttgart,Hannover 96,3,0,H,2011/2012
+1. FC Köln,1. FC Nürnberg,1,2,A,2011/2012
+VfL Wolfsburg,FC Schalke 04,2,1,H,2011/2012
+Borussia Mönchengladbach,1. FC Kaiserslautern,1,0,H,2011/2012
+FC Augsburg,Bayer 04 Leverkusen,1,4,A,2011/2012
+Bayer 04 Leverkusen,1. FC Köln,1,4,A,2011/2012
+FC Schalke 04,FC Bayern Munich,0,2,A,2011/2012
+Hamburger SV,Borussia Mönchengladbach,0,1,A,2011/2012
+Hannover 96,Borussia Dortmund,2,1,H,2011/2012
+1. FC Nürnberg,SV Werder Bremen,1,1,D,2011/2012
+SC Freiburg,VfB Stuttgart,1,2,A,2011/2012
+1. FC Kaiserslautern,1. FSV Mainz 05,3,1,H,2011/2012
+TSG 1899 Hoffenheim,VfL Wolfsburg,3,1,H,2011/2012
+Hertha BSC Berlin,FC Augsburg,2,2,D,2011/2012
+FC Bayern Munich,Bayer 04 Leverkusen,3,0,H,2011/2012
+FC Schalke 04,SC Freiburg,4,2,H,2011/2012
+SV Werder Bremen,Hertha BSC Berlin,2,1,H,2011/2012
+1. FSV Mainz 05,Borussia Dortmund,1,2,A,2011/2012
+VfB Stuttgart,Hamburger SV,1,2,A,2011/2012
+1. FC Köln,TSG 1899 Hoffenheim,2,0,H,2011/2012
+VfL Wolfsburg,1. FC Kaiserslautern,1,0,H,2011/2012
+Borussia Mönchengladbach,1. FC Nürnberg,1,0,H,2011/2012
+FC Augsburg,Hannover 96,0,0,D,2011/2012
+Borussia Dortmund,FC Augsburg,4,0,H,2011/2012
+Bayer 04 Leverkusen,VfL Wolfsburg,3,1,H,2011/2012
+Hamburger SV,FC Schalke 04,1,2,A,2011/2012
+Hannover 96,SV Werder Bremen,3,2,H,2011/2012
+1. FC Nürnberg,1. FSV Mainz 05,3,3,D,2011/2012
+SC Freiburg,Borussia Mönchengladbach,1,0,H,2011/2012
+1. FC Kaiserslautern,VfB Stuttgart,0,2,A,2011/2012
+TSG 1899 Hoffenheim,FC Bayern Munich,0,0,D,2011/2012
+Hertha BSC Berlin,1. FC Köln,3,0,H,2011/2012
+FC Bayern Munich,Hertha BSC Berlin,4,0,H,2011/2012
+FC Schalke 04,1. FC Kaiserslautern,1,2,A,2011/2012
+SV Werder Bremen,Borussia Dortmund,0,2,A,2011/2012
+1. FSV Mainz 05,FC Augsburg,0,1,A,2011/2012
+SC Freiburg,Hamburger SV,1,2,A,2011/2012
+VfB Stuttgart,TSG 1899 Hoffenheim,2,0,H,2011/2012
+1. FC Köln,Hannover 96,2,0,H,2011/2012
+VfL Wolfsburg,1. FC Nürnberg,2,1,H,2011/2012
+Borussia Mönchengladbach,Bayer 04 Leverkusen,2,2,D,2011/2012
+Borussia Dortmund,SV Werder Bremen,2,1,H,2012/2013
+Hannover 96,FC Schalke 04,2,2,D,2012/2013
+VfB Stuttgart,VfL Wolfsburg,0,1,A,2012/2013
+SC Freiburg,1. FSV Mainz 05,1,1,D,2012/2013
+FC Augsburg,Fortuna Düsseldorf,0,2,A,2012/2013
+Hamburger SV,1. FC Nürnberg,0,1,A,2012/2013
+Eintracht Frankfurt,Bayer 04 Leverkusen,2,1,H,2012/2013
+SpVgg Greuther Fürth,FC Bayern Munich,0,3,A,2012/2013
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,1,H,2012/2013
+Borussia Dortmund,VfB Stuttgart,0,0,D,2012/2013
+Borussia Mönchengladbach,SC Freiburg,1,1,D,2012/2013
+Bayer 04 Leverkusen,Fortuna Düsseldorf,3,2,H,2012/2013
+Hannover 96,FC Augsburg,2,0,H,2012/2013
+SV Werder Bremen,1. FSV Mainz 05,2,1,H,2012/2013
+1. FC Nürnberg,VfL Wolfsburg,1,0,H,2012/2013
+TSG 1899 Hoffenheim,FC Schalke 04,3,2,H,2012/2013
+Hamburger SV,FC Bayern Munich,0,3,A,2012/2013
+Eintracht Frankfurt,SpVgg Greuther Fürth,1,1,D,2012/2013
+FC Bayern Munich,Eintracht Frankfurt,2,0,H,2012/2013
+FC Schalke 04,SV Werder Bremen,2,1,H,2012/2013
+VfB Stuttgart,Hannover 96,2,4,A,2012/2013
+VfL Wolfsburg,Bayer 04 Leverkusen,3,1,H,2012/2013
+SC Freiburg,Hamburger SV,0,0,D,2012/2013
+1. FSV Mainz 05,1. FC Nürnberg,2,1,H,2012/2013
+FC Augsburg,Borussia Dortmund,1,3,A,2012/2013
+SpVgg Greuther Fürth,Borussia Mönchengladbach,2,4,A,2012/2013
+Fortuna Düsseldorf,TSG 1899 Hoffenheim,1,1,D,2012/2013
+Borussia Dortmund,SpVgg Greuther Fürth,3,1,H,2012/2013
+Borussia Mönchengladbach,VfB Stuttgart,1,2,A,2012/2013
+Bayer 04 Leverkusen,FC Schalke 04,2,0,H,2012/2013
+Hannover 96,SC Freiburg,1,2,A,2012/2013
+SV Werder Bremen,Fortuna Düsseldorf,2,1,H,2012/2013
+1. FC Nürnberg,FC Bayern Munich,1,1,D,2012/2013
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,3,A,2012/2013
+Hamburger SV,1. FSV Mainz 05,1,0,H,2012/2013
+Eintracht Frankfurt,FC Augsburg,4,2,H,2012/2013
+FC Bayern Munich,Hannover 96,5,0,H,2012/2013
+FC Schalke 04,Eintracht Frankfurt,1,1,D,2012/2013
+VfL Wolfsburg,SV Werder Bremen,1,1,D,2012/2013
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,2,A,2012/2013
+SC Freiburg,VfB Stuttgart,3,0,H,2012/2013
+1. FSV Mainz 05,Borussia Dortmund,1,2,A,2012/2013
+FC Augsburg,Borussia Mönchengladbach,1,1,D,2012/2013
+SpVgg Greuther Fürth,1. FC Nürnberg,0,0,D,2012/2013
+Fortuna Düsseldorf,Hamburger SV,2,0,H,2012/2013
+Borussia Dortmund,Fortuna Düsseldorf,1,1,D,2012/2013
+Borussia Mönchengladbach,VfL Wolfsburg,2,0,H,2012/2013
+VfB Stuttgart,FC Augsburg,2,1,H,2012/2013
+Hannover 96,SpVgg Greuther Fürth,2,0,H,2012/2013
+SV Werder Bremen,Bayer 04 Leverkusen,1,4,A,2012/2013
+1. FC Nürnberg,TSG 1899 Hoffenheim,4,2,H,2012/2013
+SC Freiburg,FC Bayern Munich,0,2,A,2012/2013
+Hamburger SV,FC Schalke 04,3,1,H,2012/2013
+Eintracht Frankfurt,1. FSV Mainz 05,1,3,A,2012/2013
+FC Bayern Munich,Borussia Dortmund,1,1,D,2012/2013
+FC Schalke 04,Borussia Mönchengladbach,1,1,D,2012/2013
+Bayer 04 Leverkusen,1. FC Nürnberg,1,0,H,2012/2013
+VfL Wolfsburg,Hamburger SV,1,1,D,2012/2013
+TSG 1899 Hoffenheim,SV Werder Bremen,1,4,A,2012/2013
+1. FSV Mainz 05,Hannover 96,2,1,H,2012/2013
+FC Augsburg,SC Freiburg,1,1,D,2012/2013
+SpVgg Greuther Fürth,VfB Stuttgart,0,1,A,2012/2013
+Fortuna Düsseldorf,Eintracht Frankfurt,4,0,H,2012/2013
+Borussia Dortmund,VfL Wolfsburg,2,3,A,2012/2013
+Borussia Mönchengladbach,1. FSV Mainz 05,2,0,H,2012/2013
+VfB Stuttgart,FC Schalke 04,3,1,H,2012/2013
+Hannover 96,Bayer 04 Leverkusen,3,2,H,2012/2013
+1. FC Nürnberg,Fortuna Düsseldorf,2,0,H,2012/2013
+SC Freiburg,SpVgg Greuther Fürth,1,0,H,2012/2013
+FC Augsburg,FC Bayern Munich,0,2,A,2012/2013
+Hamburger SV,TSG 1899 Hoffenheim,2,0,H,2012/2013
+Eintracht Frankfurt,SV Werder Bremen,4,1,H,2012/2013
+FC Bayern Munich,Borussia Mönchengladbach,1,1,D,2012/2013
+FC Schalke 04,SC Freiburg,1,3,A,2012/2013
+Bayer 04 Leverkusen,Hamburger SV,3,0,H,2012/2013
+VfL Wolfsburg,Eintracht Frankfurt,0,2,A,2012/2013
+SV Werder Bremen,1. FC Nürnberg,1,1,D,2012/2013
+TSG 1899 Hoffenheim,Borussia Dortmund,1,3,A,2012/2013
+1. FSV Mainz 05,VfB Stuttgart,3,1,H,2012/2013
+SpVgg Greuther Fürth,FC Augsburg,1,1,D,2012/2013
+Fortuna Düsseldorf,Hannover 96,2,1,H,2012/2013
+SV Werder Bremen,Borussia Dortmund,0,5,A,2012/2013
+FC Schalke 04,Hannover 96,5,4,H,2012/2013
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,0,0,D,2012/2013
+VfL Wolfsburg,VfB Stuttgart,2,0,H,2012/2013
+1. FSV Mainz 05,SC Freiburg,0,0,D,2012/2013
+Fortuna Düsseldorf,FC Augsburg,2,3,A,2012/2013
+1. FC Nürnberg,Hamburger SV,1,1,D,2012/2013
+Bayer 04 Leverkusen,Eintracht Frankfurt,3,1,H,2012/2013
+FC Bayern Munich,SpVgg Greuther Fürth,2,0,H,2012/2013
+VfB Stuttgart,FC Bayern Munich,0,2,A,2012/2013
+FC Augsburg,FC Schalke 04,0,0,D,2012/2013
+SC Freiburg,Bayer 04 Leverkusen,0,0,D,2012/2013
+Hannover 96,VfL Wolfsburg,2,1,H,2012/2013
+Hamburger SV,SV Werder Bremen,3,2,H,2012/2013
+Borussia Dortmund,1. FC Nürnberg,3,0,H,2012/2013
+Eintracht Frankfurt,TSG 1899 Hoffenheim,2,1,H,2012/2013
+SpVgg Greuther Fürth,1. FSV Mainz 05,0,3,A,2012/2013
+Borussia Mönchengladbach,Fortuna Düsseldorf,2,1,H,2012/2013
+FC Bayern Munich,VfB Stuttgart,6,1,H,2012/2013
+FC Schalke 04,FC Augsburg,3,1,H,2012/2013
+Bayer 04 Leverkusen,SC Freiburg,2,0,H,2012/2013
+VfL Wolfsburg,Hannover 96,0,4,A,2012/2013
+SV Werder Bremen,Hamburger SV,2,0,H,2012/2013
+1. FC Nürnberg,Borussia Dortmund,1,1,D,2012/2013
+TSG 1899 Hoffenheim,Eintracht Frankfurt,0,4,A,2012/2013
+1. FSV Mainz 05,SpVgg Greuther Fürth,0,1,A,2012/2013
+Fortuna Düsseldorf,Borussia Mönchengladbach,0,0,D,2012/2013
+Bayer 04 Leverkusen,Borussia Dortmund,2,3,A,2012/2013
+1. FSV Mainz 05,FC Bayern Munich,0,3,A,2012/2013
+1. FC Nürnberg,Borussia Mönchengladbach,2,1,H,2012/2013
+Fortuna Düsseldorf,VfB Stuttgart,3,1,H,2012/2013
+SV Werder Bremen,Hannover 96,2,0,H,2012/2013
+TSG 1899 Hoffenheim,SC Freiburg,2,1,H,2012/2013
+VfL Wolfsburg,FC Augsburg,1,1,D,2012/2013
+FC Schalke 04,SpVgg Greuther Fürth,1,2,A,2012/2013
+Hamburger SV,Eintracht Frankfurt,0,2,A,2012/2013
+FC Bayern Munich,FC Schalke 04,4,0,H,2012/2013
+Borussia Mönchengladbach,Bayer 04 Leverkusen,3,3,D,2012/2013
+SpVgg Greuther Fürth,VfL Wolfsburg,0,1,A,2012/2013
+VfB Stuttgart,SV Werder Bremen,1,4,A,2012/2013
+Eintracht Frankfurt,1. FC Nürnberg,0,0,D,2012/2013
+Hannover 96,TSG 1899 Hoffenheim,1,0,H,2012/2013
+FC Augsburg,1. FSV Mainz 05,1,1,D,2012/2013
+Borussia Dortmund,Hamburger SV,1,4,A,2012/2013
+SC Freiburg,Fortuna Düsseldorf,1,0,H,2012/2013
+VfL Wolfsburg,FC Bayern Munich,0,2,A,2012/2013
+1. FSV Mainz 05,FC Schalke 04,2,2,D,2012/2013
+Hamburger SV,Borussia Mönchengladbach,1,0,H,2012/2013
+TSG 1899 Hoffenheim,VfB Stuttgart,0,1,A,2012/2013
+1. FC Nürnberg,Hannover 96,2,2,D,2012/2013
+SV Werder Bremen,SC Freiburg,2,3,A,2012/2013
+Bayer 04 Leverkusen,FC Augsburg,2,1,H,2012/2013
+Fortuna Düsseldorf,SpVgg Greuther Fürth,1,0,H,2012/2013
+Borussia Dortmund,Eintracht Frankfurt,3,0,H,2012/2013
+Borussia Mönchengladbach,Borussia Dortmund,1,1,D,2012/2013
+SpVgg Greuther Fürth,Bayer 04 Leverkusen,0,0,D,2012/2013
+1. FSV Mainz 05,VfL Wolfsburg,1,1,D,2012/2013
+FC Bayern Munich,SV Werder Bremen,6,1,H,2012/2013
+VfB Stuttgart,1. FC Nürnberg,1,1,D,2012/2013
+FC Augsburg,TSG 1899 Hoffenheim,2,1,H,2012/2013
+Hannover 96,Hamburger SV,5,1,H,2012/2013
+SC Freiburg,Eintracht Frankfurt,0,0,D,2012/2013
+FC Schalke 04,Fortuna Düsseldorf,2,1,H,2012/2013
+TSG 1899 Hoffenheim,FC Bayern Munich,0,1,A,2012/2013
+VfL Wolfsburg,FC Schalke 04,1,4,A,2012/2013
+Eintracht Frankfurt,Borussia Mönchengladbach,0,1,A,2012/2013
+Bayer 04 Leverkusen,VfB Stuttgart,2,1,H,2012/2013
+Borussia Dortmund,Hannover 96,3,1,H,2012/2013
+1. FC Nürnberg,SC Freiburg,1,1,D,2012/2013
+Fortuna Düsseldorf,1. FSV Mainz 05,1,1,D,2012/2013
+SV Werder Bremen,FC Augsburg,0,1,A,2012/2013
+Hamburger SV,SpVgg Greuther Fürth,1,1,D,2012/2013
+FC Schalke 04,Borussia Dortmund,2,1,H,2012/2013
+1. FSV Mainz 05,Bayer 04 Leverkusen,1,0,H,2012/2013
+SC Freiburg,VfL Wolfsburg,2,5,A,2012/2013
+Borussia Mönchengladbach,SV Werder Bremen,1,1,D,2012/2013
+FC Augsburg,1. FC Nürnberg,1,2,A,2012/2013
+SpVgg Greuther Fürth,TSG 1899 Hoffenheim,0,3,A,2012/2013
+VfB Stuttgart,Hamburger SV,0,1,A,2012/2013
+Hannover 96,Eintracht Frankfurt,0,0,D,2012/2013
+FC Bayern Munich,Fortuna Düsseldorf,3,2,H,2012/2013
+Bayer 04 Leverkusen,FC Bayern Munich,1,2,A,2012/2013
+1. FC Nürnberg,FC Schalke 04,3,0,H,2012/2013
+Eintracht Frankfurt,VfB Stuttgart,1,2,A,2012/2013
+Borussia Mönchengladbach,Hannover 96,1,0,H,2012/2013
+Borussia Dortmund,SC Freiburg,5,1,H,2012/2013
+TSG 1899 Hoffenheim,1. FSV Mainz 05,0,0,D,2012/2013
+Hamburger SV,FC Augsburg,0,1,A,2012/2013
+SV Werder Bremen,SpVgg Greuther Fürth,2,2,D,2012/2013
+VfL Wolfsburg,Fortuna Düsseldorf,1,1,D,2012/2013
+VfB Stuttgart,Borussia Dortmund,1,2,A,2012/2013
+SC Freiburg,Borussia Mönchengladbach,2,0,H,2012/2013
+Fortuna Düsseldorf,Bayer 04 Leverkusen,1,4,A,2012/2013
+FC Augsburg,Hannover 96,0,2,A,2012/2013
+1. FSV Mainz 05,SV Werder Bremen,1,1,D,2012/2013
+VfL Wolfsburg,1. FC Nürnberg,2,2,D,2012/2013
+FC Schalke 04,TSG 1899 Hoffenheim,3,0,H,2012/2013
+FC Bayern Munich,Hamburger SV,9,2,H,2012/2013
+SpVgg Greuther Fürth,Eintracht Frankfurt,2,3,A,2012/2013
+Eintracht Frankfurt,FC Bayern Munich,0,1,A,2012/2013
+SV Werder Bremen,FC Schalke 04,0,2,A,2012/2013
+Hannover 96,VfB Stuttgart,0,0,D,2012/2013
+Bayer 04 Leverkusen,VfL Wolfsburg,1,1,D,2012/2013
+Hamburger SV,SC Freiburg,0,1,A,2012/2013
+1. FC Nürnberg,1. FSV Mainz 05,2,1,H,2012/2013
+Borussia Dortmund,FC Augsburg,4,2,H,2012/2013
+Borussia Mönchengladbach,SpVgg Greuther Fürth,1,0,H,2012/2013
+TSG 1899 Hoffenheim,Fortuna Düsseldorf,3,0,H,2012/2013
+SpVgg Greuther Fürth,Borussia Dortmund,1,6,A,2012/2013
+VfB Stuttgart,Borussia Mönchengladbach,2,0,H,2012/2013
+FC Schalke 04,Bayer 04 Leverkusen,2,2,D,2012/2013
+SC Freiburg,Hannover 96,3,1,H,2012/2013
+Fortuna Düsseldorf,SV Werder Bremen,2,2,D,2012/2013
+FC Bayern Munich,1. FC Nürnberg,4,0,H,2012/2013
+VfL Wolfsburg,TSG 1899 Hoffenheim,2,2,D,2012/2013
+1. FSV Mainz 05,Hamburger SV,1,2,A,2012/2013
+FC Augsburg,Eintracht Frankfurt,2,0,H,2012/2013
+Borussia Dortmund,Bayer 04 Leverkusen,3,0,H,2012/2013
+FC Bayern Munich,1. FSV Mainz 05,3,1,H,2012/2013
+Borussia Mönchengladbach,1. FC Nürnberg,2,3,A,2012/2013
+VfB Stuttgart,Fortuna Düsseldorf,0,0,D,2012/2013
+Hannover 96,SV Werder Bremen,3,2,H,2012/2013
+SC Freiburg,TSG 1899 Hoffenheim,5,3,H,2012/2013
+FC Augsburg,VfL Wolfsburg,0,0,D,2012/2013
+SpVgg Greuther Fürth,FC Schalke 04,0,2,A,2012/2013
+Eintracht Frankfurt,Hamburger SV,3,2,H,2012/2013
+Hannover 96,FC Bayern Munich,1,6,A,2012/2013
+Eintracht Frankfurt,FC Schalke 04,1,0,H,2012/2013
+SV Werder Bremen,VfL Wolfsburg,0,3,A,2012/2013
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,5,0,H,2012/2013
+VfB Stuttgart,SC Freiburg,2,1,H,2012/2013
+Borussia Dortmund,1. FSV Mainz 05,2,0,H,2012/2013
+Borussia Mönchengladbach,FC Augsburg,1,0,H,2012/2013
+1. FC Nürnberg,SpVgg Greuther Fürth,0,1,A,2012/2013
+Hamburger SV,Fortuna Düsseldorf,2,1,H,2012/2013
+Fortuna Düsseldorf,Borussia Dortmund,1,2,A,2012/2013
+VfL Wolfsburg,Borussia Mönchengladbach,3,1,H,2012/2013
+FC Augsburg,VfB Stuttgart,3,0,H,2012/2013
+SpVgg Greuther Fürth,Hannover 96,2,3,A,2012/2013
+Bayer 04 Leverkusen,SV Werder Bremen,1,0,H,2012/2013
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,1,H,2012/2013
+FC Bayern Munich,SC Freiburg,1,0,H,2012/2013
+FC Schalke 04,Hamburger SV,4,1,H,2012/2013
+1. FSV Mainz 05,Eintracht Frankfurt,0,0,D,2012/2013
+Borussia Dortmund,FC Bayern Munich,1,1,D,2012/2013
+Borussia Mönchengladbach,FC Schalke 04,0,1,A,2012/2013
+1. FC Nürnberg,Bayer 04 Leverkusen,0,2,A,2012/2013
+Hamburger SV,VfL Wolfsburg,1,1,D,2012/2013
+SV Werder Bremen,TSG 1899 Hoffenheim,2,2,D,2012/2013
+Hannover 96,1. FSV Mainz 05,2,2,D,2012/2013
+SC Freiburg,FC Augsburg,2,0,H,2012/2013
+VfB Stuttgart,SpVgg Greuther Fürth,0,2,A,2012/2013
+Eintracht Frankfurt,Fortuna Düsseldorf,3,1,H,2012/2013
+VfL Wolfsburg,Borussia Dortmund,3,3,D,2012/2013
+1. FSV Mainz 05,Borussia Mönchengladbach,2,4,A,2012/2013
+FC Schalke 04,VfB Stuttgart,1,2,A,2012/2013
+Bayer 04 Leverkusen,Hannover 96,3,1,H,2012/2013
+Fortuna Düsseldorf,1. FC Nürnberg,1,2,A,2012/2013
+SpVgg Greuther Fürth,SC Freiburg,1,2,A,2012/2013
+FC Bayern Munich,FC Augsburg,3,0,H,2012/2013
+TSG 1899 Hoffenheim,Hamburger SV,1,4,A,2012/2013
+SV Werder Bremen,Eintracht Frankfurt,1,1,D,2012/2013
+Borussia Mönchengladbach,FC Bayern Munich,3,4,A,2012/2013
+SC Freiburg,FC Schalke 04,1,2,A,2012/2013
+Hamburger SV,Bayer 04 Leverkusen,0,1,A,2012/2013
+Eintracht Frankfurt,VfL Wolfsburg,2,2,D,2012/2013
+1. FC Nürnberg,SV Werder Bremen,3,2,H,2012/2013
+Borussia Dortmund,TSG 1899 Hoffenheim,1,2,A,2012/2013
+VfB Stuttgart,1. FSV Mainz 05,2,2,D,2012/2013
+FC Augsburg,SpVgg Greuther Fürth,3,1,H,2012/2013
+Hannover 96,Fortuna Düsseldorf,3,0,H,2012/2013
+FC Schalke 04,FC Bayern Munich,0,2,A,2012/2013
+Bayer 04 Leverkusen,Borussia Mönchengladbach,1,1,D,2012/2013
+VfL Wolfsburg,SpVgg Greuther Fürth,1,1,D,2012/2013
+SV Werder Bremen,VfB Stuttgart,2,2,D,2012/2013
+1. FC Nürnberg,Eintracht Frankfurt,1,2,A,2012/2013
+TSG 1899 Hoffenheim,Hannover 96,3,1,H,2012/2013
+1. FSV Mainz 05,FC Augsburg,2,0,H,2012/2013
+Hamburger SV,Borussia Dortmund,3,2,H,2012/2013
+Fortuna Düsseldorf,SC Freiburg,0,0,D,2012/2013
+FC Bayern Munich,VfL Wolfsburg,3,0,H,2012/2013
+FC Schalke 04,1. FSV Mainz 05,3,0,H,2012/2013
+Borussia Mönchengladbach,Hamburger SV,2,2,D,2012/2013
+VfB Stuttgart,TSG 1899 Hoffenheim,0,3,A,2012/2013
+Hannover 96,1. FC Nürnberg,4,1,H,2012/2013
+SC Freiburg,SV Werder Bremen,1,2,A,2012/2013
+FC Augsburg,Bayer 04 Leverkusen,1,3,A,2012/2013
+SpVgg Greuther Fürth,Fortuna Düsseldorf,0,2,A,2012/2013
+Eintracht Frankfurt,Borussia Dortmund,3,3,D,2012/2013
+Borussia Dortmund,Borussia Mönchengladbach,5,0,H,2012/2013
+Bayer 04 Leverkusen,SpVgg Greuther Fürth,2,0,H,2012/2013
+VfL Wolfsburg,1. FSV Mainz 05,0,2,A,2012/2013
+SV Werder Bremen,FC Bayern Munich,0,2,A,2012/2013
+1. FC Nürnberg,VfB Stuttgart,0,2,A,2012/2013
+TSG 1899 Hoffenheim,FC Augsburg,0,0,D,2012/2013
+Hamburger SV,Hannover 96,1,0,H,2012/2013
+Eintracht Frankfurt,SC Freiburg,2,1,H,2012/2013
+Fortuna Düsseldorf,FC Schalke 04,2,2,D,2012/2013
+FC Bayern Munich,TSG 1899 Hoffenheim,2,0,H,2012/2013
+FC Schalke 04,VfL Wolfsburg,3,0,H,2012/2013
+Borussia Mönchengladbach,Eintracht Frankfurt,2,0,H,2012/2013
+VfB Stuttgart,Bayer 04 Leverkusen,2,2,D,2012/2013
+Hannover 96,Borussia Dortmund,1,1,D,2012/2013
+SC Freiburg,1. FC Nürnberg,3,0,H,2012/2013
+1. FSV Mainz 05,Fortuna Düsseldorf,1,0,H,2012/2013
+FC Augsburg,SV Werder Bremen,3,1,H,2012/2013
+SpVgg Greuther Fürth,Hamburger SV,0,1,A,2012/2013
+Borussia Dortmund,FC Schalke 04,1,2,A,2012/2013
+Bayer 04 Leverkusen,1. FSV Mainz 05,2,2,D,2012/2013
+VfL Wolfsburg,SC Freiburg,0,2,A,2012/2013
+SV Werder Bremen,Borussia Mönchengladbach,4,0,H,2012/2013
+1. FC Nürnberg,FC Augsburg,0,0,D,2012/2013
+TSG 1899 Hoffenheim,SpVgg Greuther Fürth,3,3,D,2012/2013
+Hamburger SV,VfB Stuttgart,0,1,A,2012/2013
+Eintracht Frankfurt,Hannover 96,3,1,H,2012/2013
+Fortuna Düsseldorf,FC Bayern Munich,0,5,A,2012/2013
+FC Bayern Munich,Bayer 04 Leverkusen,1,2,A,2012/2013
+FC Schalke 04,1. FC Nürnberg,1,0,H,2012/2013
+VfB Stuttgart,Eintracht Frankfurt,2,1,H,2012/2013
+Hannover 96,Borussia Mönchengladbach,2,3,A,2012/2013
+SC Freiburg,Borussia Dortmund,0,2,A,2012/2013
+1. FSV Mainz 05,TSG 1899 Hoffenheim,3,0,H,2012/2013
+FC Augsburg,Hamburger SV,0,2,A,2012/2013
+SpVgg Greuther Fürth,SV Werder Bremen,1,1,D,2012/2013
+Fortuna Düsseldorf,VfL Wolfsburg,1,4,A,2012/2013
+FC Bayern Munich,Borussia Mönchengladbach,3,1,H,2013/2014
+1. FSV Mainz 05,VfB Stuttgart,3,2,H,2013/2014
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,2,D,2013/2014
+FC Schalke 04,Hamburger SV,3,3,D,2013/2014
+Bayer 04 Leverkusen,SC Freiburg,3,1,H,2013/2014
+Hannover 96,VfL Wolfsburg,2,0,H,2013/2014
+FC Augsburg,Borussia Dortmund,0,4,A,2013/2014
+Eintracht Braunschweig,SV Werder Bremen,0,1,A,2013/2014
+Hertha BSC Berlin,Eintracht Frankfurt,6,1,H,2013/2014
+FC Bayern Munich,Hertha BSC Berlin,3,2,H,2013/2014
+FC Schalke 04,Borussia Dortmund,1,3,A,2013/2014
+Borussia Mönchengladbach,Eintracht Frankfurt,4,1,H,2013/2014
+Bayer 04 Leverkusen,FC Augsburg,2,1,H,2013/2014
+VfB Stuttgart,1. FC Nürnberg,1,1,D,2013/2014
+Hannover 96,TSG 1899 Hoffenheim,1,4,A,2013/2014
+VfL Wolfsburg,SV Werder Bremen,3,0,H,2013/2014
+SC Freiburg,Hamburger SV,0,3,A,2013/2014
+1. FSV Mainz 05,Eintracht Braunschweig,2,0,H,2013/2014
+Borussia Dortmund,VfB Stuttgart,6,1,H,2013/2014
+SV Werder Bremen,Hannover 96,3,2,H,2013/2014
+1. FC Nürnberg,SC Freiburg,0,3,A,2013/2014
+TSG 1899 Hoffenheim,FC Bayern Munich,1,2,A,2013/2014
+FC Augsburg,1. FSV Mainz 05,2,1,H,2013/2014
+Hamburger SV,Borussia Mönchengladbach,0,2,A,2013/2014
+Eintracht Braunschweig,Bayer 04 Leverkusen,1,0,H,2013/2014
+Eintracht Frankfurt,VfL Wolfsburg,1,2,A,2013/2014
+Hertha BSC Berlin,FC Schalke 04,0,2,A,2013/2014
+FC Bayern Munich,FC Augsburg,3,0,H,2013/2014
+FC Schalke 04,SV Werder Bremen,3,1,H,2013/2014
+Borussia Mönchengladbach,1. FC Nürnberg,3,1,H,2013/2014
+Bayer 04 Leverkusen,Hamburger SV,5,3,H,2013/2014
+Hannover 96,Eintracht Braunschweig,0,0,D,2013/2014
+VfL Wolfsburg,Borussia Dortmund,2,1,H,2013/2014
+TSG 1899 Hoffenheim,Hertha BSC Berlin,2,3,A,2013/2014
+SC Freiburg,VfB Stuttgart,1,3,A,2013/2014
+1. FSV Mainz 05,Eintracht Frankfurt,1,0,H,2013/2014
+Borussia Dortmund,FC Bayern Munich,0,3,A,2013/2014
+VfB Stuttgart,Borussia Mönchengladbach,0,2,A,2013/2014
+SV Werder Bremen,1. FSV Mainz 05,2,3,A,2013/2014
+1. FC Nürnberg,VfL Wolfsburg,1,1,D,2013/2014
+FC Augsburg,TSG 1899 Hoffenheim,2,0,H,2013/2014
+Hamburger SV,Hannover 96,3,1,H,2013/2014
+Eintracht Braunschweig,SC Freiburg,0,1,A,2013/2014
+Eintracht Frankfurt,FC Schalke 04,3,3,D,2013/2014
+Hertha BSC Berlin,Bayer 04 Leverkusen,0,1,A,2013/2014
+FC Bayern Munich,Eintracht Braunschweig,2,0,H,2013/2014
+FC Schalke 04,VfB Stuttgart,3,0,H,2013/2014
+Borussia Mönchengladbach,SC Freiburg,1,0,H,2013/2014
+Bayer 04 Leverkusen,1. FC Nürnberg,3,0,H,2013/2014
+Hannover 96,Eintracht Frankfurt,2,0,H,2013/2014
+VfL Wolfsburg,Hamburger SV,1,1,D,2013/2014
+TSG 1899 Hoffenheim,SV Werder Bremen,4,4,D,2013/2014
+1. FSV Mainz 05,Borussia Dortmund,1,3,A,2013/2014
+Hertha BSC Berlin,FC Augsburg,0,0,D,2013/2014
+Borussia Dortmund,Bayer 04 Leverkusen,0,1,A,2013/2014
+Borussia Mönchengladbach,FC Schalke 04,2,1,H,2013/2014
+VfB Stuttgart,Hannover 96,4,2,H,2013/2014
+SV Werder Bremen,FC Bayern Munich,0,7,A,2013/2014
+1. FC Nürnberg,1. FSV Mainz 05,1,1,D,2013/2014
+SC Freiburg,VfL Wolfsburg,0,3,A,2013/2014
+Hamburger SV,FC Augsburg,0,1,A,2013/2014
+Eintracht Braunschweig,Hertha BSC Berlin,0,2,A,2013/2014
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1,2,A,2013/2014
+FC Bayern Munich,Hamburger SV,3,1,H,2013/2014
+FC Schalke 04,SC Freiburg,2,0,H,2013/2014
+Bayer 04 Leverkusen,Eintracht Frankfurt,0,1,A,2013/2014
+Hannover 96,1. FC Nürnberg,3,3,D,2013/2014
+VfL Wolfsburg,VfB Stuttgart,3,1,H,2013/2014
+TSG 1899 Hoffenheim,Borussia Dortmund,2,2,D,2013/2014
+1. FSV Mainz 05,Borussia Mönchengladbach,0,0,D,2013/2014
+FC Augsburg,Eintracht Braunschweig,4,1,H,2013/2014
+Hertha BSC Berlin,SV Werder Bremen,3,2,H,2013/2014
+Borussia Dortmund,Hertha BSC Berlin,1,2,A,2013/2014
+Borussia Mönchengladbach,VfL Wolfsburg,2,2,D,2013/2014
+SV Werder Bremen,Bayer 04 Leverkusen,1,0,H,2013/2014
+1. FC Nürnberg,FC Schalke 04,0,0,D,2013/2014
+SC Freiburg,Hannover 96,2,1,H,2013/2014
+Hamburger SV,1. FSV Mainz 05,2,3,A,2013/2014
+Eintracht Braunschweig,TSG 1899 Hoffenheim,1,0,H,2013/2014
+Eintracht Frankfurt,FC Augsburg,1,1,D,2013/2014
+VfB Stuttgart,FC Bayern Munich,1,2,A,2013/2014
+Borussia Dortmund,FC Augsburg,2,2,D,2013/2014
+Borussia Mönchengladbach,FC Bayern Munich,0,2,A,2013/2014
+VfB Stuttgart,1. FSV Mainz 05,1,2,A,2013/2014
+VfL Wolfsburg,Hannover 96,1,3,A,2013/2014
+SV Werder Bremen,Eintracht Braunschweig,0,0,D,2013/2014
+1. FC Nürnberg,TSG 1899 Hoffenheim,4,0,H,2013/2014
+SC Freiburg,Bayer 04 Leverkusen,3,2,H,2013/2014
+Hamburger SV,FC Schalke 04,0,3,A,2013/2014
+Eintracht Frankfurt,Hertha BSC Berlin,1,0,H,2013/2014
+FC Bayern Munich,Eintracht Frankfurt,5,0,H,2013/2014
+FC Schalke 04,VfL Wolfsburg,2,1,H,2013/2014
+Bayer 04 Leverkusen,VfB Stuttgart,2,1,H,2013/2014
+Hannover 96,Borussia Mönchengladbach,3,1,H,2013/2014
+TSG 1899 Hoffenheim,Hamburger SV,3,0,H,2013/2014
+1. FSV Mainz 05,SC Freiburg,2,0,H,2013/2014
+FC Augsburg,SV Werder Bremen,3,1,H,2013/2014
+Eintracht Braunschweig,Borussia Dortmund,1,2,A,2013/2014
+Hertha BSC Berlin,1. FC Nürnberg,1,3,A,2013/2014
+Borussia Dortmund,Eintracht Braunschweig,2,1,H,2013/2014
+Borussia Mönchengladbach,Hannover 96,3,0,H,2013/2014
+VfB Stuttgart,Bayer 04 Leverkusen,0,1,A,2013/2014
+VfL Wolfsburg,FC Schalke 04,4,0,H,2013/2014
+SV Werder Bremen,FC Augsburg,1,0,H,2013/2014
+1. FC Nürnberg,Hertha BSC Berlin,2,2,D,2013/2014
+SC Freiburg,1. FSV Mainz 05,1,2,A,2013/2014
+Hamburger SV,TSG 1899 Hoffenheim,1,5,A,2013/2014
+Eintracht Frankfurt,FC Bayern Munich,0,1,A,2013/2014
+FC Schalke 04,Hannover 96,2,0,H,2013/2014
+Borussia Mönchengladbach,Bayer 04 Leverkusen,0,1,A,2013/2014
+VfB Stuttgart,FC Augsburg,1,4,A,2013/2014
+VfL Wolfsburg,1. FSV Mainz 05,3,0,H,2013/2014
+SV Werder Bremen,Borussia Dortmund,1,5,A,2013/2014
+1. FC Nürnberg,FC Bayern Munich,0,2,A,2013/2014
+SC Freiburg,TSG 1899 Hoffenheim,1,1,D,2013/2014
+Hamburger SV,Hertha BSC Berlin,0,3,A,2013/2014
+Eintracht Frankfurt,Eintracht Braunschweig,3,0,H,2013/2014
+Borussia Dortmund,Eintracht Frankfurt,4,0,H,2013/2014
+FC Bayern Munich,SC Freiburg,4,0,H,2013/2014
+Bayer 04 Leverkusen,FC Schalke 04,1,2,A,2013/2014
+SV Werder Bremen,Borussia Mönchengladbach,1,1,D,2013/2014
+TSG 1899 Hoffenheim,VfB Stuttgart,4,1,H,2013/2014
+1. FSV Mainz 05,Hannover 96,2,0,H,2013/2014
+FC Augsburg,1. FC Nürnberg,0,1,A,2013/2014
+Eintracht Braunschweig,Hamburger SV,4,2,H,2013/2014
+Hertha BSC Berlin,VfL Wolfsburg,1,2,A,2013/2014
+FC Schalke 04,1. FSV Mainz 05,0,0,D,2013/2014
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,2,D,2013/2014
+VfB Stuttgart,Hertha BSC Berlin,1,2,A,2013/2014
+Hannover 96,FC Bayern Munich,0,4,A,2013/2014
+VfL Wolfsburg,Bayer 04 Leverkusen,3,1,H,2013/2014
+1. FC Nürnberg,Eintracht Braunschweig,2,1,H,2013/2014
+SC Freiburg,FC Augsburg,2,4,A,2013/2014
+Hamburger SV,Borussia Dortmund,3,0,H,2013/2014
+Eintracht Frankfurt,SV Werder Bremen,0,0,D,2013/2014
+Borussia Dortmund,1. FC Nürnberg,3,0,H,2013/2014
+FC Bayern Munich,FC Schalke 04,5,1,H,2013/2014
+Bayer 04 Leverkusen,1. FSV Mainz 05,0,1,A,2013/2014
+SV Werder Bremen,Hamburger SV,1,0,H,2013/2014
+TSG 1899 Hoffenheim,VfL Wolfsburg,6,2,H,2013/2014
+FC Augsburg,Hannover 96,1,1,D,2013/2014
+Eintracht Braunschweig,Borussia Mönchengladbach,1,1,D,2013/2014
+Eintracht Frankfurt,VfB Stuttgart,2,1,H,2013/2014
+Hertha BSC Berlin,SC Freiburg,0,0,D,2013/2014
+FC Schalke 04,TSG 1899 Hoffenheim,4,0,H,2013/2014
+Borussia Mönchengladbach,FC Augsburg,1,2,A,2013/2014
+VfB Stuttgart,Eintracht Braunschweig,2,2,D,2013/2014
+Hannover 96,Bayer 04 Leverkusen,1,1,D,2013/2014
+VfL Wolfsburg,FC Bayern Munich,1,6,A,2013/2014
+1. FC Nürnberg,SV Werder Bremen,0,2,A,2013/2014
+SC Freiburg,Borussia Dortmund,0,1,A,2013/2014
+1. FSV Mainz 05,Hertha BSC Berlin,1,1,D,2013/2014
+Hamburger SV,Eintracht Frankfurt,1,1,D,2013/2014
+Borussia Dortmund,Borussia Mönchengladbach,1,2,A,2013/2014
+FC Bayern Munich,Bayer 04 Leverkusen,2,1,H,2013/2014
+SV Werder Bremen,VfB Stuttgart,1,1,D,2013/2014
+TSG 1899 Hoffenheim,1. FSV Mainz 05,2,4,A,2013/2014
+FC Augsburg,FC Schalke 04,1,2,A,2013/2014
+Hamburger SV,1. FC Nürnberg,2,1,H,2013/2014
+Eintracht Braunschweig,VfL Wolfsburg,1,1,D,2013/2014
+Eintracht Frankfurt,SC Freiburg,1,4,A,2013/2014
+Hertha BSC Berlin,Hannover 96,0,3,A,2013/2014
+FC Schalke 04,Eintracht Braunschweig,3,1,H,2013/2014
+Borussia Mönchengladbach,Hertha BSC Berlin,3,0,H,2013/2014
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,3,A,2013/2014
+VfB Stuttgart,Hamburger SV,1,0,H,2013/2014
+Hannover 96,Borussia Dortmund,0,3,A,2013/2014
+VfL Wolfsburg,FC Augsburg,1,1,D,2013/2014
+1. FC Nürnberg,Eintracht Frankfurt,2,5,A,2013/2014
+SC Freiburg,SV Werder Bremen,3,1,H,2013/2014
+1. FSV Mainz 05,FC Bayern Munich,0,2,A,2013/2014
+Borussia Dortmund,FC Schalke 04,0,0,D,2013/2014
+SV Werder Bremen,VfL Wolfsburg,1,3,A,2013/2014
+1. FC Nürnberg,VfB Stuttgart,2,0,H,2013/2014
+TSG 1899 Hoffenheim,Hannover 96,3,1,H,2013/2014
+FC Augsburg,Bayer 04 Leverkusen,1,3,A,2013/2014
+Hamburger SV,SC Freiburg,1,1,D,2013/2014
+Eintracht Braunschweig,1. FSV Mainz 05,3,1,H,2013/2014
+Eintracht Frankfurt,Borussia Mönchengladbach,1,0,H,2013/2014
+Hertha BSC Berlin,FC Bayern Munich,1,3,A,2013/2014
+FC Bayern Munich,TSG 1899 Hoffenheim,3,3,D,2013/2014
+FC Schalke 04,Hertha BSC Berlin,2,0,H,2013/2014
+Borussia Mönchengladbach,Hamburger SV,3,1,H,2013/2014
+Bayer 04 Leverkusen,Eintracht Braunschweig,1,1,D,2013/2014
+VfB Stuttgart,Borussia Dortmund,2,3,A,2013/2014
+Hannover 96,SV Werder Bremen,1,2,A,2013/2014
+VfL Wolfsburg,Eintracht Frankfurt,2,1,H,2013/2014
+SC Freiburg,1. FC Nürnberg,3,2,H,2013/2014
+1. FSV Mainz 05,FC Augsburg,3,0,H,2013/2014
+Borussia Dortmund,VfL Wolfsburg,2,1,H,2013/2014
+VfB Stuttgart,SC Freiburg,2,0,H,2013/2014
+SV Werder Bremen,FC Schalke 04,1,1,D,2013/2014
+1. FC Nürnberg,Borussia Mönchengladbach,0,2,A,2013/2014
+FC Augsburg,FC Bayern Munich,1,0,H,2013/2014
+Hamburger SV,Bayer 04 Leverkusen,2,1,H,2013/2014
+Eintracht Braunschweig,Hannover 96,3,0,H,2013/2014
+Eintracht Frankfurt,1. FSV Mainz 05,2,0,H,2013/2014
+Hertha BSC Berlin,TSG 1899 Hoffenheim,1,1,D,2013/2014
+Borussia Dortmund,SV Werder Bremen,1,0,H,2013/2014
+FC Bayern Munich,1. FC Nürnberg,2,0,H,2013/2014
+Bayer 04 Leverkusen,Borussia Mönchengladbach,4,2,H,2013/2014
+Hannover 96,FC Schalke 04,2,1,H,2013/2014
+TSG 1899 Hoffenheim,SC Freiburg,3,3,D,2013/2014
+1. FSV Mainz 05,VfL Wolfsburg,2,0,H,2013/2014
+FC Augsburg,VfB Stuttgart,2,1,H,2013/2014
+Eintracht Braunschweig,Eintracht Frankfurt,0,2,A,2013/2014
+Hertha BSC Berlin,Hamburger SV,1,0,H,2013/2014
+FC Bayern Munich,Borussia Dortmund,0,3,A,2013/2014
+FC Schalke 04,Eintracht Frankfurt,2,0,H,2013/2014
+Borussia Mönchengladbach,VfB Stuttgart,1,1,D,2013/2014
+Bayer 04 Leverkusen,Hertha BSC Berlin,2,1,H,2013/2014
+Hannover 96,Hamburger SV,2,1,H,2013/2014
+VfL Wolfsburg,1. FC Nürnberg,4,1,H,2013/2014
+TSG 1899 Hoffenheim,FC Augsburg,2,0,H,2013/2014
+SC Freiburg,Eintracht Braunschweig,2,0,H,2013/2014
+1. FSV Mainz 05,SV Werder Bremen,3,0,H,2013/2014
+Borussia Dortmund,1. FSV Mainz 05,4,2,H,2013/2014
+VfB Stuttgart,FC Schalke 04,3,1,H,2013/2014
+SV Werder Bremen,TSG 1899 Hoffenheim,3,1,H,2013/2014
+1. FC Nürnberg,Bayer 04 Leverkusen,1,4,A,2013/2014
+SC Freiburg,Borussia Mönchengladbach,4,2,H,2013/2014
+FC Augsburg,Hertha BSC Berlin,0,0,D,2013/2014
+Hamburger SV,VfL Wolfsburg,1,3,A,2013/2014
+Eintracht Braunschweig,FC Bayern Munich,0,2,A,2013/2014
+Eintracht Frankfurt,Hannover 96,2,3,A,2013/2014
+FC Bayern Munich,SV Werder Bremen,5,2,H,2013/2014
+FC Schalke 04,Borussia Mönchengladbach,0,1,A,2013/2014
+Bayer 04 Leverkusen,Borussia Dortmund,2,2,D,2013/2014
+Hannover 96,VfB Stuttgart,0,0,D,2013/2014
+VfL Wolfsburg,SC Freiburg,2,2,D,2013/2014
+TSG 1899 Hoffenheim,Eintracht Frankfurt,0,0,D,2013/2014
+1. FSV Mainz 05,1. FC Nürnberg,2,0,H,2013/2014
+FC Augsburg,Hamburger SV,3,1,H,2013/2014
+Hertha BSC Berlin,Eintracht Braunschweig,2,0,H,2013/2014
+Borussia Dortmund,TSG 1899 Hoffenheim,3,2,H,2013/2014
+Borussia Mönchengladbach,1. FSV Mainz 05,3,1,H,2013/2014
+VfB Stuttgart,VfL Wolfsburg,1,2,A,2013/2014
+SV Werder Bremen,Hertha BSC Berlin,2,0,H,2013/2014
+1. FC Nürnberg,Hannover 96,0,2,A,2013/2014
+SC Freiburg,FC Schalke 04,0,2,A,2013/2014
+Hamburger SV,FC Bayern Munich,1,4,A,2013/2014
+Eintracht Braunschweig,FC Augsburg,0,1,A,2013/2014
+Eintracht Frankfurt,Bayer 04 Leverkusen,0,2,A,2013/2014
+FC Bayern Munich,VfB Stuttgart,1,0,H,2013/2014
+FC Schalke 04,1. FC Nürnberg,4,1,H,2013/2014
+Bayer 04 Leverkusen,SV Werder Bremen,2,1,H,2013/2014
+Hannover 96,SC Freiburg,3,2,H,2013/2014
+VfL Wolfsburg,Borussia Mönchengladbach,3,1,H,2013/2014
+TSG 1899 Hoffenheim,Eintracht Braunschweig,3,1,H,2013/2014
+1. FSV Mainz 05,Hamburger SV,3,2,H,2013/2014
+FC Augsburg,Eintracht Frankfurt,2,1,H,2013/2014
+Hertha BSC Berlin,Borussia Dortmund,0,4,A,2013/2014
+SC Freiburg,FC Bayern Munich,1,1,D,2013/2014
+FC Schalke 04,Bayer 04 Leverkusen,2,0,H,2013/2014
+Borussia Mönchengladbach,SV Werder Bremen,4,1,H,2013/2014
+VfB Stuttgart,TSG 1899 Hoffenheim,6,2,H,2013/2014
+Hannover 96,1. FSV Mainz 05,4,1,H,2013/2014
+VfL Wolfsburg,Hertha BSC Berlin,2,0,H,2013/2014
+1. FC Nürnberg,FC Augsburg,0,1,A,2013/2014
+Hamburger SV,Eintracht Braunschweig,4,0,H,2013/2014
+Eintracht Frankfurt,Borussia Dortmund,1,2,A,2013/2014
+Borussia Dortmund,Hamburger SV,6,2,H,2013/2014
+FC Bayern Munich,Hannover 96,2,0,H,2013/2014
+Bayer 04 Leverkusen,VfL Wolfsburg,3,1,H,2013/2014
+SV Werder Bremen,Eintracht Frankfurt,0,3,A,2013/2014
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,1,H,2013/2014
+1. FSV Mainz 05,FC Schalke 04,0,1,A,2013/2014
+FC Augsburg,SC Freiburg,2,1,H,2013/2014
+Eintracht Braunschweig,1. FC Nürnberg,1,1,D,2013/2014
+Hertha BSC Berlin,VfB Stuttgart,0,1,A,2013/2014
+FC Schalke 04,FC Bayern Munich,0,4,A,2013/2014
+Borussia Mönchengladbach,Eintracht Braunschweig,4,1,H,2013/2014
+VfB Stuttgart,Eintracht Frankfurt,1,1,D,2013/2014
+Hannover 96,FC Augsburg,2,1,H,2013/2014
+VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,H,2013/2014
+1. FC Nürnberg,Borussia Dortmund,1,1,D,2013/2014
+SC Freiburg,Hertha BSC Berlin,1,1,D,2013/2014
+1. FSV Mainz 05,Bayer 04 Leverkusen,1,4,A,2013/2014
+Hamburger SV,SV Werder Bremen,0,2,A,2013/2014
+Borussia Dortmund,SC Freiburg,5,0,H,2013/2014
+FC Bayern Munich,VfL Wolfsburg,1,0,H,2013/2014
+Bayer 04 Leverkusen,Hannover 96,2,0,H,2013/2014
+SV Werder Bremen,1. FC Nürnberg,3,3,D,2013/2014
+TSG 1899 Hoffenheim,FC Schalke 04,3,3,D,2013/2014
+FC Augsburg,Borussia Mönchengladbach,2,2,D,2013/2014
+Eintracht Braunschweig,VfB Stuttgart,0,4,A,2013/2014
+Eintracht Frankfurt,Hamburger SV,2,2,D,2013/2014
+Hertha BSC Berlin,1. FSV Mainz 05,3,1,H,2013/2014
+FC Schalke 04,FC Augsburg,4,1,H,2013/2014
+Borussia Mönchengladbach,Borussia Dortmund,2,0,H,2013/2014
+Bayer 04 Leverkusen,FC Bayern Munich,1,1,D,2013/2014
+VfB Stuttgart,SV Werder Bremen,1,1,D,2013/2014
+Hannover 96,Hertha BSC Berlin,1,1,D,2013/2014
+VfL Wolfsburg,Eintracht Braunschweig,0,2,A,2013/2014
+1. FC Nürnberg,Hamburger SV,0,5,A,2013/2014
+SC Freiburg,Eintracht Frankfurt,1,1,D,2013/2014
+1. FSV Mainz 05,TSG 1899 Hoffenheim,2,2,D,2013/2014
+Borussia Dortmund,Hannover 96,1,0,H,2013/2014
+FC Bayern Munich,1. FSV Mainz 05,4,1,H,2013/2014
+SV Werder Bremen,SC Freiburg,0,0,D,2013/2014
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,2,A,2013/2014
+FC Augsburg,VfL Wolfsburg,1,2,A,2013/2014
+Hamburger SV,VfB Stuttgart,3,3,D,2013/2014
+Eintracht Braunschweig,FC Schalke 04,2,3,A,2013/2014
+Eintracht Frankfurt,1. FC Nürnberg,1,1,D,2013/2014
+Hertha BSC Berlin,Borussia Mönchengladbach,1,0,H,2013/2014
+FC Bayern Munich,VfL Wolfsburg,2,1,H,2014/2015
+Borussia Dortmund,Bayer 04 Leverkusen,0,2,A,2014/2015
+Borussia Mönchengladbach,VfB Stuttgart,1,1,D,2014/2015
+TSG 1899 Hoffenheim,FC Augsburg,2,0,H,2014/2015
+Hannover 96,FC Schalke 04,2,1,H,2014/2015
+Hertha BSC Berlin,SV Werder Bremen,2,2,D,2014/2015
+Eintracht Frankfurt,SC Freiburg,1,0,H,2014/2015
+1. FC Köln,Hamburger SV,0,0,D,2014/2015
+SC Paderborn 07,1. FSV Mainz 05,2,2,D,2014/2015
+FC Bayern Munich,Borussia Dortmund,2,1,H,2014/2015
+FC Schalke 04,FC Augsburg,1,0,H,2014/2015
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,3,1,H,2014/2015
+1. FSV Mainz 05,SV Werder Bremen,1,2,A,2014/2015
+Hannover 96,Eintracht Frankfurt,1,0,H,2014/2015
+VfB Stuttgart,VfL Wolfsburg,0,4,A,2014/2015
+Hamburger SV,Bayer 04 Leverkusen,1,0,H,2014/2015
+1. FC Köln,SC Freiburg,0,1,A,2014/2015
+SC Paderborn 07,Hertha BSC Berlin,3,1,H,2014/2015
+Borussia Dortmund,Borussia Mönchengladbach,1,0,H,2014/2015
+Bayer 04 Leverkusen,1. FSV Mainz 05,0,0,D,2014/2015
+VfL Wolfsburg,Hamburger SV,2,0,H,2014/2015
+FC Augsburg,SC Paderborn 07,3,0,H,2014/2015
+TSG 1899 Hoffenheim,1. FC Köln,3,4,A,2014/2015
+Hertha BSC Berlin,Hannover 96,0,2,A,2014/2015
+SV Werder Bremen,VfB Stuttgart,2,0,H,2014/2015
+Eintracht Frankfurt,FC Bayern Munich,0,4,A,2014/2015
+SC Freiburg,FC Schalke 04,2,0,H,2014/2015
+FC Bayern Munich,TSG 1899 Hoffenheim,4,0,H,2014/2015
+FC Schalke 04,VfL Wolfsburg,3,2,H,2014/2015
+Borussia Mönchengladbach,Eintracht Frankfurt,1,3,A,2014/2015
+1. FSV Mainz 05,SC Freiburg,2,2,D,2014/2015
+Hannover 96,Bayer 04 Leverkusen,1,3,A,2014/2015
+VfB Stuttgart,FC Augsburg,0,1,A,2014/2015
+Hamburger SV,SV Werder Bremen,2,0,H,2014/2015
+1. FC Köln,Hertha BSC Berlin,1,2,A,2014/2015
+SC Paderborn 07,Borussia Dortmund,2,2,D,2014/2015
+FC Schalke 04,1. FSV Mainz 05,4,1,H,2014/2015
+Bayer 04 Leverkusen,1. FC Köln,5,1,H,2014/2015
+VfL Wolfsburg,Borussia Mönchengladbach,1,0,H,2014/2015
+FC Augsburg,Hamburger SV,3,1,H,2014/2015
+TSG 1899 Hoffenheim,Hannover 96,4,3,H,2014/2015
+Hertha BSC Berlin,FC Bayern Munich,0,1,A,2014/2015
+SV Werder Bremen,SC Paderborn 07,4,0,H,2014/2015
+Eintracht Frankfurt,Borussia Dortmund,2,0,H,2014/2015
+SC Freiburg,VfB Stuttgart,1,4,A,2014/2015
+FC Bayern Munich,Bayer 04 Leverkusen,1,0,H,2014/2015
+Borussia Dortmund,TSG 1899 Hoffenheim,1,0,H,2014/2015
+Borussia Mönchengladbach,Hertha BSC Berlin,3,2,H,2014/2015
+Hannover 96,VfL Wolfsburg,1,3,A,2014/2015
+Eintracht Frankfurt,SV Werder Bremen,5,2,H,2014/2015
+VfB Stuttgart,FC Schalke 04,0,4,A,2014/2015
+Hamburger SV,1. FSV Mainz 05,2,1,H,2014/2015
+1. FC Köln,FC Augsburg,1,2,A,2014/2015
+SC Paderborn 07,SC Freiburg,1,1,D,2014/2015
+FC Schalke 04,1. FC Köln,1,2,A,2014/2015
+Bayer 04 Leverkusen,Borussia Mönchengladbach,1,1,D,2014/2015
+VfL Wolfsburg,SC Paderborn 07,1,1,D,2014/2015
+1. FSV Mainz 05,VfB Stuttgart,1,1,D,2014/2015
+FC Augsburg,FC Bayern Munich,0,4,A,2014/2015
+TSG 1899 Hoffenheim,Eintracht Frankfurt,3,2,H,2014/2015
+Hertha BSC Berlin,Borussia Dortmund,1,0,H,2014/2015
+SV Werder Bremen,Hannover 96,3,3,D,2014/2015
+SC Freiburg,Hamburger SV,0,0,D,2014/2015
+FC Bayern Munich,SC Freiburg,2,0,H,2014/2015
+Borussia Dortmund,VfL Wolfsburg,2,2,D,2014/2015
+Borussia Mönchengladbach,SV Werder Bremen,4,1,H,2014/2015
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,0,1,A,2014/2015
+Hannover 96,FC Augsburg,2,0,H,2014/2015
+Eintracht Frankfurt,Hertha BSC Berlin,4,4,D,2014/2015
+Hamburger SV,VfB Stuttgart,0,1,A,2014/2015
+1. FC Köln,1. FSV Mainz 05,0,0,D,2014/2015
+SC Paderborn 07,FC Schalke 04,1,2,A,2014/2015
+FC Schalke 04,Hamburger SV,0,0,D,2014/2015
+Bayer 04 Leverkusen,Eintracht Frankfurt,1,1,D,2014/2015
+VfL Wolfsburg,1. FC Köln,2,1,H,2014/2015
+1. FSV Mainz 05,FC Bayern Munich,1,2,A,2014/2015
+FC Augsburg,Borussia Mönchengladbach,2,1,H,2014/2015
+Hertha BSC Berlin,TSG 1899 Hoffenheim,0,5,A,2014/2015
+SV Werder Bremen,Borussia Dortmund,2,1,H,2014/2015
+SC Freiburg,Hannover 96,2,2,D,2014/2015
+VfB Stuttgart,SC Paderborn 07,0,0,D,2014/2015
+FC Schalke 04,Hannover 96,1,0,H,2014/2015
+Bayer 04 Leverkusen,Borussia Dortmund,0,0,D,2014/2015
+VfL Wolfsburg,FC Bayern Munich,4,1,H,2014/2015
+1. FSV Mainz 05,SC Paderborn 07,5,0,H,2014/2015
+FC Augsburg,TSG 1899 Hoffenheim,3,1,H,2014/2015
+SV Werder Bremen,Hertha BSC Berlin,2,0,H,2014/2015
+SC Freiburg,Eintracht Frankfurt,4,1,H,2014/2015
+VfB Stuttgart,Borussia Mönchengladbach,0,1,A,2014/2015
+Hamburger SV,1. FC Köln,0,2,A,2014/2015
+FC Bayern Munich,FC Schalke 04,1,1,D,2014/2015
+Borussia Dortmund,FC Augsburg,0,1,A,2014/2015
+Borussia Mönchengladbach,SC Freiburg,1,0,H,2014/2015
+TSG 1899 Hoffenheim,SV Werder Bremen,1,2,A,2014/2015
+Hannover 96,1. FSV Mainz 05,1,1,D,2014/2015
+Hertha BSC Berlin,Bayer 04 Leverkusen,0,1,A,2014/2015
+Eintracht Frankfurt,VfL Wolfsburg,1,1,D,2014/2015
+1. FC Köln,VfB Stuttgart,0,0,D,2014/2015
+SC Paderborn 07,Hamburger SV,0,3,A,2014/2015
+FC Schalke 04,FC Bayern Munich,1,1,D,2014/2015
+Bayer 04 Leverkusen,Hertha BSC Berlin,4,2,H,2014/2015
+VfL Wolfsburg,Eintracht Frankfurt,2,2,D,2014/2015
+1. FSV Mainz 05,Hannover 96,0,0,D,2014/2015
+FC Augsburg,Borussia Dortmund,2,3,A,2014/2015
+SV Werder Bremen,TSG 1899 Hoffenheim,1,1,D,2014/2015
+SC Freiburg,Borussia Mönchengladbach,0,0,D,2014/2015
+VfB Stuttgart,1. FC Köln,0,2,A,2014/2015
+Hamburger SV,SC Paderborn 07,0,3,A,2014/2015
+FC Schalke 04,Borussia Mönchengladbach,1,0,H,2014/2015
+VfL Wolfsburg,TSG 1899 Hoffenheim,3,0,H,2014/2015
+1. FSV Mainz 05,Hertha BSC Berlin,0,2,A,2014/2015
+FC Augsburg,Eintracht Frankfurt,2,2,D,2014/2015
+SV Werder Bremen,Bayer 04 Leverkusen,2,1,H,2014/2015
+SC Freiburg,Borussia Dortmund,0,3,A,2014/2015
+VfB Stuttgart,FC Bayern Munich,0,2,A,2014/2015
+Hamburger SV,Hannover 96,2,1,H,2014/2015
+1. FC Köln,SC Paderborn 07,0,0,D,2014/2015
+FC Bayern Munich,Hamburger SV,8,0,H,2014/2015
+Borussia Dortmund,1. FSV Mainz 05,4,2,H,2014/2015
+Bayer 04 Leverkusen,VfL Wolfsburg,4,5,A,2014/2015
+Borussia Mönchengladbach,1. FC Köln,1,0,H,2014/2015
+TSG 1899 Hoffenheim,VfB Stuttgart,2,1,H,2014/2015
+Hannover 96,SC Paderborn 07,1,2,A,2014/2015
+Hertha BSC Berlin,SC Freiburg,0,2,A,2014/2015
+SV Werder Bremen,FC Augsburg,3,2,H,2014/2015
+Eintracht Frankfurt,FC Schalke 04,1,0,H,2014/2015
+FC Schalke 04,SV Werder Bremen,1,1,D,2014/2015
+VfL Wolfsburg,Hertha BSC Berlin,2,1,H,2014/2015
+1. FSV Mainz 05,Eintracht Frankfurt,3,1,H,2014/2015
+FC Augsburg,Bayer 04 Leverkusen,2,2,D,2014/2015
+SC Freiburg,TSG 1899 Hoffenheim,1,1,D,2014/2015
+VfB Stuttgart,Borussia Dortmund,2,3,A,2014/2015
+Hamburger SV,Borussia Mönchengladbach,1,1,D,2014/2015
+1. FC Köln,Hannover 96,1,1,D,2014/2015
+SC Paderborn 07,FC Bayern Munich,0,6,A,2014/2015
+FC Bayern Munich,1. FC Köln,4,1,H,2014/2015
+Borussia Dortmund,FC Schalke 04,3,0,H,2014/2015
+Bayer 04 Leverkusen,SC Freiburg,1,0,H,2014/2015
+Borussia Mönchengladbach,SC Paderborn 07,2,0,H,2014/2015
+TSG 1899 Hoffenheim,1. FSV Mainz 05,2,0,H,2014/2015
+Hannover 96,VfB Stuttgart,1,1,D,2014/2015
+Hertha BSC Berlin,FC Augsburg,1,0,H,2014/2015
+SV Werder Bremen,VfL Wolfsburg,3,5,A,2014/2015
+Eintracht Frankfurt,Hamburger SV,2,1,H,2014/2015
+FC Schalke 04,TSG 1899 Hoffenheim,3,1,H,2014/2015
+1. FSV Mainz 05,Borussia Mönchengladbach,2,2,D,2014/2015
+FC Augsburg,VfL Wolfsburg,1,0,H,2014/2015
+Hannover 96,FC Bayern Munich,1,3,A,2014/2015
+SC Freiburg,SV Werder Bremen,0,1,A,2014/2015
+VfB Stuttgart,Hertha BSC Berlin,0,0,D,2014/2015
+Hamburger SV,Borussia Dortmund,0,0,D,2014/2015
+1. FC Köln,Eintracht Frankfurt,4,2,H,2014/2015
+SC Paderborn 07,Bayer 04 Leverkusen,0,3,A,2014/2015
+Borussia Dortmund,1. FC Köln,0,0,D,2014/2015
+Bayer 04 Leverkusen,VfB Stuttgart,4,0,H,2014/2015
+VfL Wolfsburg,SC Freiburg,3,0,H,2014/2015
+Borussia Mönchengladbach,Hannover 96,2,0,H,2014/2015
+FC Augsburg,1. FSV Mainz 05,0,2,A,2014/2015
+TSG 1899 Hoffenheim,Hamburger SV,3,0,H,2014/2015
+Hertha BSC Berlin,FC Schalke 04,2,2,D,2014/2015
+SV Werder Bremen,FC Bayern Munich,0,4,A,2014/2015
+Eintracht Frankfurt,SC Paderborn 07,4,0,H,2014/2015
+FC Bayern Munich,Borussia Mönchengladbach,0,2,A,2014/2015
+FC Schalke 04,Bayer 04 Leverkusen,0,1,A,2014/2015
+1. FSV Mainz 05,VfL Wolfsburg,1,1,D,2014/2015
+Hannover 96,Borussia Dortmund,2,3,A,2014/2015
+SC Freiburg,FC Augsburg,2,0,H,2014/2015
+VfB Stuttgart,Eintracht Frankfurt,3,1,H,2014/2015
+Hamburger SV,Hertha BSC Berlin,0,1,A,2014/2015
+1. FC Köln,SV Werder Bremen,1,1,D,2014/2015
+SC Paderborn 07,TSG 1899 Hoffenheim,0,0,D,2014/2015
+Borussia Dortmund,FC Bayern Munich,0,1,A,2014/2015
+Bayer 04 Leverkusen,Hamburger SV,4,0,H,2014/2015
+VfL Wolfsburg,VfB Stuttgart,3,1,H,2014/2015
+FC Augsburg,FC Schalke 04,0,0,D,2014/2015
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,4,A,2014/2015
+Hertha BSC Berlin,SC Paderborn 07,2,0,H,2014/2015
+SV Werder Bremen,1. FSV Mainz 05,0,0,D,2014/2015
+Eintracht Frankfurt,Hannover 96,2,2,D,2014/2015
+SC Freiburg,1. FC Köln,1,0,H,2014/2015
+FC Bayern Munich,Eintracht Frankfurt,3,0,H,2014/2015
+FC Schalke 04,SC Freiburg,0,0,D,2014/2015
+Borussia Mönchengladbach,Borussia Dortmund,3,1,H,2014/2015
+1. FSV Mainz 05,Bayer 04 Leverkusen,2,3,A,2014/2015
+Hannover 96,Hertha BSC Berlin,1,1,D,2014/2015
+VfB Stuttgart,SV Werder Bremen,3,2,H,2014/2015
+Hamburger SV,VfL Wolfsburg,0,2,A,2014/2015
+1. FC Köln,TSG 1899 Hoffenheim,3,2,H,2014/2015
+SC Paderborn 07,FC Augsburg,2,1,H,2014/2015
+Borussia Dortmund,SC Paderborn 07,3,0,H,2014/2015
+Bayer 04 Leverkusen,Hannover 96,4,0,H,2014/2015
+VfL Wolfsburg,FC Schalke 04,1,1,D,2014/2015
+FC Augsburg,VfB Stuttgart,2,1,H,2014/2015
+TSG 1899 Hoffenheim,FC Bayern Munich,0,2,A,2014/2015
+Hertha BSC Berlin,1. FC Köln,0,0,D,2014/2015
+SV Werder Bremen,Hamburger SV,1,0,H,2014/2015
+Eintracht Frankfurt,Borussia Mönchengladbach,0,0,D,2014/2015
+SC Freiburg,1. FSV Mainz 05,2,3,A,2014/2015
+FC Bayern Munich,VfB Stuttgart,2,0,H,2014/2015
+Borussia Dortmund,SC Freiburg,3,1,H,2014/2015
+Bayer 04 Leverkusen,SV Werder Bremen,3,3,D,2014/2015
+Borussia Mönchengladbach,FC Schalke 04,4,1,H,2014/2015
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,1,D,2014/2015
+Hannover 96,Hamburger SV,2,0,H,2014/2015
+Hertha BSC Berlin,1. FSV Mainz 05,1,3,A,2014/2015
+Eintracht Frankfurt,FC Augsburg,0,1,A,2014/2015
+SC Paderborn 07,1. FC Köln,0,0,D,2014/2015
+FC Bayern Munich,Hertha BSC Berlin,1,0,H,2014/2015
+Borussia Dortmund,Eintracht Frankfurt,2,0,H,2014/2015
+Borussia Mönchengladbach,VfL Wolfsburg,1,0,H,2014/2015
+1. FSV Mainz 05,FC Schalke 04,2,0,H,2014/2015
+Hannover 96,TSG 1899 Hoffenheim,1,2,A,2014/2015
+VfB Stuttgart,SC Freiburg,2,2,D,2014/2015
+Hamburger SV,FC Augsburg,3,2,H,2014/2015
+1. FC Köln,Bayer 04 Leverkusen,1,1,D,2014/2015
+SC Paderborn 07,SV Werder Bremen,2,2,D,2014/2015
+FC Schalke 04,VfB Stuttgart,3,2,H,2014/2015
+Bayer 04 Leverkusen,FC Bayern Munich,2,0,H,2014/2015
+VfL Wolfsburg,Hannover 96,2,2,D,2014/2015
+1. FSV Mainz 05,Hamburger SV,1,2,A,2014/2015
+FC Augsburg,1. FC Köln,0,0,D,2014/2015
+TSG 1899 Hoffenheim,Borussia Dortmund,1,1,D,2014/2015
+Hertha BSC Berlin,Borussia Mönchengladbach,1,2,A,2014/2015
+SV Werder Bremen,Eintracht Frankfurt,1,0,H,2014/2015
+SC Freiburg,SC Paderborn 07,1,2,A,2014/2015
+FC Bayern Munich,FC Augsburg,0,1,A,2014/2015
+Borussia Dortmund,Hertha BSC Berlin,2,0,H,2014/2015
+Borussia Mönchengladbach,Bayer 04 Leverkusen,3,0,H,2014/2015
+Hannover 96,SV Werder Bremen,1,1,D,2014/2015
+Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1,H,2014/2015
+VfB Stuttgart,1. FSV Mainz 05,2,0,H,2014/2015
+Hamburger SV,SC Freiburg,1,1,D,2014/2015
+1. FC Köln,FC Schalke 04,2,0,H,2014/2015
+SC Paderborn 07,VfL Wolfsburg,1,3,A,2014/2015
+FC Schalke 04,SC Paderborn 07,1,0,H,2014/2015
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,0,H,2014/2015
+VfL Wolfsburg,Borussia Dortmund,2,1,H,2014/2015
+1. FSV Mainz 05,1. FC Köln,2,0,H,2014/2015
+FC Augsburg,Hannover 96,1,2,A,2014/2015
+Hertha BSC Berlin,Eintracht Frankfurt,0,0,D,2014/2015
+SV Werder Bremen,Borussia Mönchengladbach,0,2,A,2014/2015
+SC Freiburg,FC Bayern Munich,2,1,H,2014/2015
+VfB Stuttgart,Hamburger SV,2,1,H,2014/2015
+FC Bayern Munich,1. FSV Mainz 05,2,0,H,2014/2015
+Borussia Dortmund,SV Werder Bremen,3,2,H,2014/2015
+Borussia Mönchengladbach,FC Augsburg,1,3,A,2014/2015
+TSG 1899 Hoffenheim,Hertha BSC Berlin,2,1,H,2014/2015
+Hannover 96,SC Freiburg,2,1,H,2014/2015
+Eintracht Frankfurt,Bayer 04 Leverkusen,2,1,H,2014/2015
+Hamburger SV,FC Schalke 04,2,0,H,2014/2015
+1. FC Köln,VfL Wolfsburg,2,2,D,2014/2015
+SC Paderborn 07,VfB Stuttgart,1,2,A,2014/2015
+FC Schalke 04,Eintracht Frankfurt,2,2,D,2014/2015
+VfL Wolfsburg,Bayer 04 Leverkusen,4,1,H,2014/2015
+1. FSV Mainz 05,Borussia Dortmund,2,0,H,2014/2015
+FC Augsburg,SV Werder Bremen,4,2,H,2014/2015
+SC Freiburg,Hertha BSC Berlin,2,2,D,2014/2015
+VfB Stuttgart,TSG 1899 Hoffenheim,0,2,A,2014/2015
+Hamburger SV,FC Bayern Munich,0,0,D,2014/2015
+1. FC Köln,Borussia Mönchengladbach,0,0,D,2014/2015
+SC Paderborn 07,Hannover 96,2,0,H,2014/2015
+FC Bayern Munich,SC Paderborn 07,4,0,H,2014/2015
+Borussia Dortmund,VfB Stuttgart,2,2,D,2014/2015
+Bayer 04 Leverkusen,FC Augsburg,1,0,H,2014/2015
+Borussia Mönchengladbach,Hamburger SV,1,0,H,2014/2015
+TSG 1899 Hoffenheim,SC Freiburg,3,3,D,2014/2015
+Hannover 96,1. FC Köln,1,0,H,2014/2015
+Hertha BSC Berlin,VfL Wolfsburg,1,0,H,2014/2015
+SV Werder Bremen,FC Schalke 04,0,3,A,2014/2015
+Eintracht Frankfurt,1. FSV Mainz 05,2,2,D,2014/2015
+FC Schalke 04,Borussia Dortmund,2,1,H,2014/2015
+VfL Wolfsburg,SV Werder Bremen,2,1,H,2014/2015
+1. FSV Mainz 05,TSG 1899 Hoffenheim,0,0,D,2014/2015
+FC Augsburg,Hertha BSC Berlin,1,0,H,2014/2015
+SC Freiburg,Bayer 04 Leverkusen,0,0,D,2014/2015
+VfB Stuttgart,Hannover 96,1,0,H,2014/2015
+Hamburger SV,Eintracht Frankfurt,1,2,A,2014/2015
+1. FC Köln,FC Bayern Munich,0,2,A,2014/2015
+SC Paderborn 07,Borussia Mönchengladbach,1,2,A,2014/2015
+FC Bayern Munich,Hannover 96,4,0,H,2014/2015
+Borussia Dortmund,Hamburger SV,0,1,A,2014/2015
+Bayer 04 Leverkusen,SC Paderborn 07,2,2,D,2014/2015
+VfL Wolfsburg,FC Augsburg,1,0,H,2014/2015
+Borussia Mönchengladbach,1. FSV Mainz 05,1,1,D,2014/2015
+TSG 1899 Hoffenheim,FC Schalke 04,2,1,H,2014/2015
+Hertha BSC Berlin,VfB Stuttgart,3,2,H,2014/2015
+SV Werder Bremen,SC Freiburg,1,1,D,2014/2015
+Eintracht Frankfurt,1. FC Köln,3,2,H,2014/2015
+FC Bayern Munich,SV Werder Bremen,6,0,H,2014/2015
+FC Schalke 04,Hertha BSC Berlin,2,0,H,2014/2015
+1. FSV Mainz 05,FC Augsburg,2,1,H,2014/2015
+Hannover 96,Borussia Mönchengladbach,0,3,A,2014/2015
+SC Freiburg,VfL Wolfsburg,1,2,A,2014/2015
+VfB Stuttgart,Bayer 04 Leverkusen,3,3,D,2014/2015
+Hamburger SV,TSG 1899 Hoffenheim,1,1,D,2014/2015
+1. FC Köln,Borussia Dortmund,2,1,H,2014/2015
+SC Paderborn 07,Eintracht Frankfurt,3,1,H,2014/2015
+Borussia Dortmund,Hannover 96,0,1,A,2014/2015
+Bayer 04 Leverkusen,FC Schalke 04,1,0,H,2014/2015
+VfL Wolfsburg,1. FSV Mainz 05,3,0,H,2014/2015
+Borussia Mönchengladbach,FC Bayern Munich,0,0,D,2014/2015
+FC Augsburg,SC Freiburg,2,0,H,2014/2015
+TSG 1899 Hoffenheim,SC Paderborn 07,1,0,H,2014/2015
+Hertha BSC Berlin,Hamburger SV,3,0,H,2014/2015
+SV Werder Bremen,1. FC Köln,0,1,A,2014/2015
+Eintracht Frankfurt,VfB Stuttgart,4,5,A,2014/2015
+FC Bayern Munich,Hamburger SV,5,0,H,2015/2016
+Borussia Dortmund,Borussia Mönchengladbach,4,0,H,2015/2016
+Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,1,H,2015/2016
+VfL Wolfsburg,Eintracht Frankfurt,2,1,H,2015/2016
+VfB Stuttgart,1. FC Köln,1,3,A,2015/2016
+FC Augsburg,Hertha BSC Berlin,0,1,A,2015/2016
+SV Werder Bremen,FC Schalke 04,0,3,A,2015/2016
+1. FSV Mainz 05,FC Ingolstadt 04,0,1,A,2015/2016
+SV Darmstadt 98,Hannover 96,2,2,D,2015/2016
+FC Bayern Munich,1. FC Köln,4,0,H,2015/2016
+Borussia Dortmund,FC Augsburg,5,1,H,2015/2016
+Bayer 04 Leverkusen,VfB Stuttgart,4,3,H,2015/2016
+Borussia Mönchengladbach,FC Schalke 04,3,1,H,2015/2016
+Hannover 96,Eintracht Frankfurt,1,2,A,2015/2016
+TSG 1899 Hoffenheim,Hamburger SV,0,1,A,2015/2016
+1. FSV Mainz 05,SV Werder Bremen,1,3,A,2015/2016
+FC Ingolstadt 04,Hertha BSC Berlin,0,1,A,2015/2016
+SV Darmstadt 98,VfL Wolfsburg,0,1,A,2015/2016
+FC Schalke 04,FC Ingolstadt 04,1,1,D,2015/2016
+VfL Wolfsburg,Bayer 04 Leverkusen,2,1,H,2015/2016
+Hamburger SV,Hannover 96,1,2,A,2015/2016
+VfB Stuttgart,SV Darmstadt 98,2,0,H,2015/2016
+FC Augsburg,1. FSV Mainz 05,3,3,D,2015/2016
+SV Werder Bremen,Borussia Dortmund,1,3,A,2015/2016
+Eintracht Frankfurt,FC Bayern Munich,0,0,D,2015/2016
+1. FC Köln,TSG 1899 Hoffenheim,0,0,D,2015/2016
+Hertha BSC Berlin,Borussia Mönchengladbach,1,4,A,2015/2016
+FC Bayern Munich,VfB Stuttgart,4,0,H,2015/2016
+Borussia Dortmund,FC Schalke 04,3,2,H,2015/2016
+Bayer 04 Leverkusen,1. FC Köln,1,2,A,2015/2016
+Borussia Mönchengladbach,FC Ingolstadt 04,0,0,D,2015/2016
+FC Augsburg,SV Werder Bremen,1,2,A,2015/2016
+Hannover 96,Hertha BSC Berlin,1,3,A,2015/2016
+TSG 1899 Hoffenheim,Eintracht Frankfurt,0,0,D,2015/2016
+1. FSV Mainz 05,VfL Wolfsburg,2,0,H,2015/2016
+SV Darmstadt 98,Hamburger SV,1,1,D,2015/2016
+FC Schalke 04,FC Bayern Munich,1,3,A,2015/2016
+Borussia Mönchengladbach,Hannover 96,2,1,H,2015/2016
+VfL Wolfsburg,SV Werder Bremen,6,0,H,2015/2016
+Hamburger SV,Borussia Dortmund,3,1,H,2015/2016
+VfB Stuttgart,FC Augsburg,0,4,A,2015/2016
+Eintracht Frankfurt,Bayer 04 Leverkusen,1,3,A,2015/2016
+1. FC Köln,1. FSV Mainz 05,0,0,D,2015/2016
+Hertha BSC Berlin,TSG 1899 Hoffenheim,1,0,H,2015/2016
+FC Ingolstadt 04,SV Darmstadt 98,3,1,H,2015/2016
+FC Bayern Munich,Hertha BSC Berlin,2,0,H,2015/2016
+Borussia Dortmund,VfB Stuttgart,4,1,H,2015/2016
+Bayer 04 Leverkusen,FC Schalke 04,1,1,D,2015/2016
+FC Augsburg,VfL Wolfsburg,0,0,D,2015/2016
+SV Werder Bremen,Hamburger SV,1,3,A,2015/2016
+Hannover 96,FC Ingolstadt 04,4,0,H,2015/2016
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,3,3,D,2015/2016
+1. FSV Mainz 05,Eintracht Frankfurt,2,1,H,2015/2016
+SV Darmstadt 98,1. FC Köln,0,0,D,2015/2016
+FC Schalke 04,Hannover 96,3,1,H,2015/2016
+Borussia Mönchengladbach,FC Bayern Munich,3,1,H,2015/2016
+VfL Wolfsburg,Borussia Dortmund,1,2,A,2015/2016
+Hamburger SV,1. FSV Mainz 05,1,3,A,2015/2016
+VfB Stuttgart,SV Werder Bremen,1,1,D,2015/2016
+Eintracht Frankfurt,SV Darmstadt 98,0,1,A,2015/2016
+1. FC Köln,FC Augsburg,0,1,A,2015/2016
+Hertha BSC Berlin,Bayer 04 Leverkusen,2,1,H,2015/2016
+FC Ingolstadt 04,TSG 1899 Hoffenheim,1,1,D,2015/2016
+FC Bayern Munich,FC Ingolstadt 04,2,0,H,2015/2016
+Borussia Dortmund,Eintracht Frankfurt,4,1,H,2015/2016
+Bayer 04 Leverkusen,Borussia Mönchengladbach,5,0,H,2015/2016
+VfL Wolfsburg,Hamburger SV,1,1,D,2015/2016
+FC Augsburg,FC Schalke 04,2,1,H,2015/2016
+SV Werder Bremen,1. FC Köln,1,1,D,2015/2016
+TSG 1899 Hoffenheim,Hannover 96,1,0,H,2015/2016
+1. FSV Mainz 05,VfB Stuttgart,0,0,D,2015/2016
+SV Darmstadt 98,Hertha BSC Berlin,0,4,A,2015/2016
+FC Schalke 04,TSG 1899 Hoffenheim,1,0,H,2015/2016
+Borussia Mönchengladbach,SV Darmstadt 98,3,2,H,2015/2016
+Hamburger SV,FC Augsburg,0,1,A,2015/2016
+VfB Stuttgart,VfL Wolfsburg,3,1,H,2015/2016
+Eintracht Frankfurt,SV Werder Bremen,2,1,H,2015/2016
+1. FC Köln,Borussia Dortmund,2,1,H,2015/2016
+Hannover 96,FC Bayern Munich,0,1,A,2015/2016
+Hertha BSC Berlin,1. FSV Mainz 05,2,0,H,2015/2016
+FC Ingolstadt 04,Bayer 04 Leverkusen,0,1,A,2015/2016
+FC Schalke 04,SV Werder Bremen,1,3,A,2015/2016
+Borussia Mönchengladbach,Borussia Dortmund,1,3,A,2015/2016
+Hamburger SV,FC Bayern Munich,1,2,A,2015/2016
+Eintracht Frankfurt,VfL Wolfsburg,3,2,H,2015/2016
+1. FC Köln,VfB Stuttgart,1,3,A,2015/2016
+Hannover 96,SV Darmstadt 98,1,2,A,2015/2016
+Hertha BSC Berlin,FC Augsburg,0,0,D,2015/2016
+TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,1,D,2015/2016
+FC Ingolstadt 04,1. FSV Mainz 05,1,0,H,2015/2016
+FC Bayern Munich,TSG 1899 Hoffenheim,2,0,H,2015/2016
+Borussia Dortmund,FC Ingolstadt 04,2,0,H,2015/2016
+Bayer 04 Leverkusen,Hannover 96,3,0,H,2015/2016
+VfL Wolfsburg,1. FC Köln,1,1,D,2015/2016
+VfB Stuttgart,Hamburger SV,2,1,H,2015/2016
+FC Augsburg,Eintracht Frankfurt,0,0,D,2015/2016
+SV Werder Bremen,Hertha BSC Berlin,3,3,D,2015/2016
+1. FSV Mainz 05,Borussia Mönchengladbach,1,0,H,2015/2016
+SV Darmstadt 98,FC Schalke 04,0,2,A,2015/2016
+FC Schalke 04,SV Darmstadt 98,1,1,D,2015/2016
+Borussia Mönchengladbach,1. FSV Mainz 05,1,2,A,2015/2016
+Hamburger SV,VfB Stuttgart,3,2,H,2015/2016
+Eintracht Frankfurt,FC Augsburg,1,1,D,2015/2016
+1. FC Köln,VfL Wolfsburg,1,1,D,2015/2016
+Hannover 96,Bayer 04 Leverkusen,0,1,A,2015/2016
+Hertha BSC Berlin,SV Werder Bremen,1,1,D,2015/2016
+TSG 1899 Hoffenheim,FC Bayern Munich,1,2,A,2015/2016
+FC Ingolstadt 04,Borussia Dortmund,0,4,A,2015/2016
+FC Schalke 04,VfL Wolfsburg,3,0,H,2015/2016
+Bayer 04 Leverkusen,FC Bayern Munich,0,0,D,2015/2016
+Borussia Mönchengladbach,SV Werder Bremen,5,1,H,2015/2016
+Hamburger SV,1. FC Köln,1,1,D,2015/2016
+Eintracht Frankfurt,VfB Stuttgart,2,4,A,2015/2016
+Hannover 96,1. FSV Mainz 05,0,1,A,2015/2016
+Hertha BSC Berlin,Borussia Dortmund,0,0,D,2015/2016
+TSG 1899 Hoffenheim,SV Darmstadt 98,0,2,A,2015/2016
+FC Ingolstadt 04,FC Augsburg,2,1,H,2015/2016
+Borussia Dortmund,Hannover 96,1,0,H,2015/2016
+VfL Wolfsburg,FC Ingolstadt 04,2,0,H,2015/2016
+Hamburger SV,Borussia Mönchengladbach,3,2,H,2015/2016
+VfB Stuttgart,Hertha BSC Berlin,2,0,H,2015/2016
+FC Augsburg,FC Bayern Munich,1,3,A,2015/2016
+SV Werder Bremen,TSG 1899 Hoffenheim,1,1,D,2015/2016
+1. FC Köln,Eintracht Frankfurt,3,1,H,2015/2016
+1. FSV Mainz 05,FC Schalke 04,2,1,H,2015/2016
+SV Darmstadt 98,Bayer 04 Leverkusen,1,2,A,2015/2016
+FC Bayern Munich,SV Darmstadt 98,3,1,H,2015/2016
+FC Schalke 04,VfB Stuttgart,1,1,D,2015/2016
+Bayer 04 Leverkusen,Borussia Dortmund,0,1,A,2015/2016
+Borussia Mönchengladbach,1. FC Köln,1,0,H,2015/2016
+Eintracht Frankfurt,Hamburger SV,0,0,D,2015/2016
+Hannover 96,FC Augsburg,0,1,A,2015/2016
+Hertha BSC Berlin,VfL Wolfsburg,1,1,D,2015/2016
+TSG 1899 Hoffenheim,1. FSV Mainz 05,3,2,H,2015/2016
+FC Ingolstadt 04,SV Werder Bremen,2,0,H,2015/2016
+Borussia Dortmund,TSG 1899 Hoffenheim,3,1,H,2015/2016
+VfL Wolfsburg,FC Bayern Munich,0,2,A,2015/2016
+Hamburger SV,FC Ingolstadt 04,1,1,D,2015/2016
+VfB Stuttgart,Hannover 96,1,2,A,2015/2016
+FC Augsburg,Borussia Mönchengladbach,2,2,D,2015/2016
+SV Werder Bremen,SV Darmstadt 98,2,2,D,2015/2016
+Eintracht Frankfurt,FC Schalke 04,0,0,D,2015/2016
+1. FC Köln,Hertha BSC Berlin,0,1,A,2015/2016
+1. FSV Mainz 05,Bayer 04 Leverkusen,3,1,H,2015/2016
+FC Bayern Munich,1. FSV Mainz 05,1,2,A,2015/2016
+FC Schalke 04,Hamburger SV,3,2,H,2015/2016
+Bayer 04 Leverkusen,SV Werder Bremen,1,4,A,2015/2016
+Borussia Mönchengladbach,VfB Stuttgart,4,0,H,2015/2016
+Hannover 96,VfL Wolfsburg,0,4,A,2015/2016
+Hertha BSC Berlin,Eintracht Frankfurt,2,0,H,2015/2016
+TSG 1899 Hoffenheim,FC Augsburg,2,1,H,2015/2016
+FC Ingolstadt 04,1. FC Köln,1,1,D,2015/2016
+SV Darmstadt 98,Borussia Dortmund,0,2,A,2015/2016
+Borussia Dortmund,FC Bayern Munich,0,0,D,2015/2016
+VfL Wolfsburg,Borussia Mönchengladbach,2,1,H,2015/2016
+Hamburger SV,Hertha BSC Berlin,2,0,H,2015/2016
+VfB Stuttgart,TSG 1899 Hoffenheim,5,1,H,2015/2016
+FC Augsburg,Bayer 04 Leverkusen,3,3,D,2015/2016
+SV Werder Bremen,Hannover 96,4,1,H,2015/2016
+Eintracht Frankfurt,FC Ingolstadt 04,1,1,D,2015/2016
+1. FC Köln,FC Schalke 04,1,3,A,2015/2016
+1. FSV Mainz 05,SV Darmstadt 98,0,0,D,2015/2016
+FC Bayern Munich,SV Werder Bremen,5,0,H,2015/2016
+Borussia Dortmund,1. FSV Mainz 05,2,0,H,2015/2016
+Bayer 04 Leverkusen,Hamburger SV,1,0,H,2015/2016
+Borussia Mönchengladbach,Eintracht Frankfurt,3,0,H,2015/2016
+Hannover 96,1. FC Köln,0,2,A,2015/2016
+Hertha BSC Berlin,FC Schalke 04,2,0,H,2015/2016
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,0,H,2015/2016
+FC Ingolstadt 04,VfB Stuttgart,3,3,D,2015/2016
+SV Darmstadt 98,FC Augsburg,2,2,D,2015/2016
+FC Schalke 04,Borussia Mönchengladbach,2,1,H,2015/2016
+VfL Wolfsburg,SV Darmstadt 98,1,1,D,2015/2016
+Hamburger SV,TSG 1899 Hoffenheim,1,3,A,2015/2016
+VfB Stuttgart,Bayer 04 Leverkusen,0,2,A,2015/2016
+FC Augsburg,Borussia Dortmund,1,3,A,2015/2016
+SV Werder Bremen,1. FSV Mainz 05,1,1,D,2015/2016
+Eintracht Frankfurt,Hannover 96,1,0,H,2015/2016
+1. FC Köln,FC Bayern Munich,0,1,A,2015/2016
+Hertha BSC Berlin,FC Ingolstadt 04,2,1,H,2015/2016
+FC Bayern Munich,Eintracht Frankfurt,1,0,H,2015/2016
+Borussia Dortmund,SV Werder Bremen,3,2,H,2015/2016
+Bayer 04 Leverkusen,VfL Wolfsburg,3,0,H,2015/2016
+Borussia Mönchengladbach,Hertha BSC Berlin,5,0,H,2015/2016
+Hannover 96,Hamburger SV,0,3,A,2015/2016
+TSG 1899 Hoffenheim,1. FC Köln,1,1,D,2015/2016
+1. FSV Mainz 05,FC Augsburg,4,2,H,2015/2016
+FC Ingolstadt 04,FC Schalke 04,3,0,H,2015/2016
+SV Darmstadt 98,VfB Stuttgart,2,2,D,2015/2016
+FC Schalke 04,Borussia Dortmund,2,2,D,2015/2016
+VfL Wolfsburg,1. FSV Mainz 05,1,1,D,2015/2016
+Hamburger SV,SV Darmstadt 98,1,2,A,2015/2016
+VfB Stuttgart,FC Bayern Munich,1,3,A,2015/2016
+SV Werder Bremen,FC Augsburg,1,2,A,2015/2016
+Eintracht Frankfurt,TSG 1899 Hoffenheim,0,2,A,2015/2016
+1. FC Köln,Bayer 04 Leverkusen,0,2,A,2015/2016
+Hertha BSC Berlin,Hannover 96,2,2,D,2015/2016
+FC Ingolstadt 04,Borussia Mönchengladbach,1,0,H,2015/2016
+FC Bayern Munich,Bayer 04 Leverkusen,3,0,H,2015/2016
+Borussia Dortmund,Hertha BSC Berlin,3,1,H,2015/2016
+VfL Wolfsburg,FC Schalke 04,3,0,H,2015/2016
+VfB Stuttgart,Eintracht Frankfurt,1,4,A,2015/2016
+FC Augsburg,FC Ingolstadt 04,0,1,A,2015/2016
+SV Werder Bremen,Borussia Mönchengladbach,2,1,H,2015/2016
+1. FC Köln,Hamburger SV,2,1,H,2015/2016
+1. FSV Mainz 05,Hannover 96,3,0,H,2015/2016
+SV Darmstadt 98,TSG 1899 Hoffenheim,0,0,D,2015/2016
+FC Bayern Munich,FC Schalke 04,3,0,H,2015/2016
+Borussia Dortmund,Hamburger SV,3,0,H,2015/2016
+Bayer 04 Leverkusen,Eintracht Frankfurt,3,0,H,2015/2016
+FC Augsburg,VfB Stuttgart,1,0,H,2015/2016
+SV Werder Bremen,VfL Wolfsburg,3,2,H,2015/2016
+Hannover 96,Borussia Mönchengladbach,2,0,H,2015/2016
+TSG 1899 Hoffenheim,Hertha BSC Berlin,2,1,H,2015/2016
+1. FSV Mainz 05,1. FC Köln,2,3,A,2015/2016
+SV Darmstadt 98,FC Ingolstadt 04,2,0,H,2015/2016
+FC Schalke 04,Bayer 04 Leverkusen,2,3,A,2015/2016
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,3,1,H,2015/2016
+VfL Wolfsburg,FC Augsburg,0,2,A,2015/2016
+Hamburger SV,SV Werder Bremen,2,1,H,2015/2016
+VfB Stuttgart,Borussia Dortmund,0,3,A,2015/2016
+Eintracht Frankfurt,1. FSV Mainz 05,2,1,H,2015/2016
+1. FC Köln,SV Darmstadt 98,4,1,H,2015/2016
+Hertha BSC Berlin,FC Bayern Munich,0,2,A,2015/2016
+FC Ingolstadt 04,Hannover 96,2,2,D,2015/2016
+FC Bayern Munich,Borussia Mönchengladbach,1,1,D,2015/2016
+Borussia Dortmund,VfL Wolfsburg,5,1,H,2015/2016
+Bayer 04 Leverkusen,Hertha BSC Berlin,2,1,H,2015/2016
+FC Augsburg,1. FC Köln,0,0,D,2015/2016
+SV Werder Bremen,VfB Stuttgart,6,2,H,2015/2016
+Hannover 96,FC Schalke 04,1,3,A,2015/2016
+TSG 1899 Hoffenheim,FC Ingolstadt 04,2,1,H,2015/2016
+1. FSV Mainz 05,Hamburger SV,0,0,D,2015/2016
+SV Darmstadt 98,Eintracht Frankfurt,1,2,A,2015/2016
+FC Schalke 04,FC Augsburg,1,1,D,2015/2016
+Borussia Mönchengladbach,Bayer 04 Leverkusen,2,1,H,2015/2016
+Hamburger SV,VfL Wolfsburg,0,1,A,2015/2016
+VfB Stuttgart,1. FSV Mainz 05,1,3,A,2015/2016
+Eintracht Frankfurt,Borussia Dortmund,1,0,H,2015/2016
+1. FC Köln,SV Werder Bremen,0,0,D,2015/2016
+Hannover 96,TSG 1899 Hoffenheim,1,0,H,2015/2016
+Hertha BSC Berlin,SV Darmstadt 98,1,2,A,2015/2016
+FC Ingolstadt 04,FC Bayern Munich,1,2,A,2015/2016
+FC Bayern Munich,Hannover 96,3,1,H,2015/2016
+Borussia Dortmund,1. FC Köln,2,2,D,2015/2016
+Bayer 04 Leverkusen,FC Ingolstadt 04,3,2,H,2015/2016
+VfL Wolfsburg,VfB Stuttgart,3,1,H,2015/2016
+FC Augsburg,Hamburger SV,1,3,A,2015/2016
+SV Werder Bremen,Eintracht Frankfurt,1,0,H,2015/2016
+TSG 1899 Hoffenheim,FC Schalke 04,1,4,A,2015/2016
+1. FSV Mainz 05,Hertha BSC Berlin,0,0,D,2015/2016
+SV Darmstadt 98,Borussia Mönchengladbach,0,2,A,2015/2016
+FC Bayern Munich,FC Augsburg,2,1,H,2015/2016
+FC Schalke 04,1. FSV Mainz 05,2,1,H,2015/2016
+Bayer 04 Leverkusen,SV Darmstadt 98,0,1,A,2015/2016
+Borussia Mönchengladbach,Hamburger SV,0,3,A,2015/2016
+Eintracht Frankfurt,1. FC Köln,6,2,H,2015/2016
+Hannover 96,Borussia Dortmund,2,4,A,2015/2016
+Hertha BSC Berlin,VfB Stuttgart,2,1,H,2015/2016
+TSG 1899 Hoffenheim,SV Werder Bremen,1,3,A,2015/2016
+FC Ingolstadt 04,VfL Wolfsburg,0,0,D,2015/2016
+Borussia Dortmund,Bayer 04 Leverkusen,3,0,H,2015/2016
+VfL Wolfsburg,Hertha BSC Berlin,2,0,H,2015/2016
+Hamburger SV,Eintracht Frankfurt,0,0,D,2015/2016
+VfB Stuttgart,FC Schalke 04,0,1,A,2015/2016
+FC Augsburg,Hannover 96,2,0,H,2015/2016
+SV Werder Bremen,FC Ingolstadt 04,0,1,A,2015/2016
+1. FC Köln,Borussia Mönchengladbach,1,0,H,2015/2016
+1. FSV Mainz 05,TSG 1899 Hoffenheim,3,1,H,2015/2016
+SV Darmstadt 98,FC Bayern Munich,0,3,A,2015/2016
+FC Bayern Munich,VfL Wolfsburg,5,1,H,2015/2016
+FC Schalke 04,Eintracht Frankfurt,2,0,H,2015/2016
+Bayer 04 Leverkusen,1. FSV Mainz 05,1,0,H,2015/2016
+Borussia Mönchengladbach,FC Augsburg,4,2,H,2015/2016
+Hannover 96,VfB Stuttgart,1,3,A,2015/2016
+Hertha BSC Berlin,1. FC Köln,2,0,H,2015/2016
+TSG 1899 Hoffenheim,Borussia Dortmund,1,1,D,2015/2016
+FC Ingolstadt 04,Hamburger SV,0,1,A,2015/2016
+SV Darmstadt 98,SV Werder Bremen,2,1,H,2015/2016
+Borussia Dortmund,SV Darmstadt 98,2,2,D,2015/2016
+VfL Wolfsburg,Hannover 96,1,1,D,2015/2016
+Hamburger SV,FC Schalke 04,0,1,A,2015/2016
+VfB Stuttgart,Borussia Mönchengladbach,1,3,A,2015/2016
+FC Augsburg,TSG 1899 Hoffenheim,1,3,A,2015/2016
+SV Werder Bremen,Bayer 04 Leverkusen,0,3,A,2015/2016
+Eintracht Frankfurt,Hertha BSC Berlin,1,1,D,2015/2016
+1. FC Köln,FC Ingolstadt 04,1,1,D,2015/2016
+1. FSV Mainz 05,FC Bayern Munich,0,3,A,2015/2016
+FC Bayern Munich,Borussia Dortmund,5,1,H,2015/2016
+FC Schalke 04,1. FC Köln,0,3,A,2015/2016
+Bayer 04 Leverkusen,FC Augsburg,1,1,D,2015/2016
+Borussia Mönchengladbach,VfL Wolfsburg,2,0,H,2015/2016
+Hannover 96,SV Werder Bremen,1,0,H,2015/2016
+Hertha BSC Berlin,Hamburger SV,3,0,H,2015/2016
+TSG 1899 Hoffenheim,VfB Stuttgart,2,2,D,2015/2016
+FC Ingolstadt 04,Eintracht Frankfurt,2,0,H,2015/2016
+SV Darmstadt 98,1. FSV Mainz 05,2,3,A,2015/2016
+FC Schalke 04,Hertha BSC Berlin,2,1,H,2015/2016
+VfL Wolfsburg,TSG 1899 Hoffenheim,4,2,H,2015/2016
+Hamburger SV,Bayer 04 Leverkusen,0,0,D,2015/2016
+VfB Stuttgart,FC Ingolstadt 04,1,0,H,2015/2016
+FC Augsburg,SV Darmstadt 98,0,2,A,2015/2016
+SV Werder Bremen,FC Bayern Munich,0,1,A,2015/2016
+Eintracht Frankfurt,Borussia Mönchengladbach,1,5,A,2015/2016
+1. FC Köln,Hannover 96,0,1,A,2015/2016
+1. FSV Mainz 05,Borussia Dortmund,0,2,A,2015/2016

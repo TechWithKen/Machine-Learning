@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Loading all data from the sql database
+# Loading all necessary data from the sql database {Each of this are represented as a table in the sql database.}
 
 database_connection = sqlite3.connect("database.sqlite")
 match_dataframe = pd.read_sql_query("SELECT * FROM Match", database_connection)
@@ -14,7 +14,6 @@ league_dataframe = pd.read_sql_query("SELECT * FROM League", database_connection
 country_dataframe = pd.read_sql_query("SELECT * FROM Country", database_connection)
 team_dataframe = pd.read_sql_query("SELECT * FROM Team", database_connection)
 team_attributes_dataframe = pd.read_sql_query("SELECT * FROM Team_Attributes", database_connection)
-sqlite_sequence = pd.read_sql_query("SELECT * FROM sqlite_sequence", database_connection)
 
 
 # Filter the data and convert it to an to return just important data for each league table.
@@ -67,7 +66,6 @@ def generate_league_csv_data():
     return "League CSV Data Successfully created!"
 
 
-
 def extract_goals_from_xml(goal_xml):
     """
     Parse the <goal> XML string and return a list of goal events.
@@ -94,8 +92,6 @@ def extract_goals_from_xml(goal_xml):
     return goal_events
 
 
-
-
 def get_season_and_league():
     leagues = league_dataframe[["name"]].to_dict()["name"]
     season_options = input(f"Please select a season from the seasons: {match_dataframe["season"].unique().tolist()}: ")
@@ -104,15 +100,16 @@ def get_season_and_league():
     country_id = league_dataframe.loc[league_dataframe["name"] == leagues[league_selection]]["country_id"].iloc[0]
 
     matches_scored = match_dataframe.loc[(match_dataframe["season"] == season_options) &
-                                         (match_dataframe["country_id"] == country_id)]
+                                         (match_dataframe["country_id"] == country_id)] # Selection of the season and league occurs here
     
-    matches_scored = matches_scored.dropna(subset=["goal"])
+    matches_scored = matches_scored.dropna(subset=["goal"]) # droping all the matches that no goal was scored, to make cleaning easier.
     matches_scored["Goal Information"] = matches_scored["goal"].apply(extract_goals_from_xml)
     matches_scored = matches_scored.explode("Goal Information")
 
     return matches_scored
 
 
+#  Extracting a dataframe from the goal xml that was provided.
 def get_scorer_from_series():
 
     matches_with_goals = get_season_and_league()
@@ -127,6 +124,7 @@ def get_scorer_from_series():
     return goals_flat
 
 
+#  Getting the assists for the player.
 def get_assists(goals_assist_dataframe):
     assists_dataframe = goals_assist_dataframe.copy()
     assists_dataframe.dropna(subset=["assister"], inplace=True)
@@ -145,7 +143,9 @@ def get_assists(goals_assist_dataframe):
     return assister_team
 
 
-def goal_derivation(goals_assist_dataframe):
+
+# Getting the assists for the player for each league.
+def get_goals(goals_assist_dataframe):
 
     player_team = goals_assist_dataframe.groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
     player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
@@ -154,7 +154,7 @@ def goal_derivation(goals_assist_dataframe):
     player_team["team_api_id"] = player_team["team_api_id"].astype("int64")
 
     player_team = pd.merge(player_team, team_dataframe, on="team_api_id", how="left")
-    player_team = player_team[["player_name", "team_long_name", "goals"]].sort_values(by="goals", ascending=False).head(30)
+    player_team = player_team[["player_name", "team_long_name", "goals"]].sort_values(by="goals", ascending=False)
 
 
     return player_team
@@ -202,8 +202,8 @@ def convert_pie_chart(goals_or_assists):
         startangle=140
     )
 
-    plt.title("Goal Distribution of Top 10 Scorers", fontsize=14)
-    plt.axis('equal')  # Makes the pie a circle
+    plt.title("Goal Distribution of Top 10 columns[2]", fontsize=14)
+    plt.axis('equal')
 
     plt.tight_layout()
     plt.show()
@@ -212,9 +212,9 @@ def convert_pie_chart(goals_or_assists):
 def get_goals_or_assists():
     goal_assist = int(input("Select an Option, do you want to get goals or assists for the season(1: Goals, 2: assists): "))
     if goal_assist == 1: 
-        return get_assists(get_scorer_from_series())
+        return get_goals(get_scorer_from_series())
     elif goal_assist == 2:
-        return goal_derivation(get_scorer_from_series())
+        return get_assists(get_scorer_from_series())
     
     else:
         return "Selected option is not available, please try again later"

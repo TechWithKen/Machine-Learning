@@ -145,9 +145,9 @@ def get_assists(goals_assist_dataframe):
     return assister_team
 
 
-def goal_derivation():
+def goal_derivation(goals_assist_dataframe):
 
-    player_team = get_scorer_from_series().groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
+    player_team = goals_assist_dataframe.groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
     player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
 
     player_team = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
@@ -161,7 +161,7 @@ def goal_derivation():
 
 
 
-def convert_to_graph(goals_or_assists):
+def convert_bar_chart(goals_or_assists):
 
     columns = goals_or_assists.columns.unique().tolist()
     top10 = goals_or_assists.head(10)  # Extracting out only the top 10 in the table.
@@ -209,14 +209,25 @@ def convert_pie_chart(goals_or_assists):
     plt.show()
 
 
+def get_goals_or_assists():
+    goal_assist = int(input("Select an Option, do you want to get goals or assists for the season(1: Goals, 2: assists): "))
+    if goal_assist == 1: 
+        return get_assists(get_scorer_from_series())
+    elif goal_assist == 2:
+        return goal_derivation(get_scorer_from_series())
+    
+    else:
+        return "Selected option is not available, please try again later"
+
+
 def bar_or_piechart():
     bar_pie = int(input("Please do you want to get the visual representation of the goals as a pie chart or a bar chart (Press 1 for bar and 2 for pie): "))
 
     if bar_pie == 1:
-        return convert_to_graph(goal_derivation())
+        return convert_bar_chart(get_goals_or_assists())
 
     elif bar_pie == 2:
-        return convert_pie_chart(goal_derivation())
+        return convert_pie_chart(get_goals_or_assists())
 
     else: 
         return "Option does not exist please try again later."

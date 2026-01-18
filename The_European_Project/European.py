@@ -17,7 +17,6 @@ team_attributes_dataframe = pd.read_sql_query("SELECT * FROM Team_Attributes", d
 sqlite_sequence = pd.read_sql_query("SELECT * FROM sqlite_sequence", database_connection)
 
 
-
 # Filter the data and convert it to an to return just important data for each league table.
 def generate_league_results_from_matches(country):
 
@@ -89,10 +88,12 @@ def extract_goals_from_xml(goal_xml):
         goal_events.append({
             "player_api_id": scorer,
             "team_api_id": team_id, 
-            # "assister": assister,
+            "assister": assister,
         })
         
     return goal_events
+
+
 
 
 def get_season_and_league():
@@ -126,16 +127,18 @@ def get_scorer_from_series():
     return goals_flat
 
 
+def get_assists(goals_assist_dataframe):
+    assists_dataframe = goals_assist_dataframe.copy()
+    
 
+    pass
 def goal_derivation():
 
     player_team = get_scorer_from_series().groupby(["player_api_id", "team_api_id"]).size().reset_index(name="goals")
     player_team["player_api_id"] = player_team["player_api_id"].astype("int64")
 
-
     player_team = pd.merge(player_team, player_dataframe, on="player_api_id", how="left")
     player_team["team_api_id"] = player_team["team_api_id"].astype("int64")
-
 
     player_team = pd.merge(player_team, team_dataframe, on="team_api_id", how="left")
     player_team = player_team[["player_name", "team_long_name", "goals"]].sort_values(by="goals", ascending=False).head(30)
@@ -168,9 +171,8 @@ def convert_to_graph(goal_scoring_table):
     plt.show()
 
 
-
-def convert_pie_chart():
-    top10 = goal_derivation().head(10)
+def convert_pie_chart(goal_scoring_table):
+    top10 = goal_scoring_table.head(10)
 
     labels = top10["player_name"]
     sizes = top10["goals"]
@@ -191,6 +193,19 @@ def convert_pie_chart():
     plt.show()
 
 
-print(convert_to_graph(goal_derivation()))
-print(convert_pie_chart())
+def bar_or_piechart():
+    bar_pie = int(input("Please do you want to get the visual representation of the goals as a pie chart or a bar chart (Press 1 for bar and 2 for pie): "))
+
+    if bar_pie == 1:
+        return convert_to_graph(goal_derivation())
+
+    elif bar_pie == 2:
+        return convert_pie_chart(goal_derivation())
+
+    else: 
+        return "Option does not exist please try again later."
+
+
+if __name__ == "__main__":
+    print(bar_or_piechart())
 

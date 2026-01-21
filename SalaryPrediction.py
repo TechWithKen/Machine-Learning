@@ -37,11 +37,13 @@ pipeline = Pipeline(steps=[
 ])
 
 
-
 pipeline.fit(X_train, y_train)
 
 prediction = pipeline.predict(X_test)
 
 print(prediction)
 print(pipeline.score(X_test, y_test))
+
+
+## Model Accuracy, 59%
 

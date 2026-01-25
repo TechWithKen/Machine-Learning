@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, MaxAbsScaler
-from sklearn.metrics import mean_absolute_error, mean_squared_error
+from sklearn.metrics import mean_absolute_error, mean_squared_error, accuracy_score
 from category_encoders import TargetEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
@@ -47,6 +47,8 @@ def preprocess_data():
 
 def model_training():
     preprocessed_data = preprocess_data()
+    y_test = preprocessed_data["y_test"]
+    print(y_test)
     pipeline = Pipeline(steps=[
         ("preprocess", preprocessed_data["preprocess"]),
         ("model", LinearRegression()),
@@ -59,6 +61,7 @@ def model_training():
 
     print(F"Predictions: - {prediction}\n")
     print(F"Accuracy = {pipeline.score(preprocessed_data["X_test"], preprocessed_data["y_test"]) * 100:.2f}% ")
-
+    print(mean_squared_error(y_test, prediction))
+    print(mean_absolute_error(y_test, prediction))
 
 model_training()

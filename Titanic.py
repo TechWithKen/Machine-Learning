@@ -6,9 +6,12 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.linear_model import LogisticRegression
 from sklearn.impute import SimpleImputer
 
-titanic_ship = pd.read_csv("./train.csv")
-survived = titanic_ship["Survived"]
-titanic_ship.drop(columns=["Survived","PassengerId", "Name", "Ticket", "Fare", "Cabin"], inplace=True)
+
+def titanic_data():
+    titanic_ship = pd.read_csv("./train.csv")
+    survived = titanic_ship["Survived"]
+    titanic_ship.drop(columns=["Survived","PassengerId", "Name", "Ticket", "Fare", "Cabin"], inplace=True)
+
 
 
 category_feature = ["Sex", "Embarked"]

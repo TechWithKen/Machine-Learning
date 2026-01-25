@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, StandardScaler
+from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, MaxAbsScaler
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from category_encoders import TargetEncoder
 from sklearn.compose import ColumnTransformer
@@ -9,12 +9,14 @@ from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 
 
+
+
 def get_salary():
 
     salary_dataset = pd.read_csv("./ds_salaries.csv")
     salary_dataset = salary_dataset.drop_duplicates()
     salary = np.log1p(salary_dataset["salary_in_usd"]) #Convert the salary to logarithm, so the difference between a large and medium price won't be large.
-    salary_dataset = salary_dataset[['experience_level','job_title', 'company_location', "employment_type", "remote_ratio", "company_size"]]
+    salary_dataset = salary_dataset[['experience_level','job_title', 'company_location', "employment_type", "company_size"]]
     
     return {"salary_dataset": salary_dataset, "salary": salary}
 
@@ -29,7 +31,7 @@ def preprocess_data():
     ordinal_feature = [["S", "M", "L"]]
     column = ["company_size"]
     target_cols = ["job_title", "company_location"]
-    numeric = ["experience_level"]
+
 
 
     preprocess = ColumnTransformer(transformers=[

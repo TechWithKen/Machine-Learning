@@ -30,7 +30,7 @@ preprocessing = ColumnTransformer(transformers=[("cat", Pipeline(steps=[("impute
 
 pipeline = Pipeline(steps=[
     ("preprocess", preprocessing),
-    ("model", LogisticRegression(max_iter=1000))
+    ("model", LogisticRegression(max_iter=1000, class_weight="balanced"))
 ])
 
 pipeline.fit(adult_dataset, fifty_k)

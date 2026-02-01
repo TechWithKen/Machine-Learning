@@ -55,8 +55,6 @@ process = Pipeline(steps=[
     ("model", stacked_model)
 ])
 
-
-
 process.fit(X, y)
 prediction = process.predict(X_test)
 print(accuracy_score(y_test, prediction))

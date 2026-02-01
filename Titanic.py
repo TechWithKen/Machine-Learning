@@ -26,7 +26,7 @@ category_feature = ["Sex", "Embarked"]
 target_features = ["Cabin"]
 num_features = ["Pclass", "Age", "SibSp", "Parch", "Fare"]
 
-# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=42)
 preprocessing = ColumnTransformer(transformers=[
     ("cat", Pipeline(steps=[("imputer", SimpleImputer(strategy="most_frequent")),
                     ("encoder", OneHotEncoder(drop="first", sparse_output=False))]), category_feature),
@@ -58,24 +58,24 @@ process = Pipeline(steps=[
 
 
 process.fit(X, y)
-# prediction = process.predict(X_test)
-# print(accuracy_score(y_test, prediction))
-# print(precision_score(y_test, prediction))
-# print(recall_score(y_test, prediction))
-# print(f1_score(y_test, prediction))
-# print(roc_auc_score(y_test, prediction))
+prediction = process.predict(X_test)
+print(accuracy_score(y_test, prediction))
+print(precision_score(y_test, prediction))
+print(recall_score(y_test, prediction))
+print(f1_score(y_test, prediction))
+print(roc_auc_score(y_test, prediction))
 
 
-titanic_test = pd.read_csv("./test.csv")
-passenger_id = titanic_test["PassengerId"]
-titanic_test.drop(columns=["PassengerId", "Name", "Ticket"], inplace=True)
+# titanic_test = pd.read_csv("./test.csv")
+# passenger_id = titanic_test["PassengerId"]
+# titanic_test.drop(columns=["PassengerId", "Name", "Ticket"], inplace=True)
 
-survived_passengers = process.predict(titanic_test)
+# survived_passengers = process.predict(titanic_test)
 
-new_titanic_data = pd.DataFrame(survived_passengers)
-new_titanic_data = pd.concat([passenger_id, new_titanic_data], axis=1)
-new_titanic_data.rename(columns={0: "Survived"}, inplace=True)
-new_titanic_data = new_titanic_data.to_csv("titan.csv", index=False)
+# new_titanic_data = pd.DataFrame(survived_passengers)
+# new_titanic_data = pd.concat([passenger_id, new_titanic_data], axis=1)
+# new_titanic_data.rename(columns={0: "Survived"}, inplace=True)
+# new_titanic_data = new_titanic_data.to_csv("titan.csv", index=False)
     
 
 
